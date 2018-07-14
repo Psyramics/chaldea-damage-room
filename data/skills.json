@@ -3,6 +3,7 @@
     [
       effect: 'Attack Up',
       target: 'allies',
+	  condition: true,
       duration: 3,
       cd: 7,
       mag: [
@@ -24,6 +25,7 @@
       effect: 'Buster Up',
       target: 'self',
       duration: 1,
+	  condition: true,
       cd: 7,
       mag: [
         0.3,
@@ -44,6 +46,7 @@
       effect: 'Gain Stars',
       target: 'global',
       duration: 0,
+	  condition: true,
       cd: 7,
       mag: [
         5,
