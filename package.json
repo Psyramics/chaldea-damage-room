@@ -1,0 +1,24 @@
+{
+  "name": "chaldea-damage-room",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-run": "^0.8.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Psyramics/chaldea-damage-room.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Psyramics/chaldea-damage-room/issues"
+  },
+  "homepage": "https://github.com/Psyramics/chaldea-damage-room#readme"
+}
