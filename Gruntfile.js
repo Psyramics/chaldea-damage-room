@@ -53,13 +53,66 @@ module.exports = function (grunt) {
 
 		// These are maps of Japanese to English
 		var names = fs.readFileSync('translations/names.json').toJSON(),
-		    traits = fs.readFileSync('translations/traits.json').toJSON();
+		    traits = fs.readFileSync('translations/traits.json').toJSON(),
+			skills = fs.readFileSync('translations/skills.json').toJSON(),
+			np = fs.readFileSync('translations/np.json').toJSON();
 			
 		// Collating Servant Data
 		var rawSvt = sandbox.master.mstSvt;
 		var servants = {};
+		function servantStats(uid) {
+			var limits = sandbox.master.mstSvtLimit;
+			for (var i = 0, l = limits.length; i < l; i++) {
+				if (limits[i].svtId == uid) {
+					return limits[i];
+				}
+			}
+		}
+		
+		function servantUlts(uid) {
+			var ultList = sandbox.master.mstSvtTreasureDevice,
+				ults = [];
+			for (var i = 0, l = ultList.length; i < l; i++) {
+				if (ultList[i].svtId == uid) {
+					var ultData = ultList[i], 
+					  ult = {};
+					
+					
+					ults.push(ult);
+				}
+			}
+			return ults;
+		}
+		
+		function getUltData(ultId) {
+			var ultList = sandbox.master.mstTreasureDevice;
+			for (var i = 0, l = ultList.length; i < l; i++) {
+				if (ultList[i].id == ultId) {
+					
+				}
+			}
+		}
+		
 		for (i = 0, l = rawSvt.length; i < l; i++) {
-			var serv = rawSvt[i];
+			if (rawSvt[i].type == 1) {
+				var serv = rawSvt[i],
+					servStats = servantStats(serv.id),
+					data = {
+						uid: serv.id,
+						id: serv.collectionNo,
+						name: serv.name,
+						classId: serv.classId,
+						gender: serv.gender,
+						attribute: serv.attri,
+						cost: serv.cost,
+						starRate: serv.starrate,
+						hpBase: servStats.hpBase,
+						hpMax: servStats.hpMax,
+						atkBase: servStats.atkBase,
+						atkMax: servStats.atkMax,
+						
+					};
+			}
 		}
 	});
 }
