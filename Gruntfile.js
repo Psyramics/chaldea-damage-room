@@ -176,7 +176,30 @@ module.exports = function (grunt) {
     }
     
     function servantSkills(servId) {
-      var svtSkills = sandbox.master.mstSvtSkill;
+      var svtSkills = sandbox.master.mstSvtSkill,
+          skillNames = sandbox.master.mstSkill;
+      var skill = {
+        "1": [],
+        "2": [],
+        "3": []
+      };
+      for (var i = 0, l = svtSkills.length; i < l; i++) {
+        if (svtSkills[i].svtId == servId) {
+          var skill = {},
+              name = skillNames.find(function (el) {
+                return svtSkills[i].skillId = el.id;
+              }),
+              skDeets = master.skDetail.find(function el) {
+                return el[0] == svtSkills[i].skillId;
+              });
+            
+          skill.name = getLocalName("skills", name.name);
+          skill.icon = name.icon;
+          
+          skill.details = getLocalName("skillDetails", skDeets[1]);
+          
+        }
+      }
     }
     
     for (i = 0, l = rawSvt.length; i < l; i++) {
