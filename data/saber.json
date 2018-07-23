@@ -1,18 +1,6 @@
 {
   '2': {
     name: 'Altria Pendragon',
-    atkFormula: {
-      "MULT": {
-        "level",
-        106.60
-      }
-    },
-    hpFormula: {
-      "MULT": {
-        "level",
-        145.25
-      }
-    },
     npGainAtk: 0.0086,
     npGainDef: .03,
     starWeight: 102,
