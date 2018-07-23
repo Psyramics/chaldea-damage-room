@@ -24,12 +24,17 @@ module.exports = function (grunt) {
 		// these are necessary functions for the data file to load
 		vm.runInNewContext(fs.readFileSync('../fgo-vz/common/js/lz-string.min.js'), sandbox);
 		vm.runInNewContext(fs.readFileSync('../fgo-vz/common/js/sidebar.js'), sandbox);
+        vm.runInNewContext(fs.readFileSync('../fgo-vz/common/js/transData.js'), sandbox);
 		var contents = fs.readFileSync(src_path);
 		
 		vm.runInNewContext(contents, sandbox);
+        if (!fs.existsSync('raw')) {
+            fs.mkdirSync('raw');
+        }
 		for (var k in sandbox.master) {
-			fs.writeFileSync('raw/'+k+'.txt', JSON.stringify(sandbox.master[k]));
+			fs.writeFileSync('raw/'+k+'.txt', JSON.stringify(sandbox.master[k], null, 2));
 		}
+        fs.writeFileSync('raw/tdDetail.txt', JSON.stringify(sandbox.tdDetail, null, 2));
 		
 		var extras = fs.readFileSync('../fgo-vz/common/js/svtData.js');
 		sandbox.sortByElmentNo = function () {
@@ -55,7 +60,8 @@ module.exports = function (grunt) {
 		var names = fs.readFileSync('translations/names.json').toJSON(),
 		    traits = fs.readFileSync('translations/traits.json').toJSON(),
 			skills = fs.readFileSync('translations/skills.json').toJSON(),
-			np = fs.readFileSync('translations/np.json').toJSON();
+			np = fs.readFileSync('translations/np.json').toJSON(),
+            npDesc = fs.readFileSync('translations/npDesc.json').toJSON();
 			
 		// Collating Servant Data
 		var rawSvt = sandbox.master.mstSvt;
@@ -83,6 +89,40 @@ module.exports = function (grunt) {
 			}
 			return ults;
 		}
+        
+        function servantUltDetail(ultid) {
+            var data = sandbox.tdDetail;
+            for (var i = 0, l = data.length; i < l; i++) {
+                if (data[i][0] == ultid) {
+                    var output = {
+                        desc: data[i][1]
+                    };
+                    for (var j = 2; j < 6; j++) {
+                        if (data[i][j] != "") {
+                            var key = "effect"+((j-2).toString()),
+                                frag = data[i][j].split("/");
+                            if (frag.length == 1) {
+                                output[key] = data[i][j];
+                            }
+                            else {
+                                var vals = [];
+                                for (var k = 0; k < frag.length; k++) {
+                                    if (frag[k].endsWith('%')) {
+                                        vals.push(frag[k].replace('%', '') / 100);
+                                    }
+                                    else {
+                                        vals.push(frag[k]);
+                                    }
+                                }
+                                output[key] = vals;
+                            }
+                        }
+                    }
+                    
+                    return output;
+                }
+            }
+        }
 		
 		function getUltData(ultId) {
 			var ultList = sandbox.master.mstTreasureDevice;
