@@ -1,0 +1,11348 @@
+{
+  "0": {
+    "uid": 600710,
+    "id": 0,
+    "name": "ヘンリー・ジキル＆ハイド",
+    "classId": 7,
+    "gender": "男性",
+    "attribute": "地",
+    "personality": "惡",
+    "policy": "混沌",
+    "cost": 7,
+    "hpBase": 1546,
+    "hpMax": 8592,
+    "atkBase": 1402,
+    "atkMax": 7551,
+    "np": [
+      "密やかなる罪の遊戯 C",
+      "密やかなる罪の遊戯 C+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "狂化 A"
+    ],
+    "npGainAtk": 0.0102,
+    "npGainDef": 0.05,
+    "skill1": [
+      "怪力 B"
+    ],
+    "skill2": [
+      "恐慌の声 A"
+    ],
+    "skill3": [
+      "自己改造 D"
+    ]
+  },
+  "2": {
+    "uid": 100100,
+    "id": 2,
+    "name": "アルトリア・ペンドラゴン",
+    "classId": 1,
+    "gender": "女性",
+    "attribute": "地",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 16,
+    "hpBase": 2222,
+    "hpMax": 15150,
+    "atkBase": 1734,
+    "atkMax": 11221,
+    "np": [
+      "約束された勝利の剣 A",
+      "約束された勝利の剣 A++"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "龍",
+      "阿爾托莉亞臉",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      null,
+      "亞瑟",
+      "王"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 A",
+      "騎乗 B"
+    ],
+    "npGainAtk": 0.0086,
+    "npGainDef": 0.03,
+    "skill1": [
+      "カリスマ B"
+    ],
+    "skill2": [
+      "魔力放出 A"
+    ],
+    "skill3": [
+      "直感 A"
+    ]
+  },
+  "3": {
+    "uid": 100200,
+    "id": 3,
+    "name": "アルトリア・ペンドラゴン〔オルタ〕",
+    "classId": 1,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "惡",
+    "policy": "秩序",
+    "cost": 12,
+    "hpBase": 1854,
+    "hpMax": 11589,
+    "atkBase": 1708,
+    "atkMax": 10248,
+    "np": [
+      "約束された勝利の剣 A++"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "龍",
+      "阿爾托莉亞臉",
+      "被「天地乖離開辟之星」所剋",
+      null,
+      "亞瑟",
+      "王"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 B"
+    ],
+    "npGainAtk": 0.0086,
+    "npGainDef": 0.03,
+    "skill1": [
+      "魔力放出 A"
+    ],
+    "skill2": [
+      "直感 B"
+    ],
+    "skill3": [
+      "カリスマ E"
+    ]
+  },
+  "4": {
+    "uid": 100300,
+    "id": 4,
+    "name": "アルトリア・ペンドラゴン〔リリィ〕",
+    "classId": 1,
+    "gender": "女性",
+    "attribute": "地",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 12,
+    "hpBase": 1699,
+    "hpMax": 10623,
+    "atkBase": 1287,
+    "atkMax": 7726,
+    "np": [
+      "勝利すべき黄金の剣 B",
+      "勝利すべき黄金の剣 B+"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "龍",
+      "阿爾托莉亞臉",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      null,
+      "亞瑟",
+      "王"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 B",
+      "騎乗 C"
+    ],
+    "npGainAtk": 0.0086,
+    "npGainDef": 0.03,
+    "skill1": [
+      "直感 B"
+    ],
+    "skill2": [
+      "魔力放出 A"
+    ],
+    "skill3": [
+      "花の旅路 EX"
+    ]
+  },
+  "5": {
+    "uid": 100500,
+    "id": 5,
+    "name": "ネロ・クラウディウス",
+    "classId": 1,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "善",
+    "policy": "混沌",
+    "cost": 12,
+    "hpBase": 1880,
+    "hpMax": 11753,
+    "atkBase": 1574,
+    "atkMax": 9449,
+    "np": [
+      "童女謳う華の帝政 B-",
+      "童女謳う華の帝政 B"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "羅馬",
+      "阿爾托莉亞臉",
+      "被「天地乖離開辟之星」所剋",
+      null,
+      "王"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 C",
+      "騎乗 B"
+    ],
+    "npGainAtk": 0.0084,
+    "npGainDef": 0.03,
+    "skill1": [
+      "頭痛持ち B"
+    ],
+    "skill2": [
+      "皇帝特権 EX"
+    ],
+    "skill3": [
+      "三度、落陽を迎えても A"
+    ]
+  },
+  "6": {
+    "uid": 100800,
+    "id": 6,
+    "name": "ジークフリート",
+    "classId": 1,
+    "gender": "男性",
+    "attribute": "地",
+    "personality": "善",
+    "policy": "混沌",
+    "cost": 12,
+    "hpBase": 2266,
+    "hpMax": 14165,
+    "atkBase": 1363,
+    "atkMax": 8181,
+    "np": [
+      "幻想大剣・天魔失墜 A+",
+      "幻想大剣・天魔失墜 EX"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "龍",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      null,
+      "愛人",
+      "王"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "騎乗 B"
+    ],
+    "npGainAtk": 0.0083,
+    "npGainDef": 0.03,
+    "skill1": [
+      "黄金律 C-"
+    ],
+    "skill2": [
+      "仕切り直し A"
+    ],
+    "skill3": [
+      "竜殺し A",
+      "竜殺し A++"
+    ]
+  },
+  "7": {
+    "uid": 101300,
+    "id": 7,
+    "name": "ガイウス・ユリウス・カエサル",
+    "classId": 1,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "中庸",
+    "policy": "中立",
+    "cost": 7,
+    "hpBase": 1727,
+    "hpMax": 9595,
+    "atkBase": 1392,
+    "atkMax": 7497,
+    "np": [
+      "黄の死 B+"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "神性",
+      null,
+      "羅馬",
+      "被「天地乖離開辟之星」所剋",
+      null,
+      "愛人",
+      "王"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 C",
+      "騎乗 B",
+      "神性 D"
+    ],
+    "npGainAtk": 0.011,
+    "npGainDef": 0.03,
+    "skill1": [
+      "軍略 B"
+    ],
+    "skill2": [
+      "カリスマ C"
+    ],
+    "skill3": [
+      "扇動 EX",
+      "扇動 EX"
+    ]
+  },
+  "8": {
+    "uid": 101800,
+    "id": 8,
+    "name": "アルテラ",
+    "classId": 1,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "善",
+    "policy": "混沌",
+    "cost": 16,
+    "hpBase": 2039,
+    "hpMax": 13907,
+    "atkBase": 1907,
+    "atkMax": 12343,
+    "np": [
+      "軍神の剣 A-",
+      "軍神の剣 A"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      null,
+      "王"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 B",
+      "騎乗 A",
+      "神性 B"
+    ],
+    "npGainAtk": 0.0084,
+    "npGainDef": 0.03,
+    "skill1": [
+      "軍略 B"
+    ],
+    "skill2": [
+      "天性の肉体 D",
+      "天性の肉体 EX"
+    ],
+    "skill3": [
+      "星の紋章 EX"
+    ]
+  },
+  "9": {
+    "uid": 102200,
+    "id": 9,
+    "name": "ジル・ド・レェ",
+    "classId": 1,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 7,
+    "hpBase": 1889,
+    "hpMax": 10498,
+    "atkBase": 1228,
+    "atkMax": 6615,
+    "np": [
+      "神聖たる旗に集いて吼えよ B"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      null,
+      "愛人"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 B",
+      "騎乗 B",
+      "狂化 EX"
+    ],
+    "npGainAtk": 0.0082,
+    "npGainDef": 0.03,
+    "skill1": [
+      "軍略 C"
+    ],
+    "skill2": [
+      "黄金律 B"
+    ],
+    "skill3": [
+      "プレラーティの激励 B"
+    ]
+  },
+  "10": {
+    "uid": 102600,
+    "id": 10,
+    "name": "シュヴァリエ・デオン",
+    "classId": 1,
+    "gender": "無",
+    "attribute": "人",
+    "personality": "中庸",
+    "policy": "中立",
+    "cost": 12,
+    "hpBase": 2121,
+    "hpMax": 13256,
+    "atkBase": 1460,
+    "atkMax": 8765,
+    "np": [
+      "百合の花咲く豪華絢爛 C",
+      "百合の花咲く豪華絢爛 C+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      null,
+      null
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 C",
+      "騎乗 B"
+    ],
+    "npGainAtk": 0.0083,
+    "npGainDef": 0.03,
+    "skill1": [
+      "心眼（真） C"
+    ],
+    "skill2": [
+      "自己暗示 A"
+    ],
+    "skill3": [
+      "麗しの風貌 C"
+    ]
+  },
+  "11": {
+    "uid": 200100,
+    "id": 11,
+    "name": "エミヤ",
+    "classId": 2,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "中庸",
+    "policy": "中立",
+    "cost": 12,
+    "hpBase": 1843,
+    "hpMax": 11521,
+    "atkBase": 1566,
+    "atkMax": 9398,
+    "np": [
+      "無限の剣製 E～A",
+      "無限の剣製 E～A"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "愛人"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 D",
+      "単独行動 B"
+    ],
+    "npGainAtk": 0.0051,
+    "npGainDef": 0.03,
+    "skill1": [
+      "心眼（真） B"
+    ],
+    "skill2": [
+      "千里眼 C",
+      "鷹の瞳 B+"
+    ],
+    "skill3": [
+      "魔術 C-",
+      "投影魔術 A"
+    ]
+  },
+  "12": {
+    "uid": 200200,
+    "id": 12,
+    "name": "ギルガメッシュ",
+    "classId": 2,
+    "gender": "男性",
+    "attribute": "天",
+    "personality": "善",
+    "policy": "混沌",
+    "cost": 16,
+    "hpBase": 1920,
+    "hpMax": 13097,
+    "atkBase": 1897,
+    "atkMax": 12280,
+    "np": [
+      "天地乖離す開闢の星 A++",
+      "天地乖離す開闢の星 EX"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      "王"
+    ],
+    "hits": {
+      "Arts": 5,
+      "Buster": 5,
+      "Quick": 5,
+      "Extra": 8
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 E",
+      "単独行動 A+",
+      "神性 B"
+    ],
+    "npGainAtk": 0.0034,
+    "npGainDef": 0.03,
+    "skill1": [
+      "カリスマ A+"
+    ],
+    "skill2": [
+      "黄金律 A"
+    ],
+    "skill3": [
+      "コレクター EX",
+      "バビロンの蔵 EX"
+    ]
+  },
+  "13": {
+    "uid": 200300,
+    "id": 13,
+    "name": "ロビンフッド",
+    "classId": 2,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "善",
+    "policy": "中立",
+    "cost": 7,
+    "hpBase": 1833,
+    "hpMax": 10187,
+    "atkBase": 1247,
+    "atkMax": 6715,
+    "np": [
+      "祈りの弓 D"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "愛人"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 3,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 D",
+      "単独行動 A"
+    ],
+    "npGainAtk": 0.0087,
+    "npGainDef": 0.03,
+    "skill1": [
+      "破壊工作 A"
+    ],
+    "skill2": [
+      "黄金律 E"
+    ],
+    "skill3": [
+      "皐月の王 B"
+    ]
+  },
+  "14": {
+    "uid": 200500,
+    "id": 14,
+    "name": "アタランテ",
+    "classId": 2,
+    "gender": "女性",
+    "attribute": "地",
+    "personality": "惡",
+    "policy": "中立",
+    "cost": 12,
+    "hpBase": 1996,
+    "hpMax": 12476,
+    "atkBase": 1438,
+    "atkMax": 8633,
+    "np": [
+      "訴状の矢文 B",
+      "訴状の矢文 B+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 3,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 D",
+      "単独行動 A"
+    ],
+    "npGainAtk": 0.005,
+    "npGainDef": 0.03,
+    "skill1": [
+      "アルカディア越え B",
+      "アルカディア越え A"
+    ],
+    "skill2": [
+      "追い込みの美学 C"
+    ],
+    "skill3": [
+      "カリュドーン狩り A"
+    ]
+  },
+  "15": {
+    "uid": 201200,
+    "id": 15,
+    "name": "エウリュアレ",
+    "classId": 2,
+    "gender": "女性",
+    "attribute": "天",
+    "personality": "善",
+    "policy": "混沌",
+    "cost": 7,
+    "hpBase": 1711,
+    "hpMax": 9506,
+    "atkBase": 1306,
+    "atkMax": 7032,
+    "np": [
+      "女神の視線 B-",
+      "女神の視線 B"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 3,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 A",
+      "単独行動 A+",
+      "女神の神核 EX"
+    ],
+    "npGainAtk": 0.009,
+    "npGainDef": 0.03,
+    "skill1": [
+      "吸血 C"
+    ],
+    "skill2": [
+      "魅惑の美声 A"
+    ],
+    "skill3": [
+      "女神のきまぐれ A"
+    ]
+  },
+  "16": {
+    "uid": 201300,
+    "id": 16,
+    "name": "アーラシュ",
+    "classId": 2,
+    "gender": "男性",
+    "attribute": "地",
+    "personality": "中庸",
+    "policy": "混沌",
+    "cost": 3,
+    "hpBase": 1424,
+    "hpMax": 7122,
+    "atkBase": 1057,
+    "atkMax": 5816,
+    "np": [
+      "流星一条 B++",
+      "流星一条 A"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      "愛人"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 3,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 C",
+      "単独行動 C"
+    ],
+    "npGainAtk": 0.0084,
+    "npGainDef": 0.03,
+    "skill1": [
+      "頑健 EX"
+    ],
+    "skill2": [
+      "千里眼 A"
+    ],
+    "skill3": [
+      "弓矢作成 A"
+    ]
+  },
+  "17": {
+    "uid": 300100,
+    "id": 17,
+    "name": "クー・フーリン",
+    "classId": 3,
+    "gender": "男性",
+    "attribute": "天",
+    "personality": "中庸",
+    "policy": "秩序",
+    "cost": 7,
+    "hpBase": 1726,
+    "hpMax": 9593,
+    "atkBase": 1344,
+    "atkMax": 7239,
+    "np": [
+      "刺し穿つ死棘の槍 B"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      "愛人"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 C",
+      "神性 B"
+    ],
+    "npGainAtk": 0.0107,
+    "npGainDef": 0.04,
+    "skill1": [
+      "戦闘続行 A"
+    ],
+    "skill2": [
+      "矢避けの加護 B"
+    ],
+    "skill3": [
+      "仕切り直し C"
+    ]
+  },
+  "18": {
+    "uid": 300500,
+    "id": 18,
+    "name": "エリザベート・バートリー",
+    "classId": 3,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "惡",
+    "policy": "混沌",
+    "cost": 12,
+    "hpBase": 1899,
+    "hpMax": 11870,
+    "atkBase": 1520,
+    "atkMax": 9122,
+    "np": [
+      "鮮血魔嬢 E-",
+      "鮮血魔嬢 E+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "龍",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 A",
+      "陣地作成 B"
+    ],
+    "npGainAtk": 0.011,
+    "npGainDef": 0.04,
+    "skill1": [
+      "カリスマ C",
+      "嗜虐のカリスマ A"
+    ],
+    "skill2": [
+      "拷問技術 A"
+    ],
+    "skill3": [
+      "戦闘続行 B"
+    ]
+  },
+  "19": {
+    "uid": 300600,
+    "id": 19,
+    "name": "武蔵坊弁慶",
+    "classId": 3,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "善",
+    "policy": "混沌",
+    "cost": 4,
+    "hpBase": 1722,
+    "hpMax": 9149,
+    "atkBase": 1029,
+    "atkMax": 5801,
+    "np": [
+      "五百羅漢補陀落渡海 EX"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "愛人"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 C+"
+    ],
+    "npGainAtk": 0.0079,
+    "npGainDef": 0.04,
+    "skill1": [
+      "怨霊調伏 A"
+    ],
+    "skill2": [
+      "仁王立ち B"
+    ],
+    "skill3": [
+      "白紙の勧進帳"
+    ]
+  },
+  "20": {
+    "uid": 300700,
+    "id": 20,
+    "name": "クー・フーリン〔プロトタイプ〕",
+    "classId": 3,
+    "gender": "男性",
+    "attribute": "天",
+    "personality": "中庸",
+    "policy": "秩序",
+    "cost": 7,
+    "hpBase": 1817,
+    "hpMax": 10098,
+    "atkBase": 1315,
+    "atkMax": 7082,
+    "np": [
+      "穿ちの朱槍 B"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 C",
+      "神性 B"
+    ],
+    "npGainAtk": 0.0108,
+    "npGainDef": 0.04,
+    "skill1": [
+      "ルーン魔術 B"
+    ],
+    "skill2": [
+      "矢避けの加護 B"
+    ],
+    "skill3": [
+      "獣殺し B+",
+      "獣殺し B++"
+    ]
+  },
+  "21": {
+    "uid": 300900,
+    "id": 21,
+    "name": "レオニダス一世",
+    "classId": 3,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "中庸",
+    "policy": "秩序",
+    "cost": 4,
+    "hpBase": 1498,
+    "hpMax": 7959,
+    "atkBase": 1168,
+    "atkMax": 6583,
+    "np": [
+      "炎門の守護者 B",
+      "炎門の守護者 B"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "王"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 C"
+    ],
+    "npGainAtk": 0.0107,
+    "npGainDef": 0.04,
+    "skill1": [
+      "殿の矜持 A"
+    ],
+    "skill2": [
+      "戦闘続行 A"
+    ],
+    "skill3": [
+      "戦士の雄叫び B"
+    ]
+  },
+  "22": {
+    "uid": 301000,
+    "id": 22,
+    "name": "ロムルス",
+    "classId": 3,
+    "gender": "男性",
+    "attribute": "星",
+    "personality": "中庸",
+    "policy": "混沌",
+    "cost": 7,
+    "hpBase": 1779,
+    "hpMax": 9883,
+    "atkBase": 1344,
+    "atkMax": 7239,
+    "np": [
+      "すべては我が槍に通ずる A++"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "羅馬",
+      "王"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 B"
+    ],
+    "npGainAtk": 0.0107,
+    "npGainDef": 0.04,
+    "skill1": [
+      "天性の肉体 C"
+    ],
+    "skill2": [
+      "皇帝特権 EX"
+    ],
+    "skill3": [
+      "七つの丘 A"
+    ]
+  },
+  "23": {
+    "uid": 400100,
+    "id": 23,
+    "name": "メドゥーサ",
+    "classId": 4,
+    "gender": "女性",
+    "attribute": "地",
+    "personality": "善",
+    "policy": "混沌",
+    "cost": 7,
+    "hpBase": 1608,
+    "hpMax": 8937,
+    "atkBase": 1337,
+    "atkMax": 7200,
+    "np": [
+      "騎英の手綱 A+"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 B",
+      "騎乗 A+",
+      "単独行動 C",
+      "神性 E-"
+    ],
+    "npGainAtk": 0.0058,
+    "npGainDef": 0.03,
+    "skill1": [
+      "魔眼 A+"
+    ],
+    "skill2": [
+      "怪力 B"
+    ],
+    "skill3": [
+      "鮮血神殿 B"
+    ]
+  },
+  "24": {
+    "uid": 400600,
+    "id": 24,
+    "name": "ゲオルギウス",
+    "classId": 4,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 4,
+    "hpBase": 1731,
+    "hpMax": 9200,
+    "atkBase": 929,
+    "atkMax": 5236,
+    "np": [
+      "力屠る祝福の剣 B"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "愛人"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 A",
+      "騎乗 B"
+    ],
+    "npGainAtk": 0.0085,
+    "npGainDef": 0.03,
+    "skill1": [
+      "守護騎士 A+"
+    ],
+    "skill2": [
+      "殉教者の魂 B+"
+    ],
+    "skill3": [
+      "戦闘続行 A"
+    ]
+  },
+  "25": {
+    "uid": 400800,
+    "id": 25,
+    "name": "エドワード・ティーチ",
+    "classId": 4,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "惡",
+    "policy": "混沌",
+    "cost": 4,
+    "hpBase": 1488,
+    "hpMax": 7907,
+    "atkBase": 1097,
+    "atkMax": 6188,
+    "np": [
+      "アン女王の復讐 C++"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 E"
+    ],
+    "npGainAtk": 0.0056,
+    "npGainDef": 0.03,
+    "skill1": [
+      "嵐の航海者 A"
+    ],
+    "skill2": [
+      "海賊の誉れ B"
+    ],
+    "skill3": [
+      "紳士的な愛 C"
+    ]
+  },
+  "26": {
+    "uid": 401100,
+    "id": 26,
+    "name": "ブーディカ",
+    "classId": 4,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "善",
+    "policy": "中立",
+    "cost": 7,
+    "hpBase": 1823,
+    "hpMax": 10130,
+    "atkBase": 1168,
+    "atkMax": 6289,
+    "np": [
+      "約束されざる守護の車輪 B+",
+      "約束されざる守護の車輪 B++"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "王"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 D",
+      "騎乗 A"
+    ],
+    "npGainAtk": 0.0085,
+    "npGainDef": 0.03,
+    "skill1": [
+      "女神への誓い B"
+    ],
+    "skill2": [
+      "戦闘続行 A"
+    ],
+    "skill3": [
+      "アンドラスタの加護 A"
+    ]
+  },
+  "27": {
+    "uid": 401400,
+    "id": 27,
+    "name": "牛若丸",
+    "classId": 4,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "中庸",
+    "policy": "混沌",
+    "cost": 7,
+    "hpBase": 1625,
+    "hpMax": 9028,
+    "atkBase": 1314,
+    "atkMax": 7076,
+    "np": [
+      "壇ノ浦・八艘跳 D",
+      "壇ノ浦・八艘跳 C"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "愛人"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 C",
+      "騎乗 A+"
+    ],
+    "npGainAtk": 0.0087,
+    "npGainDef": 0.03,
+    "skill1": [
+      "天狗の兵法 A"
+    ],
+    "skill2": [
+      "カリスマ C+"
+    ],
+    "skill3": [
+      "燕の早業 B"
+    ]
+  },
+  "28": {
+    "uid": 401500,
+    "id": 28,
+    "name": "アレキサンダー",
+    "classId": 4,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "善",
+    "policy": "中立",
+    "cost": 7,
+    "hpBase": 1555,
+    "hpMax": 8640,
+    "atkBase": 1366,
+    "atkMax": 7356,
+    "np": [
+      "始まりの蹂躙制覇 B+",
+      "始まりの蹂躙制覇 B++"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "王",
+      "希臘神話系男性"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 D",
+      "騎乗 A+",
+      "神性 E"
+    ],
+    "npGainAtk": 0.0086,
+    "npGainDef": 0.03,
+    "skill1": [
+      "カリスマ C"
+    ],
+    "skill2": [
+      "紅顔の美少年 B"
+    ],
+    "skill3": [
+      "覇王の兆し A"
+    ]
+  },
+  "29": {
+    "uid": 401700,
+    "id": 29,
+    "name": "マリー・アントワネット",
+    "classId": 4,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 12,
+    "hpBase": 1975,
+    "hpMax": 12348,
+    "atkBase": 1382,
+    "atkMax": 8293,
+    "np": [
+      "百合の王冠に栄光あれ A",
+      "百合の王冠に栄光あれ A+"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 1,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 C",
+      "騎乗 A+"
+    ],
+    "npGainAtk": 0.01,
+    "npGainDef": 0.03,
+    "skill1": [
+      "魅惑の美声 C"
+    ],
+    "skill2": [
+      "麗しの姫君 A"
+    ],
+    "skill3": [
+      "神の恩寵 B"
+    ]
+  },
+  "30": {
+    "uid": 401900,
+    "id": 30,
+    "name": "マルタ",
+    "classId": 4,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 12,
+    "hpBase": 2090,
+    "hpMax": 13068,
+    "atkBase": 1335,
+    "atkMax": 8014,
+    "np": [
+      "愛知らぬ哀しき竜よ A+",
+      "愛知らぬ哀しき竜よ EX"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 1,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 A",
+      "騎乗 A++",
+      "神性 C"
+    ],
+    "npGainAtk": 0.0158,
+    "npGainDef": 0.03,
+    "skill1": [
+      "信仰の加護 A"
+    ],
+    "skill2": [
+      "奇蹟 D",
+      "奇蹟 D+"
+    ],
+    "skill3": [
+      "聖女の誓い C"
+    ]
+  },
+  "31": {
+    "uid": 500100,
+    "id": 31,
+    "name": "メディア",
+    "classId": 5,
+    "gender": "女性",
+    "attribute": "地",
+    "personality": "惡",
+    "policy": "中立",
+    "cost": 7,
+    "hpBase": 1555,
+    "hpMax": 8643,
+    "atkBase": 1377,
+    "atkMax": 7418,
+    "np": [
+      "破戒すべき全ての符 C",
+      "破戒すべき全ての符 C+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 1,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "陣地作成 A",
+      "道具作成 A"
+    ],
+    "npGainAtk": 0.0164,
+    "npGainDef": 0.03,
+    "skill1": [
+      "高速神言 A"
+    ],
+    "skill2": [
+      "金羊の皮"
+    ],
+    "skill3": [
+      "キルケーの教え A"
+    ]
+  },
+  "32": {
+    "uid": 500200,
+    "id": 32,
+    "name": "ジル・ド・レェ",
+    "classId": 5,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "惡",
+    "policy": "混沌",
+    "cost": 7,
+    "hpBase": 1711,
+    "hpMax": 9506,
+    "atkBase": 1209,
+    "atkMax": 6514,
+    "np": [
+      "螺湮城教本 A+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 1,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "陣地作成 B"
+    ],
+    "npGainAtk": 0.0158,
+    "npGainDef": 0.03,
+    "skill1": [
+      "精神汚染 A"
+    ],
+    "skill2": [
+      "芸術審美 E-"
+    ],
+    "skill3": [
+      "深淵の邪視 C"
+    ]
+  },
+  "33": {
+    "uid": 500500,
+    "id": 33,
+    "name": "ハンス・クリスチャン・アンデルセン",
+    "classId": 5,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "中庸",
+    "policy": "秩序",
+    "cost": 4,
+    "hpBase": 1597,
+    "hpMax": 8484,
+    "atkBase": 1021,
+    "atkMax": 5758,
+    "np": [
+      "貴方のための物語 C",
+      "貴方のための物語 C+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 1,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "陣地作成 D",
+      "道具作成 C"
+    ],
+    "npGainAtk": 0.0166,
+    "npGainDef": 0.03,
+    "skill1": [
+      "人間観察 A"
+    ],
+    "skill2": [
+      "高速詠唱 E"
+    ],
+    "skill3": [
+      "無辜の怪物 D"
+    ]
+  },
+  "34": {
+    "uid": 500700,
+    "id": 34,
+    "name": "ウィリアム・シェイクスピア",
+    "classId": 5,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "中庸",
+    "policy": "中立",
+    "cost": 4,
+    "hpBase": 1520,
+    "hpMax": 8080,
+    "atkBase": 1028,
+    "atkMax": 5798,
+    "np": [
+      "開演の刻は来たれり、此処に万雷の喝采を B",
+      "開演の刻は来たれり、此処に万雷の喝采を B+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 1,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "陣地作成 C"
+    ],
+    "npGainAtk": 0.0159,
+    "npGainDef": 0.03,
+    "skill1": [
+      "エンチャント A"
+    ],
+    "skill2": [
+      "自己保存 B"
+    ],
+    "skill3": [
+      "国王一座 C"
+    ]
+  },
+  "35": {
+    "uid": 501400,
+    "id": 35,
+    "name": "メフィストフェレス",
+    "classId": 5,
+    "gender": "男性",
+    "attribute": "地",
+    "personality": "惡",
+    "policy": "混沌",
+    "cost": 7,
+    "hpBase": 1659,
+    "hpMax": 9216,
+    "atkBase": 1270,
+    "atkMax": 6839,
+    "np": [
+      "微睡む爆弾 A",
+      "微睡む爆弾 A+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "陣地作成 C+",
+      "道具作成 B"
+    ],
+    "npGainAtk": 0.0081,
+    "npGainDef": 0.03,
+    "skill1": [
+      "呪術 A"
+    ],
+    "skill2": [
+      "無辜の怪物 B"
+    ],
+    "skill3": [
+      "道化の大笑 A+"
+    ]
+  },
+  "36": {
+    "uid": 501500,
+    "id": 36,
+    "name": "ヴォルフガング・アマデウス・モーツァルト",
+    "classId": 5,
+    "gender": "男性",
+    "attribute": "星",
+    "personality": "善",
+    "policy": "中立",
+    "cost": 3,
+    "hpBase": 1425,
+    "hpMax": 7129,
+    "atkBase": 944,
+    "atkMax": 5195,
+    "np": [
+      "死神のための葬送曲 B"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "愛人"
+    ],
+    "hits": {
+      "Arts": 1,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "陣地作成 B"
+    ],
+    "npGainAtk": 0.016,
+    "npGainDef": 0.03,
+    "skill1": [
+      "音楽神の加護（偽） EX"
+    ],
+    "skill2": [
+      "芸術審美 B"
+    ],
+    "skill3": [
+      "小さな夜の曲 EX"
+    ]
+  },
+  "37": {
+    "uid": 501900,
+    "id": 37,
+    "name": "諸葛孔明〔エルメロイⅡ世〕",
+    "classId": 5,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "善",
+    "policy": "中立",
+    "cost": 16,
+    "hpBase": 2091,
+    "hpMax": 14259,
+    "atkBase": 1637,
+    "atkMax": 10598,
+    "np": [
+      "石兵八陣 C-",
+      "石兵八陣 C"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "愛人"
+    ],
+    "hits": {
+      "Arts": 1,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "陣地作成 A",
+      "道具作成 B"
+    ],
+    "npGainAtk": 0.0164,
+    "npGainDef": 0.03,
+    "skill1": [
+      "鑑識眼 A"
+    ],
+    "skill2": [
+      "軍師の忠言 A+"
+    ],
+    "skill3": [
+      "軍師の指揮 A+"
+    ]
+  },
+  "38": {
+    "uid": 502100,
+    "id": 38,
+    "name": "クー・フーリン",
+    "classId": 5,
+    "gender": "男性",
+    "attribute": "天",
+    "personality": "中庸",
+    "policy": "秩序",
+    "cost": 7,
+    "hpBase": 1728,
+    "hpMax": 9604,
+    "atkBase": 1222,
+    "atkMax": 6580,
+    "np": [
+      "灼き尽くす炎の檻 B"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      "愛人"
+    ],
+    "hits": {
+      "Arts": 1,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "陣地作成 B",
+      "神性 B"
+    ],
+    "npGainAtk": 0.016,
+    "npGainDef": 0.03,
+    "skill1": [
+      "ルーン魔術 A",
+      "原初のルーン"
+    ],
+    "skill2": [
+      "矢避けの加護 A"
+    ],
+    "skill3": [
+      "仕切り直し C"
+    ]
+  },
+  "39": {
+    "uid": 600100,
+    "id": 39,
+    "name": "佐々木小次郎",
+    "classId": 6,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "惡",
+    "policy": "中立",
+    "cost": 3,
+    "hpBase": 1244,
+    "hpMax": 6220,
+    "atkBase": 1042,
+    "atkMax": 5735,
+    "np": [
+      "燕返し －"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "気配遮断 D"
+    ],
+    "npGainAtk": 0.0105,
+    "npGainDef": 0.04,
+    "skill1": [
+      "心眼（偽） A"
+    ],
+    "skill2": [
+      "透化 B+"
+    ],
+    "skill3": [
+      "宗和の心得 B",
+      "宗和の心得 B++"
+    ]
+  },
+  "40": {
+    "uid": 600200,
+    "id": 40,
+    "name": "呪腕のハサン",
+    "classId": 6,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "惡",
+    "policy": "秩序",
+    "cost": 4,
+    "hpBase": 1429,
+    "hpMax": 7594,
+    "atkBase": 1114,
+    "atkMax": 6280,
+    "np": [
+      "妄想心音 C"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 3,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "気配遮断 A+"
+    ],
+    "npGainAtk": 0.0107,
+    "npGainDef": 0.04,
+    "skill1": [
+      "投擲（短刀） B"
+    ],
+    "skill2": [
+      "自己改造 C"
+    ],
+    "skill3": [
+      "風除けの加護 A"
+    ]
+  },
+  "41": {
+    "uid": 601000,
+    "id": 41,
+    "name": "ステンノ",
+    "classId": 6,
+    "gender": "女性",
+    "attribute": "天",
+    "personality": "善",
+    "policy": "混沌",
+    "cost": 12,
+    "hpBase": 1843,
+    "hpMax": 11518,
+    "atkBase": 1497,
+    "atkMax": 8985,
+    "np": [
+      "女神の微笑 B"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 1,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "気配遮断 A+",
+      "対魔力 A",
+      "女神の神核 EX"
+    ],
+    "npGainAtk": 0.0226,
+    "npGainDef": 0.04,
+    "skill1": [
+      "吸血 C"
+    ],
+    "skill2": [
+      "魅惑の美声 A"
+    ],
+    "skill3": [
+      "女神のきまぐれ A"
+    ]
+  },
+  "42": {
+    "uid": 601100,
+    "id": 42,
+    "name": "荊軻",
+    "classId": 6,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "善",
+    "policy": "混沌",
+    "cost": 7,
+    "hpBase": 1492,
+    "hpMax": 8293,
+    "atkBase": 1338,
+    "atkMax": 7207,
+    "np": [
+      "不還匕首 B",
+      "不還匕首 B+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "気配遮断 B"
+    ],
+    "npGainAtk": 0.0105,
+    "npGainDef": 0.04,
+    "skill1": [
+      "抑制 A"
+    ],
+    "skill2": [
+      "プランニング B"
+    ],
+    "skill3": [
+      "傍若無人 A"
+    ]
+  },
+  "43": {
+    "uid": 601200,
+    "id": 43,
+    "name": "シャルル＝アンリ・サンソン",
+    "classId": 6,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "惡",
+    "policy": "秩序",
+    "cost": 4,
+    "hpBase": 1564,
+    "hpMax": 8309,
+    "atkBase": 968,
+    "atkMax": 5456,
+    "np": [
+      "死は明日への希望なり A",
+      "死は明日への希望なり A+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "気配遮断 D"
+    ],
+    "npGainAtk": 0.0106,
+    "npGainDef": 0.04,
+    "skill1": [
+      "処刑人 A++"
+    ],
+    "skill2": [
+      "医術 A",
+      "医術 A+"
+    ],
+    "skill3": [
+      "人体研究 B"
+    ]
+  },
+  "44": {
+    "uid": 601300,
+    "id": 44,
+    "name": "ファントム・オブ・ジ・オペラ",
+    "classId": 6,
+    "gender": "男性",
+    "attribute": "地",
+    "personality": "惡",
+    "policy": "混沌",
+    "cost": 4,
+    "hpBase": 1580,
+    "hpMax": 8393,
+    "atkBase": 1003,
+    "atkMax": 5654,
+    "np": [
+      "地獄にこそ響け我が愛の唄 B",
+      "地獄にこそ響け我が愛の唄 B+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 2,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "気配遮断 A"
+    ],
+    "npGainAtk": 0.0071,
+    "npGainDef": 0.04,
+    "skill1": [
+      "無辜の怪物 D"
+    ],
+    "skill2": [
+      "魅惑の美声 B"
+    ],
+    "skill3": [
+      "精神汚染 A"
+    ]
+  },
+  "45": {
+    "uid": 601400,
+    "id": 45,
+    "name": "マタ・ハリ",
+    "classId": 6,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "中庸",
+    "policy": "混沌",
+    "cost": 3,
+    "hpBase": 1313,
+    "hpMax": 6565,
+    "atkBase": 977,
+    "atkMax": 5377,
+    "np": [
+      "陽の眼を持つ女 A"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 1,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [],
+    "npGainAtk": 0.021,
+    "npGainDef": 0.04,
+    "skill1": [
+      "諜報 A++"
+    ],
+    "skill2": [
+      "フェロモン B"
+    ],
+    "skill3": [
+      "ダブルクロス B"
+    ]
+  },
+  "46": {
+    "uid": 601700,
+    "id": 46,
+    "name": "カーミラ",
+    "classId": 6,
+    "gender": "女性",
+    "attribute": "地",
+    "personality": "惡",
+    "policy": "混沌",
+    "cost": 12,
+    "hpBase": 1675,
+    "hpMax": 10473,
+    "atkBase": 1568,
+    "atkMax": 9408,
+    "np": [
+      "幻想の鉄処女 C",
+      "幻想の鉄処女 C+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 1,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "気配遮断 D"
+    ],
+    "npGainAtk": 0.0215,
+    "npGainDef": 0.04,
+    "skill1": [
+      "吸血 C"
+    ],
+    "skill2": [
+      "拷問技術 A"
+    ],
+    "skill3": [
+      "鮮血の湯浴み A"
+    ]
+  },
+  "47": {
+    "uid": 700100,
+    "id": 47,
+    "name": "ヘラクレス",
+    "classId": 7,
+    "gender": "男性",
+    "attribute": "天",
+    "personality": "狂",
+    "policy": "混沌",
+    "cost": 12,
+    "hpBase": 1652,
+    "hpMax": 10327,
+    "atkBase": 1775,
+    "atkMax": 10655,
+    "np": [
+      "射殺す百頭 C～A+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      "希臘神話系男性"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "狂化 B",
+      "神性 A"
+    ],
+    "npGainAtk": 0.0107,
+    "npGainDef": 0.05,
+    "skill1": [
+      "勇猛 A+"
+    ],
+    "skill2": [
+      "心眼（偽） B"
+    ],
+    "skill3": [
+      "戦闘続行 A"
+    ]
+  },
+  "48": {
+    "uid": 700200,
+    "id": 48,
+    "name": "ランスロット",
+    "classId": 7,
+    "gender": "男性",
+    "attribute": "地",
+    "personality": "狂",
+    "policy": "秩序",
+    "cost": 12,
+    "hpBase": 1652,
+    "hpMax": 10327,
+    "atkBase": 1746,
+    "atkMax": 10477,
+    "np": [
+      "騎士は徒手にて死せず A",
+      "騎士は徒手にて死せず A"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "狂化 C",
+      "対魔力 E"
+    ],
+    "npGainAtk": 0.005,
+    "npGainDef": 0.05,
+    "skill1": [
+      "無窮の武練 A+"
+    ],
+    "skill2": [
+      "精霊の加護 A"
+    ],
+    "skill3": [
+      "魔力逆流 A"
+    ]
+  },
+  "49": {
+    "uid": 700300,
+    "id": 49,
+    "name": "呂布奉先",
+    "classId": 7,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "惡",
+    "policy": "混沌",
+    "cost": 7,
+    "hpBase": 1494,
+    "hpMax": 8302,
+    "atkBase": 1507,
+    "atkMax": 8119,
+    "np": [
+      "軍神五兵 A"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "狂化 A"
+    ],
+    "npGainAtk": 0.0104,
+    "npGainDef": 0.05,
+    "skill1": [
+      "勇猛 B"
+    ],
+    "skill2": [
+      "反骨の相 B"
+    ],
+    "skill3": [
+      "乱世の梟雄 A"
+    ]
+  },
+  "50": {
+    "uid": 700500,
+    "id": 50,
+    "name": "スパルタクス",
+    "classId": 7,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "中庸",
+    "policy": "中立",
+    "cost": 3,
+    "hpBase": 1544,
+    "hpMax": 7722,
+    "atkBase": 922,
+    "atkMax": 5073,
+    "np": [
+      "疵獣の咆吼 A",
+      "疵獣の咆吼 A+",
+      "愛は爆発する A"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "羅馬",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "狂化 EX"
+    ],
+    "npGainAtk": 0.0101,
+    "npGainDef": 0.05,
+    "skill1": [
+      "被虐の誉れ B",
+      "被虐の誉れ B+"
+    ],
+    "skill2": [
+      "不屈の意志 A"
+    ],
+    "skill3": [
+      "剣の凱旋 B"
+    ]
+  },
+  "51": {
+    "uid": 700600,
+    "id": 51,
+    "name": "坂田金時",
+    "classId": 7,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 16,
+    "hpBase": 1782,
+    "hpMax": 12150,
+    "atkBase": 1964,
+    "atkMax": 12712,
+    "np": [
+      "黄金衝撃 C-"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "愛人"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "狂化 E",
+      "神性 D"
+    ],
+    "npGainAtk": 0.0103,
+    "npGainDef": 0.05,
+    "skill1": [
+      "怪力 A+"
+    ],
+    "skill2": [
+      "動物会話 C"
+    ],
+    "skill3": [
+      "天性の肉体 A"
+    ]
+  },
+  "52": {
+    "uid": 700700,
+    "id": 52,
+    "name": "ヴラド三世",
+    "classId": 7,
+    "gender": "男性",
+    "attribute": "地",
+    "personality": "惡",
+    "policy": "混沌",
+    "cost": 16,
+    "hpBase": 2019,
+    "hpMax": 13770,
+    "atkBase": 1777,
+    "atkMax": 11499,
+    "np": [
+      "血塗れ王鬼 C",
+      "血塗れ王鬼 C+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      "愛人",
+      "王"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "狂化 EX"
+    ],
+    "npGainAtk": 0.005,
+    "npGainDef": 0.05,
+    "skill1": [
+      "吸血 A"
+    ],
+    "skill2": [
+      "変化 C",
+      "鮮血の伝承 A+"
+    ],
+    "skill3": [
+      "戦闘続行 A"
+    ]
+  },
+  "53": {
+    "uid": 700900,
+    "id": 53,
+    "name": "アステリオス",
+    "classId": 7,
+    "gender": "男性",
+    "attribute": "地",
+    "personality": "惡",
+    "policy": "混沌",
+    "cost": 3,
+    "hpBase": 1320,
+    "hpMax": 6604,
+    "atkBase": 1097,
+    "atkMax": 6037,
+    "np": [
+      "万古不易の迷宮 EX",
+      "万古不易の迷宮 EX"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      "希臘神話系男性"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "狂化 B"
+    ],
+    "npGainAtk": 0.0068,
+    "npGainDef": 0.05,
+    "skill1": [
+      "怪力 A"
+    ],
+    "skill2": [
+      "天性の魔 A++"
+    ],
+    "skill3": [
+      "深淵のラブリュス C"
+    ]
+  },
+  "54": {
+    "uid": 701000,
+    "id": 54,
+    "name": "カリギュラ",
+    "classId": 7,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "惡",
+    "policy": "混沌",
+    "cost": 4,
+    "hpBase": 1374,
+    "hpMax": 7303,
+    "atkBase": 1211,
+    "atkMax": 6831,
+    "np": [
+      "我が心を喰らえ、月の光 C"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "羅馬",
+      "被「天地乖離開辟之星」所剋",
+      "王"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "狂化 A+"
+    ],
+    "npGainAtk": 0.0068,
+    "npGainDef": 0.05,
+    "skill1": [
+      "加虐体質 A"
+    ],
+    "skill2": [
+      "皇帝特権 A"
+    ],
+    "skill3": [
+      "在りし日の栄光 B"
+    ]
+  },
+  "55": {
+    "uid": 701100,
+    "id": 55,
+    "name": "ダレイオス三世",
+    "classId": 7,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "中庸",
+    "policy": "秩序",
+    "cost": 7,
+    "hpBase": 1577,
+    "hpMax": 8763,
+    "atkBase": 1412,
+    "atkMax": 7608,
+    "np": [
+      "蒼天陽炎む災禍の轍 なし",
+      "不死の一万騎兵 A",
+      "不死の一万騎兵 A+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "王"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "狂化 B"
+    ],
+    "npGainAtk": 0,
+    "npGainDef": 0,
+    "skill1": [
+      "黄金律 B"
+    ],
+    "skill2": [
+      "仕切り直し A"
+    ],
+    "skill3": [
+      "戦闘続行 A"
+    ]
+  },
+  "56": {
+    "uid": 701300,
+    "id": 56,
+    "name": "清姫",
+    "classId": 7,
+    "gender": "女性",
+    "attribute": "地",
+    "personality": "惡",
+    "policy": "混沌",
+    "cost": 7,
+    "hpBase": 1649,
+    "hpMax": 9166,
+    "atkBase": 1233,
+    "atkMax": 6644,
+    "np": [
+      "転身火生三昧 EX"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "龍",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 1,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "狂化 EX"
+    ],
+    "npGainAtk": 0.0203,
+    "npGainDef": 0.05,
+    "skill1": [
+      "変化 C"
+    ],
+    "skill2": [
+      "ストーキング B"
+    ],
+    "skill3": [
+      "焔色の接吻 A"
+    ]
+  },
+  "57": {
+    "uid": 701500,
+    "id": 57,
+    "name": "エイリーク・ブラッドアクス",
+    "classId": 7,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "中庸",
+    "policy": "混沌",
+    "cost": 4,
+    "hpBase": 1447,
+    "hpMax": 7688,
+    "atkBase": 1116,
+    "atkMax": 6290,
+    "np": [
+      "血塗れの戴冠式 B"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "王"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "狂化 B"
+    ],
+    "npGainAtk": 0.0102,
+    "npGainDef": 0.05,
+    "skill1": [
+      "支援呪術 C",
+      "支援呪術 C+"
+    ],
+    "skill2": [
+      "戦闘続行 B"
+    ],
+    "skill3": [
+      "血啜の獣斧 A+"
+    ]
+  },
+  "58": {
+    "uid": 701600,
+    "id": 58,
+    "name": "タマモキャット",
+    "classId": 7,
+    "gender": "女性",
+    "attribute": "地",
+    "personality": "善",
+    "policy": "混沌",
+    "cost": 12,
+    "hpBase": 1833,
+    "hpMax": 11458,
+    "atkBase": 1504,
+    "atkMax": 9026,
+    "np": [
+      "燦々日光午睡宮酒池肉林 D",
+      "燦々日光午睡宮酒池肉林 D+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "猛獸",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 2,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "狂化 C"
+    ],
+    "npGainAtk": 0.0071,
+    "npGainDef": 0.05,
+    "skill1": [
+      "怪力 B"
+    ],
+    "skill2": [
+      "呪術 E"
+    ],
+    "skill3": [
+      "変化 B"
+    ]
+  },
+  "59": {
+    "uid": 900100,
+    "id": 59,
+    "name": "ジャンヌ・ダルク",
+    "classId": 9,
+    "gender": "女性",
+    "attribute": "星",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 16,
+    "hpBase": 2420,
+    "hpMax": 16500,
+    "atkBase": 1482,
+    "atkMax": 9593,
+    "np": [
+      "我が神はここにありて A-",
+      "我が神はここにありて A"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "阿爾托莉亞臉",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 EX"
+    ],
+    "npGainAtk": 0.0076,
+    "npGainDef": 0.03,
+    "skill1": [
+      "啓示 A"
+    ],
+    "skill2": [
+      "真名看破 B"
+    ],
+    "skill3": [
+      "神明裁決 A"
+    ]
+  },
+  "60": {
+    "uid": 200900,
+    "id": 60,
+    "name": "オリオン",
+    "classId": 2,
+    "gender": "男性",
+    "attribute": "天",
+    "personality": "中庸",
+    "policy": "混沌",
+    "cost": 16,
+    "hpBase": 2134,
+    "hpMax": 14553,
+    "atkBase": 1716,
+    "atkMax": 11107,
+    "np": [
+      "月女神の愛矢恋矢 A+",
+      "月女神の愛矢恋矢 A+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      "希臘神話系男性"
+    ],
+    "hits": {
+      "Arts": 1,
+      "Buster": 1,
+      "Quick": 3,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 D",
+      "単独行動 A+"
+    ],
+    "npGainAtk": 0.01,
+    "npGainDef": 0.03,
+    "skill1": [
+      "女神の寵愛 EX"
+    ],
+    "skill2": [
+      "移り気への楔 A+"
+    ],
+    "skill3": [
+      "心眼（偽） B-"
+    ]
+  },
+  "61": {
+    "uid": 502600,
+    "id": 61,
+    "name": "エリザベート・バートリー〔ハロウィン〕",
+    "classId": 5,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "惡",
+    "policy": "混沌",
+    "cost": 12,
+    "hpBase": 1824,
+    "hpMax": 11404,
+    "atkBase": 1436,
+    "atkMax": 8616,
+    "np": [
+      "鮮血特上魔嬢 E-"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "龍",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 1,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "陣地作成 B",
+      "道具作成 A"
+    ],
+    "npGainAtk": 0.016,
+    "npGainDef": 0.03,
+    "skill1": [
+      "無辜の怪物 EX"
+    ],
+    "skill2": [
+      "魔力放出（かぼちゃ） A"
+    ],
+    "skill3": [
+      "出演続行 A"
+    ]
+  },
+  "62": {
+    "uid": 500300,
+    "id": 62,
+    "name": "玉藻の前",
+    "classId": 5,
+    "gender": "女性",
+    "attribute": "天",
+    "personality": "惡",
+    "policy": "中立",
+    "cost": 16,
+    "hpBase": 2091,
+    "hpMax": 14259,
+    "atkBase": 1629,
+    "atkMax": 10546,
+    "np": [
+      "水天日光天照八野鎮石 D-",
+      "水天日光天照八野鎮石 D"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 5,
+      "Buster": 1,
+      "Quick": 3,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "陣地作成 C",
+      "神性 A"
+    ],
+    "npGainAtk": 0.0032,
+    "npGainDef": 0.03,
+    "skill1": [
+      "呪術 EX"
+    ],
+    "skill2": [
+      "変化 A"
+    ],
+    "skill3": [
+      "狐の嫁入り EX",
+      "狐の嫁入り EX"
+    ]
+  },
+  "63": {
+    "uid": 200600,
+    "id": 63,
+    "name": "ダビデ",
+    "classId": 2,
+    "gender": "男性",
+    "attribute": "天",
+    "personality": "中庸",
+    "policy": "秩序",
+    "cost": 7,
+    "hpBase": 1555,
+    "hpMax": 8643,
+    "atkBase": 1436,
+    "atkMax": 7736,
+    "np": [
+      "五つの石 C-"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      "王"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 A",
+      "単独行動 A"
+    ],
+    "npGainAtk": 0.0076,
+    "npGainDef": 0.03,
+    "skill1": [
+      "神の加護 A"
+    ],
+    "skill2": [
+      "治癒の竪琴 B"
+    ],
+    "skill3": [
+      "カリスマ B"
+    ]
+  },
+  "64": {
+    "uid": 301600,
+    "id": 64,
+    "name": "ヘクトール",
+    "classId": 3,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "中庸",
+    "policy": "秩序",
+    "cost": 7,
+    "hpBase": 1836,
+    "hpMax": 10200,
+    "atkBase": 1286,
+    "atkMax": 6928,
+    "np": [
+      "不毀の極槍 A-",
+      "不毀の極槍 A"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "希臘神話系男性"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 B",
+      "騎乗 B"
+    ],
+    "npGainAtk": 0.0108,
+    "npGainDef": 0.04,
+    "skill1": [
+      "軍略 C+"
+    ],
+    "skill2": [
+      "友誼の証明 C"
+    ],
+    "skill3": [
+      "仕切り直し B"
+    ]
+  },
+  "65": {
+    "uid": 400300,
+    "id": 65,
+    "name": "フランシス・ドレイク",
+    "classId": 4,
+    "gender": "女性",
+    "attribute": "星",
+    "personality": "惡",
+    "policy": "混沌",
+    "cost": 16,
+    "hpBase": 1881,
+    "hpMax": 12830,
+    "atkBase": 1750,
+    "atkMax": 11326,
+    "np": [
+      "黄金鹿と嵐の夜 A",
+      "黄金鹿と嵐の夜 A+"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型"
+    ],
+    "hits": {
+      "Arts": 4,
+      "Buster": 2,
+      "Quick": 6,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 D",
+      "騎乗 B"
+    ],
+    "npGainAtk": 0.0042,
+    "npGainDef": 0.03,
+    "skill1": [
+      "嵐の航海者 A+"
+    ],
+    "skill2": [
+      "黄金律 B"
+    ],
+    "skill3": [
+      "星の開拓者 EX"
+    ]
+  },
+  "66": {
+    "uid": 400900,
+    "id": 66,
+    "name": "アン・ボニー＆メアリー・リード",
+    "classId": 4,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "惡",
+    "policy": "混沌",
+    "cost": 12,
+    "hpBase": 1805,
+    "hpMax": 11286,
+    "atkBase": 1504,
+    "atkMax": 9029,
+    "np": [
+      "比翼にして連理 C+",
+      "比翼にして連理 C++"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 D"
+    ],
+    "npGainAtk": 0.0084,
+    "npGainDef": 0.03,
+    "skill1": [
+      "航海 A"
+    ],
+    "skill2": [
+      "射撃 B"
+    ],
+    "skill3": [
+      "コンビネーション C"
+    ]
+  },
+  "67": {
+    "uid": 501700,
+    "id": 67,
+    "name": "メディア〔リリィ〕",
+    "classId": 5,
+    "gender": "女性",
+    "attribute": "地",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 12,
+    "hpBase": 2091,
+    "hpMax": 13070,
+    "atkBase": 1294,
+    "atkMax": 7766,
+    "np": [
+      "修補すべき全ての疵 C-",
+      "修補すべき全ての疵 C"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 4,
+      "Buster": 3,
+      "Quick": 4,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "陣地作成 B",
+      "道具作成 B"
+    ],
+    "npGainAtk": 0.004,
+    "npGainDef": 0.03,
+    "skill1": [
+      "高速神言 A"
+    ],
+    "skill2": [
+      "耐毒 A",
+      "耐毒 A++"
+    ],
+    "skill3": [
+      "うたかたの恋 B"
+    ]
+  },
+  "68": {
+    "uid": 102700,
+    "id": 68,
+    "name": "沖田総司",
+    "classId": 1,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "中庸",
+    "policy": "中立",
+    "cost": 16,
+    "hpBase": 1939,
+    "hpMax": 13225,
+    "atkBase": 1865,
+    "atkMax": 12068,
+    "np": [
+      "無明三段突き －"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "阿爾托莉亞臉",
+      "被「天地乖離開辟之星」所剋",
+      null
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 5,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 E",
+      "騎乗 E"
+    ],
+    "npGainAtk": 0.0109,
+    "npGainDef": 0.03,
+    "skill1": [
+      "縮地 B"
+    ],
+    "skill2": [
+      "病弱 A"
+    ],
+    "skill3": [
+      "心眼（偽） A"
+    ]
+  },
+  "69": {
+    "uid": 202400,
+    "id": 69,
+    "name": "織田信長",
+    "classId": 2,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "中庸",
+    "policy": "秩序",
+    "cost": 12,
+    "hpBase": 1862,
+    "hpMax": 11637,
+    "atkBase": 1582,
+    "atkMax": 9494,
+    "np": [
+      "三千世界 E～A"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "王"
+    ],
+    "hits": {
+      "Arts": 4,
+      "Buster": 4,
+      "Quick": 2,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 B",
+      "単独行動 B"
+    ],
+    "npGainAtk": 0.0043,
+    "npGainDef": 0.03,
+    "skill1": [
+      "戦略 B"
+    ],
+    "skill2": [
+      "天下布武 A"
+    ],
+    "skill3": [
+      "魔王 A"
+    ]
+  },
+  "70": {
+    "uid": 301300,
+    "id": 70,
+    "name": "スカサハ",
+    "classId": 3,
+    "gender": "女性",
+    "attribute": "星",
+    "personality": "善",
+    "policy": "中立",
+    "cost": 16,
+    "hpBase": 2174,
+    "hpMax": 14825,
+    "atkBase": 1758,
+    "atkMax": 11375,
+    "np": [
+      "貫き穿つ死翔の槍 B",
+      "貫き穿つ死翔の槍 B+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "王"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 6,
+      "Quick": 2,
+      "Extra": 7
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 A"
+    ],
+    "npGainAtk": 0.0071,
+    "npGainDef": 0.04,
+    "skill1": [
+      "魔境の智慧 A+"
+    ],
+    "skill2": [
+      "原初のルーン"
+    ],
+    "skill3": [
+      "神殺し B"
+    ]
+  },
+  "71": {
+    "uid": 300200,
+    "id": 71,
+    "name": "ディルムッド・オディナ",
+    "classId": 3,
+    "gender": "男性",
+    "attribute": "地",
+    "personality": "中庸",
+    "policy": "秩序",
+    "cost": 7,
+    "hpBase": 1817,
+    "hpMax": 10098,
+    "atkBase": 1277,
+    "atkMax": 6877,
+    "np": [
+      "破魔の紅薔薇、必滅の黄薔薇 B",
+      "破魔の紅薔薇、必滅の黄薔薇 B+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      "愛人"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 2,
+      "Quick": 2,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 B"
+    ],
+    "npGainAtk": 0.0079,
+    "npGainDef": 0.04,
+    "skill1": [
+      "心眼（真） B"
+    ],
+    "skill2": [
+      "愛の黒子 C"
+    ],
+    "skill3": [
+      "騎士の武略 B"
+    ]
+  },
+  "72": {
+    "uid": 101400,
+    "id": 72,
+    "name": "フェルグス・マック・ロイ",
+    "classId": 1,
+    "gender": "男性",
+    "attribute": "地",
+    "personality": "中庸",
+    "policy": "秩序",
+    "cost": 7,
+    "hpBase": 1761,
+    "hpMax": 9786,
+    "atkBase": 1385,
+    "atkMax": 7460,
+    "np": [
+      "虹霓剣 A+",
+      "虹霓剣 A+"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      null,
+      "愛人",
+      "王"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 B",
+      "騎乗 B"
+    ],
+    "npGainAtk": 0.0109,
+    "npGainDef": 0.03,
+    "skill1": [
+      "勇猛 A"
+    ],
+    "skill2": [
+      "反骨の相 B"
+    ],
+    "skill3": [
+      "心眼（真） A"
+    ]
+  },
+  "73": {
+    "uid": 402200,
+    "id": 73,
+    "name": "アルトリア・ペンドラゴン〔サンタオルタ〕",
+    "classId": 4,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 12,
+    "hpBase": 1805,
+    "hpMax": 11286,
+    "atkBase": 1543,
+    "atkMax": 9258,
+    "np": [
+      "約束された勝利の剣 A++"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "龍",
+      "阿爾托莉亞臉",
+      "被「天地乖離開辟之星」所剋",
+      "亞瑟",
+      "王"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 A",
+      "騎乗 A"
+    ],
+    "npGainAtk": 0.0087,
+    "npGainDef": 0.03,
+    "skill1": [
+      "聖者の贈り物 EX"
+    ],
+    "skill2": [
+      "直感 A"
+    ],
+    "skill3": [
+      "魔力放出 A-"
+    ]
+  },
+  "74": {
+    "uid": 500400,
+    "id": 74,
+    "name": "ナーサリー・ライム",
+    "classId": 5,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "中庸",
+    "policy": "中立",
+    "cost": 12,
+    "hpBase": 1901,
+    "hpMax": 11882,
+    "atkBase": 1438,
+    "atkMax": 8629,
+    "np": [
+      "誰かの為の物語 C-",
+      "誰かの為の物語 C"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 1,
+      "Quick": 3,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "陣地作成 A"
+    ],
+    "npGainAtk": 0.0054,
+    "npGainDef": 0.03,
+    "skill1": [
+      "自己改造 A"
+    ],
+    "skill2": [
+      "変化 A+"
+    ],
+    "skill3": [
+      "一方その頃 A"
+    ]
+  },
+  "75": {
+    "uid": 600500,
+    "id": 75,
+    "name": "ジャック・ザ・リッパー",
+    "classId": 6,
+    "gender": "女性",
+    "attribute": "地",
+    "personality": "惡",
+    "policy": "混沌",
+    "cost": 16,
+    "hpBase": 1862,
+    "hpMax": 12696,
+    "atkBase": 1786,
+    "atkMax": 11557,
+    "np": [
+      "解体聖母 D",
+      "解体聖母 D+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 2,
+      "Quick": 5,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "気配遮断 A+"
+    ],
+    "npGainAtk": 0.0107,
+    "npGainDef": 0.04,
+    "skill1": [
+      "霧夜の殺人 A"
+    ],
+    "skill2": [
+      "情報抹消 B"
+    ],
+    "skill3": [
+      "外科手術 E"
+    ]
+  },
+  "76": {
+    "uid": 100900,
+    "id": 76,
+    "name": "モードレッド",
+    "classId": 1,
+    "gender": "女性",
+    "attribute": "地",
+    "personality": "中庸",
+    "policy": "混沌",
+    "cost": 16,
+    "hpBase": 2153,
+    "hpMax": 14680,
+    "atkBase": 1811,
+    "atkMax": 11723,
+    "np": [
+      "我が麗しき父への叛逆 A+",
+      "我が麗しき父への叛逆 A+"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "龍",
+      "阿爾托莉亞臉",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      null
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 B",
+      "騎乗 B"
+    ],
+    "npGainAtk": 0.0056,
+    "npGainDef": 0.03,
+    "skill1": [
+      "魔力放出 A"
+    ],
+    "skill2": [
+      "直感 B"
+    ],
+    "skill3": [
+      "不貞隠しの兜 EX"
+    ]
+  },
+  "77": {
+    "uid": 201100,
+    "id": 77,
+    "name": "ニコラ・テスラ",
+    "classId": 2,
+    "gender": "男性",
+    "attribute": "星",
+    "personality": "善",
+    "policy": "混沌",
+    "cost": 16,
+    "hpBase": 2027,
+    "hpMax": 13825,
+    "atkBase": 1820,
+    "atkMax": 11781,
+    "np": [
+      "人類神話・雷電降臨 EX",
+      "人類神話・雷電降臨 EX"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "愛人"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 3,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 C",
+      "単独行動 B"
+    ],
+    "npGainAtk": 0.0087,
+    "npGainDef": 0.03,
+    "skill1": [
+      "ガルバニズム A"
+    ],
+    "skill2": [
+      "天賦の叡智 A",
+      "天賦の叡智 EX"
+    ],
+    "skill3": [
+      "星の開拓者 EX"
+    ]
+  },
+  "78": {
+    "uid": 301900,
+    "id": 78,
+    "name": "アルトリア・ペンドラゴン〔オルタ〕",
+    "classId": 3,
+    "gender": "女性",
+    "attribute": "天",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 12,
+    "hpBase": 1881,
+    "hpMax": 11761,
+    "atkBase": 1661,
+    "atkMax": 9968,
+    "np": [
+      "最果てにて輝ける槍 A++",
+      "最果てにて輝ける槍 EX"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "龍",
+      "阿爾托莉亞臉",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      "亞瑟",
+      "王"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 B",
+      "騎乗 A"
+    ],
+    "npGainAtk": 0.0074,
+    "npGainDef": 0.04,
+    "skill1": [
+      "魔力放出 A+"
+    ],
+    "skill2": [
+      "最果ての加護 A"
+    ],
+    "skill3": [
+      "カリスマ E"
+    ]
+  },
+  "79": {
+    "uid": 501000,
+    "id": 79,
+    "name": "ヴァン・ホーエンハイム・パラケルスス",
+    "classId": 5,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "善",
+    "policy": "混沌",
+    "cost": 7,
+    "hpBase": 1711,
+    "hpMax": 9506,
+    "atkBase": 1246,
+    "atkMax": 6711,
+    "np": [
+      "元素使いの魔剣 A+",
+      "元素使いの魔剣 A+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "愛人"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "陣地作成 A",
+      "道具作成 EX"
+    ],
+    "npGainAtk": 0.0055,
+    "npGainDef": 0.03,
+    "skill1": [
+      "高速詠唱 A"
+    ],
+    "skill2": [
+      "エレメンタル A+"
+    ],
+    "skill3": [
+      "賢者の石 A"
+    ]
+  },
+  "80": {
+    "uid": 501100,
+    "id": 80,
+    "name": "チャールズ・バベッジ",
+    "classId": 5,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "中庸",
+    "policy": "混沌",
+    "cost": 7,
+    "hpBase": 1959,
+    "hpMax": 10887,
+    "atkBase": 1113,
+    "atkMax": 5996,
+    "np": [
+      "絢爛なりし灰燼世界 A+",
+      "絢爛なりし灰燼世界 EX"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "道具作成(偽) A"
+    ],
+    "npGainAtk": 0.0091,
+    "npGainDef": 0.03,
+    "skill1": [
+      "一意専心 C"
+    ],
+    "skill2": [
+      "機関の鎧 EX",
+      "機関の鎧 EX"
+    ],
+    "skill3": [
+      "オーバーロード D"
+    ]
+  },
+  "81": {
+    "uid": 600700,
+    "id": 81,
+    "name": "ヘンリー・ジキル＆ハイド",
+    "classId": 6,
+    "gender": "男性",
+    "attribute": "地",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 7,
+    "hpBase": 1741,
+    "hpMax": 9675,
+    "atkBase": 1173,
+    "atkMax": 6320,
+    "np": [
+      "密やかなる罪の遊戯 C",
+      "密やかなる罪の遊戯 C+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      "愛人"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "気配遮断 A"
+    ],
+    "npGainAtk": 0.0105,
+    "npGainDef": 0.04,
+    "skill1": [
+      "怪力 B"
+    ],
+    "skill2": [
+      "恐慌の声 A"
+    ],
+    "skill3": [
+      "自己改造 D"
+    ]
+  },
+  "82": {
+    "uid": 700400,
+    "id": 82,
+    "name": "フランケンシュタイン",
+    "classId": 7,
+    "gender": "女性",
+    "attribute": "地",
+    "personality": "中庸",
+    "policy": "混沌",
+    "cost": 12,
+    "hpBase": 1710,
+    "hpMax": 10687,
+    "atkBase": 1573,
+    "atkMax": 9441,
+    "np": [
+      "磔刑の雷樹 D～B",
+      "磔刑の雷樹 D～B+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "狂化 D"
+    ],
+    "npGainAtk": 0.0083,
+    "npGainDef": 0.05,
+    "skill1": [
+      "ガルバニズム B"
+    ],
+    "skill2": [
+      "虚ろなる生者の嘆き D",
+      "虚ろなる生者の嘆き C"
+    ],
+    "skill3": [
+      "オーバーロード C"
+    ]
+  },
+  "84": {
+    "uid": 201500,
+    "id": 84,
+    "name": "アルジュナ",
+    "classId": 2,
+    "gender": "男性",
+    "attribute": "天",
+    "personality": "中庸",
+    "policy": "秩序",
+    "cost": 16,
+    "hpBase": 1940,
+    "hpMax": 13230,
+    "atkBase": 1907,
+    "atkMax": 12342,
+    "np": [
+      "破壊神の手翳 A+",
+      "破壊神の手翳 A+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 3,
+      "Quick": 2,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 C",
+      "単独行動 A",
+      "神性 B"
+    ],
+    "npGainAtk": 0.0051,
+    "npGainDef": 0.03,
+    "skill1": [
+      "千里眼 C+",
+      "千里眼(射手) B+"
+    ],
+    "skill2": [
+      "授かりの英雄 A"
+    ],
+    "skill3": [
+      "魔力放出（炎） A"
+    ]
+  },
+  "85": {
+    "uid": 300400,
+    "id": 85,
+    "name": "カルナ",
+    "classId": 3,
+    "gender": "男性",
+    "attribute": "天",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 16,
+    "hpBase": 1999,
+    "hpMax": 13632,
+    "atkBase": 1850,
+    "atkMax": 11976,
+    "np": [
+      "日輪よ、死に随え EX",
+      "日輪よ、死に随え EX"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      "愛人"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 1,
+      "Quick": 3,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 C",
+      "騎乗 A",
+      "神性 A"
+    ],
+    "npGainAtk": 0.0072,
+    "npGainDef": 0.04,
+    "skill1": [
+      "貧者の見識 A"
+    ],
+    "skill2": [
+      "魔力放出（炎） A"
+    ],
+    "skill3": [
+      "無冠の武芸"
+    ]
+  },
+  "86": {
+    "uid": 601800,
+    "id": 86,
+    "name": "謎のヒロインX",
+    "classId": 6,
+    "gender": "女性",
+    "attribute": "星",
+    "personality": "善",
+    "policy": "混沌",
+    "cost": 16,
+    "hpBase": 1862,
+    "hpMax": 12696,
+    "atkBase": 1817,
+    "atkMax": 11761,
+    "np": [
+      "無銘勝利剣 A+",
+      "無銘勝利剣 EX"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "龍",
+      "阿爾托莉亞臉",
+      "亞瑟",
+      "王"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 4,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "コスモリアクター A",
+      "騎乗 EX"
+    ],
+    "npGainAtk": 0.0081,
+    "npGainDef": 0.04,
+    "skill1": [
+      "支援砲撃 EX"
+    ],
+    "skill2": [
+      "直感 C+",
+      "セイバーの星 C++"
+    ],
+    "skill3": [
+      "銀河流星剣 C"
+    ]
+  },
+  "87": {
+    "uid": 301100,
+    "id": 87,
+    "name": "フィン・マックール",
+    "classId": 3,
+    "gender": "男性",
+    "attribute": "天",
+    "personality": "中庸",
+    "policy": "中立",
+    "cost": 12,
+    "hpBase": 2040,
+    "hpMax": 12750,
+    "atkBase": 1488,
+    "atkMax": 8930,
+    "np": [
+      "無敗の紫靫草 A",
+      "無敗の紫靫草 A+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 B",
+      "神性 D"
+    ],
+    "npGainAtk": 0.0055,
+    "npGainDef": 0.04,
+    "skill1": [
+      "千里眼 B",
+      "千里眼(麗) B++"
+    ],
+    "skill2": [
+      "女難の美 A"
+    ],
+    "skill3": [
+      "魔術 B"
+    ]
+  },
+  "88": {
+    "uid": 301200,
+    "id": 88,
+    "name": "ブリュンヒルデ",
+    "classId": 3,
+    "gender": "女性",
+    "attribute": "天",
+    "personality": "善",
+    "policy": "中立",
+    "cost": 16,
+    "hpBase": 2174,
+    "hpMax": 14825,
+    "atkBase": 1766,
+    "atkMax": 11432,
+    "np": [
+      "死がふたりを分断つまで B",
+      "死がふたりを分断つまで B",
+      "死がふたりを分断つまで B+"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 3,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 B",
+      "騎乗 A",
+      "神性 E"
+    ],
+    "npGainAtk": 0.0107,
+    "npGainDef": 0.04,
+    "skill1": [
+      "魔力放出（炎） B"
+    ],
+    "skill2": [
+      "原初のルーン"
+    ],
+    "skill3": [
+      "英雄の介添 C",
+      "英雄の介添 C++"
+    ]
+  },
+  "89": {
+    "uid": 700800,
+    "id": 89,
+    "name": "ベオウルフ",
+    "classId": 7,
+    "gender": "男性",
+    "attribute": "地",
+    "personality": "善",
+    "policy": "混沌",
+    "cost": 12,
+    "hpBase": 1652,
+    "hpMax": 10327,
+    "atkBase": 1707,
+    "atkMax": 10247,
+    "np": [
+      "源流闘争 A+",
+      "源流闘争 A+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      "愛人",
+      "王"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 1,
+      "Quick": 3,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "狂化 E-"
+    ],
+    "npGainAtk": 0.0068,
+    "npGainDef": 0.05,
+    "skill1": [
+      "ベルセルク A"
+    ],
+    "skill2": [
+      "直感 B"
+    ],
+    "skill3": [
+      "戦闘続行 B"
+    ]
+  },
+  "90": {
+    "uid": 100600,
+    "id": 90,
+    "name": "ネロ・クラウディウス〔ブライド〕",
+    "classId": 1,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "花嫁",
+    "policy": "混沌",
+    "cost": 16,
+    "hpBase": 2089,
+    "hpMax": 14248,
+    "atkBase": 1793,
+    "atkMax": 11607,
+    "np": [
+      "星馳せる終幕の薔薇 B+",
+      "星馳せる終幕の薔薇 B++"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "羅馬",
+      "阿爾托莉亞臉",
+      "被「天地乖離開辟之星」所剋",
+      null,
+      "王"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 1,
+      "Quick": 3,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 C",
+      "騎乗 B"
+    ],
+    "npGainAtk": 0.007,
+    "npGainDef": 0.03,
+    "skill1": [
+      "天に星を A"
+    ],
+    "skill2": [
+      "地に花を A"
+    ],
+    "skill3": [
+      "人に愛を A"
+    ]
+  },
+  "91": {
+    "uid": 102800,
+    "id": 91,
+    "name": "両儀式",
+    "classId": 1,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "中庸",
+    "policy": "中立",
+    "cost": 16,
+    "hpBase": 2266,
+    "hpMax": 15453,
+    "atkBase": 1656,
+    "atkMax": 10721,
+    "np": [
+      "無垢識・空の境界 EX"
+    ],
+    "traits": [
+      null,
+      "人型",
+      null
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 4,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 A",
+      "単独顕現 C",
+      "根源接続 A"
+    ],
+    "npGainAtk": 0.0084,
+    "npGainDef": 0.03,
+    "skill1": [
+      "直死の魔眼 C"
+    ],
+    "skill2": [
+      "雲耀 B"
+    ],
+    "skill3": [
+      "陰陽魚 A"
+    ]
+  },
+  "92": {
+    "uid": 602300,
+    "id": 92,
+    "name": "両儀式",
+    "classId": 6,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "善",
+    "policy": "混沌",
+    "cost": 12,
+    "hpBase": 1768,
+    "hpMax": 11055,
+    "atkBase": 1477,
+    "atkMax": 8867,
+    "np": [
+      "唯識・直死の魔眼 EX"
+    ],
+    "traits": [
+      null,
+      "人型"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 4,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "気配遮断 C",
+      "単独行動 A"
+    ],
+    "npGainAtk": 0.008,
+    "npGainDef": 0.04,
+    "skill1": [
+      "直死の魔眼 A"
+    ],
+    "skill2": [
+      "心眼（偽） A"
+    ],
+    "skill3": [
+      "陰陽魚 B"
+    ]
+  },
+  "93": {
+    "uid": 900200,
+    "id": 93,
+    "name": "天草四郎",
+    "classId": 9,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 16,
+    "hpBase": 2069,
+    "hpMax": 14107,
+    "atkBase": 1695,
+    "atkMax": 10972,
+    "np": [
+      "双腕・零次集束 A+",
+      "双腕・零次集束 EX"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 3,
+      "Extra": 7
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 A"
+    ],
+    "npGainAtk": 0.0086,
+    "npGainDef": 0.03,
+    "skill1": [
+      "啓示 A"
+    ],
+    "skill2": [
+      "洗礼詠唱 B+"
+    ],
+    "skill3": [
+      "神明裁決 C",
+      "神明裁決(偽） C++"
+    ]
+  },
+  "94": {
+    "uid": 400400,
+    "id": 94,
+    "name": "アストルフォ",
+    "classId": 4,
+    "gender": "無",
+    "attribute": "地",
+    "personality": "善",
+    "policy": "混沌",
+    "cost": 12,
+    "hpBase": 1787,
+    "hpMax": 11172,
+    "atkBase": 1489,
+    "atkMax": 8937,
+    "np": [
+      "この世ならざる幻馬 B+",
+      "この世ならざる幻馬 B++"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      null
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 A",
+      "騎乗 A+",
+      "単独行動 B"
+    ],
+    "npGainAtk": 0.0066,
+    "npGainDef": 0.01,
+    "skill1": [
+      "怪力 C-"
+    ],
+    "skill2": [
+      "触れれば転倒！ D"
+    ],
+    "skill3": [
+      "理性蒸発 D",
+      "理性蒸発 D+"
+    ]
+  },
+  "95": {
+    "uid": 201800,
+    "id": 95,
+    "name": "子ギル",
+    "classId": 2,
+    "gender": "男性",
+    "attribute": "天",
+    "personality": "善",
+    "policy": "混沌",
+    "cost": 7,
+    "hpBase": 1571,
+    "hpMax": 8731,
+    "atkBase": 1429,
+    "atkMax": 7696,
+    "np": [
+      "王の財宝 B+",
+      "王の財宝 B++"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      "王"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 3,
+      "Quick": 3,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 E",
+      "単独行動 A",
+      "神性 B"
+    ],
+    "npGainAtk": 0.0062,
+    "npGainDef": 0.03,
+    "skill1": [
+      "カリスマ A+"
+    ],
+    "skill2": [
+      "紅顔の美少年 C"
+    ],
+    "skill3": [
+      "黄金律 A"
+    ]
+  },
+  "96": {
+    "uid": 1100200,
+    "id": 96,
+    "name": "巌窟王",
+    "classId": 11,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "惡",
+    "policy": "混沌",
+    "cost": 16,
+    "hpBase": 1785,
+    "hpMax": 12177,
+    "atkBase": 1953,
+    "atkMax": 12641,
+    "np": [
+      "虎よ、煌々と燃え盛れ A"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 3,
+      "Quick": 4,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "復讐者 A",
+      "忘却補正 B",
+      "自己回復(魔力) D"
+    ],
+    "npGainAtk": 0.0062,
+    "npGainDef": 0.05,
+    "skill1": [
+      "鋼鉄の決意 EX"
+    ],
+    "skill2": [
+      "黄金律 A"
+    ],
+    "skill3": [
+      "窮地の智慧 A"
+    ]
+  },
+  "97": {
+    "uid": 701400,
+    "id": 97,
+    "name": "ナイチンゲール",
+    "classId": 7,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 16,
+    "hpBase": 2232,
+    "hpMax": 15221,
+    "atkBase": 1573,
+    "atkMax": 10184,
+    "np": [
+      "我はすべて毒あるもの、害あるものを絶つ C",
+      "我はすべて毒あるもの、害あるものを絶つ C+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 6,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "狂化 EX"
+    ],
+    "npGainAtk": 0.0077,
+    "npGainDef": 0.05,
+    "skill1": [
+      "鋼の看護 A"
+    ],
+    "skill2": [
+      "人体理解 A"
+    ],
+    "skill3": [
+      "天使の叫び EX"
+    ]
+  },
+  "98": {
+    "uid": 702000,
+    "id": 98,
+    "name": "クー・フーリン〔オルタ〕",
+    "classId": 7,
+    "gender": "男性",
+    "attribute": "地",
+    "personality": "惡",
+    "policy": "混沌",
+    "cost": 16,
+    "hpBase": 1790,
+    "hpMax": 12210,
+    "atkBase": 1979,
+    "atkMax": 12805,
+    "np": [
+      "噛み砕く死牙の獣 A"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      "愛人"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 3,
+      "Quick": 4,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "狂化 EX (C相当）",
+      "神性 C"
+    ],
+    "npGainAtk": 0.0069,
+    "npGainDef": 0.05,
+    "skill1": [
+      "精霊の狂騒 A"
+    ],
+    "skill2": [
+      "矢避けの加護 C"
+    ],
+    "skill3": [
+      "戦闘続行 A"
+    ]
+  },
+  "99": {
+    "uid": 401300,
+    "id": 99,
+    "name": "女王メイヴ",
+    "classId": 4,
+    "gender": "女性",
+    "attribute": "地",
+    "personality": "惡",
+    "policy": "混沌",
+    "cost": 16,
+    "hpBase": 2048,
+    "hpMax": 13968,
+    "atkBase": 1591,
+    "atkMax": 10296,
+    "np": [
+      "愛しき私の鉄戦車 B",
+      "愛しき私の鉄戦車 B+"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      "王"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 3,
+      "Extra": 7
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 B",
+      "騎乗 A"
+    ],
+    "npGainAtk": 0.0086,
+    "npGainDef": 0.03,
+    "skill1": [
+      "黄金律（体） A"
+    ],
+    "skill2": [
+      "カリスマ B",
+      "女王の躾 A"
+    ],
+    "skill3": [
+      "魅惑の美声 C"
+    ]
+  },
+  "100": {
+    "uid": 502300,
+    "id": 100,
+    "name": "エレナ・ブラヴァツキー",
+    "classId": 5,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "善",
+    "policy": "混沌",
+    "cost": 12,
+    "hpBase": 1901,
+    "hpMax": 11882,
+    "atkBase": 1438,
+    "atkMax": 8629,
+    "np": [
+      "金星神・火炎天主 A",
+      "金星神・火炎天主 A+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 1,
+      "Quick": 6,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "陣地作成 A",
+      "道具作成 B"
+    ],
+    "npGainAtk": 0.0045,
+    "npGainDef": 0.03,
+    "skill1": [
+      "魔力同調 C"
+    ],
+    "skill2": [
+      "マハトマ A"
+    ],
+    "skill3": [
+      "未知への探求 B"
+    ]
+  },
+  "101": {
+    "uid": 101900,
+    "id": 101,
+    "name": "ラーマ",
+    "classId": 1,
+    "gender": "男性",
+    "attribute": "天",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 12,
+    "hpBase": 1919,
+    "hpMax": 11993,
+    "atkBase": 1642,
+    "atkMax": 9854,
+    "np": [
+      "羅刹を穿つ不滅 A+"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      null,
+      "愛人",
+      "王"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 A",
+      "騎乗 A+",
+      "神性 A"
+    ],
+    "npGainAtk": 0.0084,
+    "npGainDef": 0.03,
+    "skill1": [
+      "武の祝福 A"
+    ],
+    "skill2": [
+      "カリスマ B"
+    ],
+    "skill3": [
+      "離別の呪い A"
+    ]
+  },
+  "102": {
+    "uid": 301700,
+    "id": 102,
+    "name": "李書文",
+    "classId": 3,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "惡",
+    "policy": "中立",
+    "cost": 12,
+    "hpBase": 1817,
+    "hpMax": 11360,
+    "atkBase": 1608,
+    "atkMax": 9653,
+    "np": [
+      "神槍无二打 -"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 1,
+      "Quick": 3,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 D"
+    ],
+    "npGainAtk": 0.0052,
+    "npGainDef": 0.04,
+    "skill1": [
+      "中国武術（六合大槍） A+++"
+    ],
+    "skill2": [
+      "圏境 B"
+    ],
+    "skill3": [
+      "絶招 B"
+    ]
+  },
+  "103": {
+    "uid": 502500,
+    "id": 103,
+    "name": "トーマス・エジソン",
+    "classId": 5,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "中庸",
+    "policy": "秩序",
+    "cost": 12,
+    "hpBase": 1901,
+    "hpMax": 11882,
+    "atkBase": 1325,
+    "atkMax": 7952,
+    "np": [
+      "Ｗ・Ｆ・Ｄ EX",
+      "Ｗ・Ｆ・Ｄ EX"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 3,
+      "Quick": 3,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "陣地作成 EX (D相当）",
+      "道具作成 EX (D相当）"
+    ],
+    "npGainAtk": 0.0051,
+    "npGainDef": 0.03,
+    "skill1": [
+      "変化 C"
+    ],
+    "skill2": [
+      "大量生産 A"
+    ],
+    "skill3": [
+      "概念改良 A+"
+    ]
+  },
+  "104": {
+    "uid": 501600,
+    "id": 104,
+    "name": "ジェロニモ",
+    "classId": 5,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "善",
+    "policy": "中立",
+    "cost": 7,
+    "hpBase": 1642,
+    "hpMax": 9123,
+    "atkBase": 1273,
+    "atkMax": 6857,
+    "np": [
+      "大地を創りし者 B",
+      "大地を創りし者 B+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "愛人"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "陣地作成 B",
+      "道具作成 C"
+    ],
+    "npGainAtk": 0.009,
+    "npGainDef": 0.03,
+    "skill1": [
+      "血塗れの悪魔 B"
+    ],
+    "skill2": [
+      "シャーマニズム B"
+    ],
+    "skill3": [
+      "守護の獣 B"
+    ]
+  },
+  "105": {
+    "uid": 201000,
+    "id": 105,
+    "name": "ビリー・ザ・キッド",
+    "classId": 2,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "中庸",
+    "policy": "混沌",
+    "cost": 7,
+    "hpBase": 1711,
+    "hpMax": 9506,
+    "atkBase": 1279,
+    "atkMax": 6890,
+    "np": [
+      "壊音の霹靂 C++",
+      "壊音の霹靂 C+++"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 4,
+      "Quick": 2,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "単独行動 A",
+      "騎乗 C+"
+    ],
+    "npGainAtk": 0.0056,
+    "npGainDef": 0.03,
+    "skill1": [
+      "射撃 A++"
+    ],
+    "skill2": [
+      "クイックドロウ A+"
+    ],
+    "skill3": [
+      "心眼（偽） C"
+    ]
+  },
+  "106": {
+    "uid": 1100300,
+    "id": 106,
+    "name": "ジャンヌ・ダルク〔オルタ〕",
+    "classId": 11,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "惡",
+    "policy": "混沌",
+    "cost": 16,
+    "hpBase": 1724,
+    "hpMax": 11761,
+    "atkBase": 2046,
+    "atkMax": 13244,
+    "np": [
+      "吼え立てよ、我が憤怒 A+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "阿爾托莉亞臉",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 4,
+      "Quick": 3,
+      "Extra": 7
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "復讐者 B",
+      "忘却補正 A",
+      "自己回復(魔力) A+"
+    ],
+    "npGainAtk": 0.0083,
+    "npGainDef": 0.05,
+    "skill1": [
+      "自己改造 EX"
+    ],
+    "skill2": [
+      "竜の魔女 EX"
+    ],
+    "skill3": [
+      "うたかたの夢 A"
+    ]
+  },
+  "107": {
+    "uid": 1100100,
+    "id": 107,
+    "name": "アンリマユ",
+    "classId": 11,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "惡",
+    "policy": "混沌",
+    "cost": 4,
+    "hpBase": 1502,
+    "hpMax": 7981,
+    "atkBase": 1008,
+    "atkMax": 5683,
+    "np": [
+      "偽り写し記す万象 C-"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 3,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "復讐者 A",
+      "忘却補正 A",
+      "自己回復(魔力) E"
+    ],
+    "npGainAtk": 0.0079,
+    "npGainDef": 0.05,
+    "skill1": [
+      "右歯噛咬 C"
+    ],
+    "skill2": [
+      "左歯噛咬 C"
+    ],
+    "skill3": [
+      "死滅願望 A",
+      "四夜の終末 EX"
+    ]
+  },
+  "108": {
+    "uid": 400200,
+    "id": 108,
+    "name": "イスカンダル",
+    "classId": 4,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "善",
+    "policy": "中立",
+    "cost": 16,
+    "hpBase": 1938,
+    "hpMax": 13219,
+    "atkBase": 1786,
+    "atkMax": 11560,
+    "np": [
+      "王の軍勢 EX",
+      "王の軍勢 EX"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "愛人",
+      "王",
+      "希臘神話系男性"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 3,
+      "Extra": 6
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 D",
+      "騎乗 A+",
+      "神性 C"
+    ],
+    "npGainAtk": 0.0066,
+    "npGainDef": 0.03,
+    "skill1": [
+      "カリスマ A"
+    ],
+    "skill2": [
+      "軍略 B"
+    ],
+    "skill3": [
+      "雷の征服者 EX"
+    ]
+  },
+  "109": {
+    "uid": 601500,
+    "id": 109,
+    "name": "エミヤ〔アサシン〕",
+    "classId": 6,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "惡",
+    "policy": "混沌",
+    "cost": 12,
+    "hpBase": 1786,
+    "hpMax": 11168,
+    "atkBase": 1493,
+    "atkMax": 8958,
+    "np": [
+      "時のある間に薔薇を摘め B",
+      "時のある間に薔薇を摘め B+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "愛人"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 6,
+      "Quick": 4,
+      "Extra": 8
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "気配遮断 A+",
+      "単独行動 A"
+    ],
+    "npGainAtk": 0.0028,
+    "npGainDef": 0.04,
+    "skill1": [
+      "魔術 B"
+    ],
+    "skill2": [
+      "聖杯の寵愛 A+"
+    ],
+    "skill3": [
+      "スケープゴート C"
+    ]
+  },
+  "110": {
+    "uid": 600300,
+    "id": 110,
+    "name": "百貌のハサン",
+    "classId": 6,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "惡",
+    "policy": "秩序",
+    "cost": 7,
+    "hpBase": 1675,
+    "hpMax": 9310,
+    "atkBase": 1241,
+    "atkMax": 6686,
+    "np": [
+      "妄想幻像 B+",
+      "妄想幻像 B++"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 1,
+      "Quick": 3,
+      "Extra": 6
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "気配遮断 A"
+    ],
+    "npGainAtk": 0.0038,
+    "npGainDef": 0.04,
+    "skill1": [
+      "蔵知の司書 C"
+    ],
+    "skill2": [
+      "専科百般 A+"
+    ],
+    "skill3": [
+      "戦闘撤退 B"
+    ]
+  },
+  "111": {
+    "uid": 502000,
+    "id": 111,
+    "name": "アイリスフィール〔天の衣〕",
+    "classId": 5,
+    "gender": "女性",
+    "attribute": "天",
+    "personality": "善",
+    "policy": "混沌",
+    "cost": 12,
+    "hpBase": 1996,
+    "hpMax": 12476,
+    "atkBase": 1372,
+    "atkMax": 8237,
+    "np": [
+      "白き聖杯よ、謳え B"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 3,
+      "Quick": 3,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "陣地作成 B",
+      "女神の神核 C"
+    ],
+    "npGainAtk": 0.0042,
+    "npGainDef": 0.03,
+    "skill1": [
+      "献身の覚悟 A"
+    ],
+    "skill2": [
+      "自然の嬰児 A"
+    ],
+    "skill3": [
+      "魔術医療 A"
+    ]
+  },
+  "112": {
+    "uid": 602100,
+    "id": 112,
+    "name": "酒呑童子",
+    "classId": 6,
+    "gender": "女性",
+    "attribute": "地",
+    "personality": "惡",
+    "policy": "混沌",
+    "cost": 16,
+    "hpBase": 1881,
+    "hpMax": 12825,
+    "atkBase": 1853,
+    "atkMax": 11993,
+    "np": [
+      "千紫万紅・神便鬼毒 B"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "神性",
+      null,
+      "魔性",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      "龍",
+      null,
+      null
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 1,
+      "Quick": 4,
+      "Extra": 6
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "気配遮断 C",
+      "神性 C"
+    ],
+    "npGainAtk": 0.0055,
+    "npGainDef": 0.04,
+    "skill1": [
+      "果実の酒気 A"
+    ],
+    "skill2": [
+      "鬼種の魔 A"
+    ],
+    "skill3": [
+      "戦闘続行 A+"
+    ]
+  },
+  "113": {
+    "uid": 502200,
+    "id": 113,
+    "name": "玄奘三蔵",
+    "classId": 5,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 16,
+    "hpBase": 1901,
+    "hpMax": 12965,
+    "atkBase": 1801,
+    "atkMax": 11658,
+    "np": [
+      "五行山・釈迦如来掌 B",
+      "五行山・釈迦如来掌 B+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 3,
+      "Extra": 6
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "陣地作成 A+",
+      "神性 D"
+    ],
+    "npGainAtk": 0.0082,
+    "npGainDef": 0.03,
+    "skill1": [
+      "高速読経 A"
+    ],
+    "skill2": [
+      "妖惹の紅顔 A"
+    ],
+    "skill3": [
+      "三蔵の教え A"
+    ]
+  },
+  "114": {
+    "uid": 702300,
+    "id": 114,
+    "name": "源頼光",
+    "classId": 7,
+    "gender": "女性",
+    "attribute": "天",
+    "personality": "善",
+    "policy": "混沌",
+    "cost": 16,
+    "hpBase": 1980,
+    "hpMax": 13500,
+    "atkBase": 1786,
+    "atkMax": 11556,
+    "np": [
+      "牛王招雷・天網恢々 B++"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 4,
+      "Buster": 1,
+      "Quick": 3,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 D",
+      "狂化 EX",
+      "騎乗 A+",
+      "神性 C"
+    ],
+    "npGainAtk": 0.0046,
+    "npGainDef": 0.05,
+    "skill1": [
+      "無窮の武練 A+"
+    ],
+    "skill2": [
+      "魔力放出（雷） A"
+    ],
+    "skill3": [
+      "神秘殺し A"
+    ]
+  },
+  "115": {
+    "uid": 402300,
+    "id": 115,
+    "name": "坂田金時",
+    "classId": 4,
+    "gender": "男性",
+    "attribute": "地",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 12,
+    "hpBase": 1728,
+    "hpMax": 10800,
+    "atkBase": 1636,
+    "atkMax": 9819,
+    "np": [
+      "夜狼死九・黄金疾走 B"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      "愛人"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 4,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "神性 C"
+    ],
+    "npGainAtk": 0.0115,
+    "npGainDef": 0.03,
+    "skill1": [
+      "千里疾走 A"
+    ],
+    "skill2": [
+      "動物会話 C"
+    ],
+    "skill3": [
+      "天性の肉体 A"
+    ]
+  },
+  "116": {
+    "uid": 702200,
+    "id": 116,
+    "name": "茨木童子",
+    "classId": 7,
+    "gender": "女性",
+    "attribute": "地",
+    "personality": "惡",
+    "policy": "混沌",
+    "cost": 12,
+    "hpBase": 1752,
+    "hpMax": 10954,
+    "atkBase": 1606,
+    "atkMax": 9636,
+    "np": [
+      "羅生門大怨起 B"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "魔性",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      null,
+      null
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 4,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "狂化 B"
+    ],
+    "npGainAtk": 0.0103,
+    "npGainDef": 0.05,
+    "skill1": [
+      "鬼種の魔 A"
+    ],
+    "skill2": [
+      "仕切り直し A"
+    ],
+    "skill3": [
+      "変化 A"
+    ]
+  },
+  "117": {
+    "uid": 601900,
+    "id": 117,
+    "name": "風魔小太郎",
+    "classId": 6,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "惡",
+    "policy": "混沌",
+    "cost": 7,
+    "hpBase": 1592,
+    "hpMax": 8844,
+    "atkBase": 1316,
+    "atkMax": 7091,
+    "np": [
+      "不滅の混沌旅団 B",
+      "不滅の混沌旅団 B+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 4,
+      "Buster": 1,
+      "Quick": 4,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "気配遮断 A+"
+    ],
+    "npGainAtk": 0.0054,
+    "npGainDef": 0.04,
+    "skill1": [
+      "破壊工作 B+"
+    ],
+    "skill2": [
+      "忍術 A+++"
+    ],
+    "skill3": [
+      "風声鶴唳 C"
+    ]
+  },
+  "118": {
+    "uid": 401200,
+    "id": 118,
+    "name": "オジマンディアス",
+    "classId": 4,
+    "gender": "男性",
+    "attribute": "天",
+    "personality": "中庸",
+    "policy": "混沌",
+    "cost": 16,
+    "hpBase": 1881,
+    "hpMax": 12830,
+    "atkBase": 1850,
+    "atkMax": 11971,
+    "np": [
+      "光輝の大複合神殿 EX"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      "愛人",
+      "王"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 1,
+      "Quick": 5,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 B",
+      "騎乗 A+",
+      "神性 B"
+    ],
+    "npGainAtk": 0.0059,
+    "npGainDef": 0.03,
+    "skill1": [
+      "カリスマ B"
+    ],
+    "skill2": [
+      "皇帝特権 A"
+    ],
+    "skill3": [
+      "太陽神の加護 A"
+    ]
+  },
+  "119": {
+    "uid": 302000,
+    "id": 119,
+    "name": "アルトリア・ペンドラゴン",
+    "classId": 3,
+    "gender": "女性",
+    "attribute": "天",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 16,
+    "hpBase": 2288,
+    "hpMax": 15606,
+    "atkBase": 1699,
+    "atkMax": 10995,
+    "np": [
+      "最果てにて輝ける槍 A++"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "龍",
+      "阿爾托莉亞臉",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      "亞瑟",
+      "王"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 3,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 B",
+      "騎乗 A"
+    ],
+    "npGainAtk": 0.011,
+    "npGainDef": 0.04,
+    "skill1": [
+      "魔力放出 A"
+    ],
+    "skill2": [
+      "カリスマ B"
+    ],
+    "skill3": [
+      "最果ての加護 EX"
+    ]
+  },
+  "120": {
+    "uid": 501200,
+    "id": 120,
+    "name": "ニトクリス",
+    "classId": 5,
+    "gender": "女性",
+    "attribute": "地",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 12,
+    "hpBase": 1806,
+    "hpMax": 11288,
+    "atkBase": 1510,
+    "atkMax": 9060,
+    "np": [
+      "冥鏡宝典 B+",
+      "冥鏡宝典 B++"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      "王"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 3,
+      "Quick": 4,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "陣地作成 A",
+      "道具作成 B+",
+      "神性 B"
+    ],
+    "npGainAtk": 0.0054,
+    "npGainDef": 0.03,
+    "skill1": [
+      "エジプト魔術 A"
+    ],
+    "skill2": [
+      "高速神言 B"
+    ],
+    "skill3": [
+      "天空神の寵愛 B"
+    ]
+  },
+  "121": {
+    "uid": 102000,
+    "id": 121,
+    "name": "ランスロット",
+    "classId": 1,
+    "gender": "男性",
+    "attribute": "地",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 12,
+    "hpBase": 1854,
+    "hpMax": 11589,
+    "atkBase": 1658,
+    "atkMax": 9949,
+    "np": [
+      "縛鎖全断・過重湖光 A"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      null,
+      "愛人"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 4,
+      "Quick": 3,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 B",
+      "騎乗 B"
+    ],
+    "npGainAtk": 0.0083,
+    "npGainDef": 0.03,
+    "skill1": [
+      "湖の騎士 A"
+    ],
+    "skill2": [
+      "無窮の武練 A+"
+    ],
+    "skill3": [
+      "騎士は徒手にて死せず A++"
+    ]
+  },
+  "122": {
+    "uid": 200800,
+    "id": 122,
+    "name": "トリスタン",
+    "classId": 2,
+    "gender": "男性",
+    "attribute": "地",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 12,
+    "hpBase": 1862,
+    "hpMax": 11637,
+    "atkBase": 1622,
+    "atkMax": 9735,
+    "np": [
+      "痛哭の幻奏 A",
+      "痛哭の幻奏 A+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 5,
+      "Quick": 4,
+      "Extra": 6
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 B",
+      "単独行動 B"
+    ],
+    "npGainAtk": 0.0058,
+    "npGainDef": 0.03,
+    "skill1": [
+      "治癒の竪琴 C"
+    ],
+    "skill2": [
+      "祝福されぬ生誕 B"
+    ],
+    "skill3": [
+      "騎士王への諫言 B"
+    ]
+  },
+  "123": {
+    "uid": 100700,
+    "id": 123,
+    "name": "ガウェイン",
+    "classId": 1,
+    "gender": "男性",
+    "attribute": "地",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 12,
+    "hpBase": 1827,
+    "hpMax": 11419,
+    "atkBase": 1695,
+    "atkMax": 10173,
+    "np": [
+      "転輪する勝利の剣 A+",
+      "転輪する勝利の剣 A+"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      null,
+      "愛人"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 B",
+      "騎乗 B"
+    ],
+    "npGainAtk": 0.0114,
+    "npGainDef": 0.03,
+    "skill1": [
+      "聖者の数字 EX"
+    ],
+    "skill2": [
+      "カリスマ E"
+    ],
+    "skill3": [
+      "ベルシラックの帯 EX"
+    ]
+  },
+  "124": {
+    "uid": 600900,
+    "id": 124,
+    "name": "静謐のハサン",
+    "classId": 6,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "惡",
+    "policy": "秩序",
+    "cost": 7,
+    "hpBase": 1675,
+    "hpMax": 9310,
+    "atkBase": 1232,
+    "atkMax": 6636,
+    "np": [
+      "妄想毒身 C",
+      "妄想毒身 C+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 4,
+      "Quick": 3,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "気配遮断 A+",
+      "単独行動 A"
+    ],
+    "npGainAtk": 0.0053,
+    "npGainDef": 0.04,
+    "skill1": [
+      "変化（潜入特化） C"
+    ],
+    "skill2": [
+      "投擲（短刀） C",
+      "毒の刃 C++"
+    ],
+    "skill3": [
+      "静寂の舞踏 B"
+    ]
+  },
+  "125": {
+    "uid": 201400,
+    "id": 125,
+    "name": "俵藤太",
+    "classId": 2,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "善",
+    "policy": "中立",
+    "cost": 7,
+    "hpBase": 1764,
+    "hpMax": 9800,
+    "atkBase": 1306,
+    "atkMax": 7032,
+    "np": [
+      "八幡祈願・大妖射貫 B",
+      "八幡祈願・大妖射貫 B+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "愛人"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 C",
+      "単独行動 B"
+    ],
+    "npGainAtk": 0.0057,
+    "npGainDef": 0.03,
+    "skill1": [
+      "龍神の加護 C"
+    ],
+    "skill2": [
+      "矢避けの加護 C"
+    ],
+    "skill3": [
+      "無尽俵 EX"
+    ]
+  },
+  "126": {
+    "uid": 101200,
+    "id": 126,
+    "name": "ベディヴィエール",
+    "classId": 1,
+    "gender": "男性",
+    "attribute": "星",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 7,
+    "hpBase": 1727,
+    "hpMax": 9595,
+    "atkBase": 1416,
+    "atkMax": 7627,
+    "np": [
+      "剣を摂れ、銀色の腕 C",
+      "剣を摂れ、銀色の腕 C+"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      null,
+      "愛人"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 2,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 B",
+      "騎乗 A"
+    ],
+    "npGainAtk": 0.0111,
+    "npGainDef": 0.03,
+    "skill1": [
+      "軍略 C"
+    ],
+    "skill2": [
+      "沈着冷静 B"
+    ],
+    "skill3": [
+      "守護の誓約 B"
+    ]
+  },
+  "127": {
+    "uid": 500900,
+    "id": 127,
+    "name": "レオナルド・ダ・ヴィンチ",
+    "classId": 5,
+    "gender": "女性",
+    "attribute": "星",
+    "personality": "善",
+    "policy": "混沌",
+    "cost": 16,
+    "hpBase": 2091,
+    "hpMax": 14259,
+    "atkBase": 1637,
+    "atkMax": 10598,
+    "np": [
+      "万能の人 EX",
+      "万能の人 EX"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 1,
+      "Quick": 4,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "陣地作成 A",
+      "道具作成 A"
+    ],
+    "npGainAtk": 0.0054,
+    "npGainDef": 0.03,
+    "skill1": [
+      "天賦の叡智 EX"
+    ],
+    "skill2": [
+      "黄金律（体） B"
+    ],
+    "skill3": [
+      "星の開拓者 EX"
+    ]
+  },
+  "128": {
+    "uid": 302400,
+    "id": 128,
+    "name": "玉藻の前",
+    "classId": 3,
+    "gender": "女性",
+    "attribute": "天",
+    "personality": "夏",
+    "policy": "中立",
+    "cost": 16,
+    "hpBase": 2221,
+    "hpMax": 15147,
+    "atkBase": 1657,
+    "atkMax": 10726,
+    "np": [
+      "常夏日光・日除傘寵愛一神 C"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 3,
+      "Quick": 4,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "騎乗 A",
+      "陣地作成 A",
+      "神性 A++"
+    ],
+    "npGainAtk": 0.0105,
+    "npGainDef": 0.04,
+    "skill1": [
+      "ビーチフラワー EX"
+    ],
+    "skill2": [
+      "真夏の呪術 A"
+    ],
+    "skill3": [
+      "女神変生 B"
+    ]
+  },
+  "129": {
+    "uid": 202600,
+    "id": 129,
+    "name": "アルトリア・ペンドラゴン",
+    "classId": 2,
+    "gender": "女性",
+    "attribute": "地",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 16,
+    "hpBase": 2134,
+    "hpMax": 14553,
+    "atkBase": 1742,
+    "atkMax": 11276,
+    "np": [
+      "陽光煌めく勝利の剣 A"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "龍",
+      "阿爾托莉亞臉",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      "亞瑟",
+      "王"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 3,
+      "Quick": 4,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 A",
+      "単独行動 A",
+      "陣地作成 A"
+    ],
+    "npGainAtk": 0.0059,
+    "npGainDef": 0.03,
+    "skill1": [
+      "サマー・スプラッシュ！ A+"
+    ],
+    "skill2": [
+      "海の家の加護 EX"
+    ],
+    "skill3": [
+      "ビーチフラワー B"
+    ]
+  },
+  "130": {
+    "uid": 502700,
+    "id": 130,
+    "name": "マリー・アントワネット",
+    "classId": 5,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 12,
+    "hpBase": 1824,
+    "hpMax": 11404,
+    "atkBase": 1510,
+    "atkMax": 9060,
+    "np": [
+      "愛すべき輝きは永遠に A"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 5,
+      "Buster": 1,
+      "Quick": 3,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "陣地作成 A",
+      "道具作成 D"
+    ],
+    "npGainAtk": 0.0032,
+    "npGainDef": 0.03,
+    "skill1": [
+      "ビーチフラワー A+"
+    ],
+    "skill2": [
+      "向日葵のきらめき A"
+    ],
+    "skill3": [
+      "麗しの姫君（海） A"
+    ]
+  },
+  "131": {
+    "uid": 202500,
+    "id": 131,
+    "name": "アン・ボニー＆メアリー・リード",
+    "classId": 2,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "中庸",
+    "policy": "混沌",
+    "cost": 12,
+    "hpBase": 1843,
+    "hpMax": 11521,
+    "atkBase": 1574,
+    "atkMax": 9446,
+    "np": [
+      "比翼にして連理 C++"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 3,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 D",
+      "単独行動 A"
+    ],
+    "npGainAtk": 0.0085,
+    "npGainDef": 0.03,
+    "skill1": [
+      "ビーチフラワー A+"
+    ],
+    "skill2": [
+      "トレジャーハント（海） C"
+    ],
+    "skill3": [
+      "海賊の誉れ C+"
+    ]
+  },
+  "132": {
+    "uid": 402400,
+    "id": 132,
+    "name": "モードレッド",
+    "classId": 4,
+    "gender": "女性",
+    "attribute": "地",
+    "personality": "善",
+    "policy": "混沌",
+    "cost": 12,
+    "hpBase": 1824,
+    "hpMax": 11400,
+    "atkBase": 1535,
+    "atkMax": 9212,
+    "np": [
+      "逆巻く波濤を制する王様気分！ A"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "龍",
+      "阿爾托莉亞臉",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 3,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 B",
+      "サーフィン A"
+    ],
+    "npGainAtk": 0.0071,
+    "npGainDef": 0.03,
+    "skill1": [
+      "セルリアンライド A"
+    ],
+    "skill2": [
+      "ロデオフリップ A+"
+    ],
+    "skill3": [
+      "終わらぬ夏 B"
+    ]
+  },
+  "133": {
+    "uid": 602400,
+    "id": 133,
+    "name": "スカサハ",
+    "classId": 6,
+    "gender": "女性",
+    "attribute": "星",
+    "personality": "善",
+    "policy": "中立",
+    "cost": 12,
+    "hpBase": 1786,
+    "hpMax": 11168,
+    "atkBase": 1508,
+    "atkMax": 9049,
+    "np": [
+      "蹴り穿つ死翔の槍 B+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "王"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 3,
+      "Quick": 3,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "気配遮断 E"
+    ],
+    "npGainAtk": 0.0071,
+    "npGainDef": 0.04,
+    "skill1": [
+      "ビーチクライシス A+"
+    ],
+    "skill2": [
+      "原初のルーン（海） A"
+    ],
+    "skill3": [
+      "真夏のあやまち C"
+    ]
+  },
+  "134": {
+    "uid": 302500,
+    "id": 134,
+    "name": "清姫",
+    "classId": 3,
+    "gender": "女性",
+    "attribute": "地",
+    "personality": "惡",
+    "policy": "混沌",
+    "cost": 12,
+    "hpBase": 1899,
+    "hpMax": 11870,
+    "atkBase": 1489,
+    "atkMax": 8936,
+    "np": [
+      "道成寺鐘百八式火竜薙 A"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "龍",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 6,
+      "Quick": 2,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "狂化 EX",
+      "対魔力 D"
+    ],
+    "npGainAtk": 0.0105,
+    "npGainDef": 0.04,
+    "skill1": [
+      "情熱の炎夏 A"
+    ],
+    "skill2": [
+      "水浴転身 A"
+    ],
+    "skill3": [
+      "恋の追跡者 A"
+    ]
+  },
+  "135": {
+    "uid": 900400,
+    "id": 135,
+    "name": "マルタ",
+    "classId": 9,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 12,
+    "hpBase": 1800,
+    "hpMax": 11250,
+    "atkBase": 1591,
+    "atkMax": 9546,
+    "np": [
+      "荒れ狂う哀しき竜よ A"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 1,
+      "Quick": 4,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 EX"
+    ],
+    "npGainAtk": 0.0076,
+    "npGainDef": 0.03,
+    "skill1": [
+      "水辺の聖女 B+"
+    ],
+    "skill2": [
+      "天性の肉体（海） A"
+    ],
+    "skill3": [
+      "ヤコブの手足 B"
+    ]
+  },
+  "136": {
+    "uid": 502800,
+    "id": 136,
+    "name": "イリヤスフィール・フォン・アインツベルン",
+    "classId": 5,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "善",
+    "policy": "中立",
+    "cost": 16,
+    "hpBase": 2027,
+    "hpMax": 13825,
+    "atkBase": 1677,
+    "atkMax": 10857,
+    "np": [
+      "多元重奏飽和砲撃 A+",
+      "多元重奏飽和砲撃 EX"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 5,
+      "Buster": 1,
+      "Quick": 3,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 B",
+      "無限の魔力供給 C"
+    ],
+    "npGainAtk": 0.0032,
+    "npGainDef": 0.03,
+    "skill1": [
+      "愉快型魔術礼装 A"
+    ],
+    "skill2": [
+      "自然の嬰児 B"
+    ],
+    "skill3": [
+      "あやしい薬 A"
+    ]
+  },
+  "137": {
+    "uid": 202700,
+    "id": 137,
+    "name": "クロエ・フォン・アインツベルン",
+    "classId": 2,
+    "gender": "女性",
+    "attribute": "天",
+    "personality": "善",
+    "policy": "混沌",
+    "cost": 12,
+    "hpBase": 1746,
+    "hpMax": 10914,
+    "atkBase": 1640,
+    "atkMax": 9845,
+    "np": [
+      "鶴翼三連 C"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 6,
+      "Buster": 2,
+      "Quick": 3,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 C",
+      "単独行動 B"
+    ],
+    "npGainAtk": 0.0038,
+    "npGainDef": 0.03,
+    "skill1": [
+      "心眼（偽） B"
+    ],
+    "skill2": [
+      "投影魔術 B"
+    ],
+    "skill3": [
+      "キス魔 B",
+      "キス魔 B++"
+    ]
+  },
+  "138": {
+    "uid": 101000,
+    "id": 138,
+    "name": "エリザベート・バートリー〔ブレイブ〕",
+    "classId": 1,
+    "gender": "女性",
+    "attribute": "地",
+    "personality": "善",
+    "policy": "混沌",
+    "cost": 12,
+    "hpBase": 1799,
+    "hpMax": 11248,
+    "atkBase": 1649,
+    "atkMax": 9899,
+    "np": [
+      "鮮血竜巻魔嬢 B"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "龍",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      null
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 1,
+      "Quick": 4,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 A",
+      "陣地作成 C",
+      "ダブルクラス E"
+    ],
+    "npGainAtk": 0.0055,
+    "npGainDef": 0.03,
+    "skill1": [
+      "勇者大原則 EX"
+    ],
+    "skill2": [
+      "魔力放出（勇気） D"
+    ],
+    "skill3": [
+      "真紅の勇者伝説 EX"
+    ]
+  },
+  "139": {
+    "uid": 600800,
+    "id": 139,
+    "name": "クレオパトラ",
+    "classId": 6,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "中庸",
+    "policy": "秩序",
+    "cost": 16,
+    "hpBase": 1965,
+    "hpMax": 13402,
+    "atkBase": 1713,
+    "atkMax": 11088,
+    "np": [
+      "暁の時を終える蛇よ、此処に A"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "王"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 3,
+      "Quick": 4,
+      "Extra": 6
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "気配遮断 B",
+      "神性 D"
+    ],
+    "npGainAtk": 0.0106,
+    "npGainDef": 0.04,
+    "skill1": [
+      "皇帝特権 A"
+    ],
+    "skill2": [
+      "黄金律（富＆体） B"
+    ],
+    "skill3": [
+      "女神の加護 C"
+    ]
+  },
+  "140": {
+    "uid": 300300,
+    "id": 140,
+    "name": "ヴラド三世〔EXTRA〕",
+    "classId": 3,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 12,
+    "hpBase": 2080,
+    "hpMax": 13005,
+    "atkBase": 1462,
+    "atkMax": 8775,
+    "np": [
+      "串刺城塞 C"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "王"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 3,
+      "Quick": 3,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 C"
+    ],
+    "npGainAtk": 0.011,
+    "npGainDef": 0.04,
+    "skill1": [
+      "信仰の加護 A+++"
+    ],
+    "skill2": [
+      "軍略 B"
+    ],
+    "skill3": [
+      "無辜の怪物 A"
+    ]
+  },
+  "141": {
+    "uid": 302600,
+    "id": 141,
+    "name": "ジャンヌ・ダルク・オルタ・サンタ・リリィ",
+    "classId": 3,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "善",
+    "policy": "混沌",
+    "cost": 12,
+    "hpBase": 1899,
+    "hpMax": 11870,
+    "atkBase": 1543,
+    "atkMax": 9261,
+    "np": [
+      "優雅に歌え、かの聖誕を A+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "阿爾托莉亞臉",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 1,
+      "Quick": 3,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 A+"
+    ],
+    "npGainAtk": 0.0072,
+    "npGainDef": 0.04,
+    "skill1": [
+      "聖者の贈り物 C"
+    ],
+    "skill2": [
+      "自己変革 A"
+    ],
+    "skill3": [
+      "うたかたの夢 EX"
+    ]
+  },
+  "142": {
+    "uid": 202000,
+    "id": 142,
+    "name": "イシュタル",
+    "classId": 2,
+    "gender": "女性",
+    "attribute": "天",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 16,
+    "hpBase": 2048,
+    "hpMax": 13965,
+    "atkBase": 1893,
+    "atkMax": 12252,
+    "np": [
+      "？？？ ？",
+      "山脈震撼す明星の薪 A++"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋"
+    ],
+    "hits": {
+      "Arts": 4,
+      "Buster": 1,
+      "Quick": 4,
+      "Extra": 7
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 A",
+      "単独行動 A",
+      "女神の神核 B"
+    ],
+    "npGainAtk": 0,
+    "npGainDef": 0,
+    "skill1": [
+      "美の顕現 B"
+    ],
+    "skill2": [
+      "輝ける大王冠 A"
+    ],
+    "skill3": [
+      "魔力放出（宝石） A+"
+    ]
+  },
+  "143": {
+    "uid": 300800,
+    "id": 143,
+    "name": "エルキドゥ",
+    "classId": 3,
+    "gender": "無",
+    "attribute": "天",
+    "personality": "中庸",
+    "policy": "中立",
+    "cost": 16,
+    "hpBase": 2244,
+    "hpMax": 15300,
+    "atkBase": 1666,
+    "atkMax": 10780,
+    "np": [
+      "人よ、神を繋ぎとめよう A++"
+    ],
+    "traits": [
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      null
+    ],
+    "hits": {
+      "Arts": 5,
+      "Buster": 1,
+      "Quick": 4,
+      "Extra": 6
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 A"
+    ],
+    "npGainAtk": 0.0053,
+    "npGainDef": 0.04,
+    "skill1": [
+      "変容 A"
+    ],
+    "skill2": [
+      "気配感知 A+",
+      "気配感知 A++"
+    ],
+    "skill3": [
+      "完全なる形 A"
+    ]
+  },
+  "144": {
+    "uid": 401800,
+    "id": 144,
+    "name": "ケツァル・コアトル",
+    "classId": 4,
+    "gender": "女性",
+    "attribute": "天",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 16,
+    "hpBase": 1900,
+    "hpMax": 12960,
+    "atkBase": 1854,
+    "atkMax": 12001,
+    "np": [
+      "炎、神をも灼き尽くせ A"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      "王"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 3,
+      "Quick": 3,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 A",
+      "騎乗 EX",
+      "女神の神核 EX"
+    ],
+    "npGainAtk": 0.009,
+    "npGainDef": 0.03,
+    "skill1": [
+      "カリスマ A+"
+    ],
+    "skill2": [
+      "善神の智慧 A+"
+    ],
+    "skill3": [
+      "自由なる闘争 EX"
+    ]
+  },
+  "145": {
+    "uid": 501800,
+    "id": 145,
+    "name": "ギルガメッシュ",
+    "classId": 5,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 12,
+    "hpBase": 1920,
+    "hpMax": 12005,
+    "atkBase": 1410,
+    "atkMax": 8460,
+    "np": [
+      "王の号砲 B"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "愛人",
+      "王"
+    ],
+    "hits": {
+      "Arts": 5,
+      "Buster": 6,
+      "Quick": 2,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "道具作成(偽) A",
+      "陣地作成 A",
+      "神性 B"
+    ],
+    "npGainAtk": 0.0016,
+    "npGainDef": 0.03,
+    "skill1": [
+      "王の帰還 A"
+    ],
+    "skill2": [
+      "カリスマ A+"
+    ],
+    "skill3": [
+      "魔杖の支配者 EX"
+    ]
+  },
+  "146": {
+    "uid": 302700,
+    "id": 146,
+    "name": "メドゥーサ",
+    "classId": 3,
+    "gender": "女性",
+    "attribute": "地",
+    "personality": "善",
+    "policy": "中立",
+    "cost": 12,
+    "hpBase": 2099,
+    "hpMax": 13119,
+    "atkBase": 1375,
+    "atkMax": 8253,
+    "np": [
+      "女神の抱擁 B",
+      "女神の抱擁 B+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 4,
+      "Buster": 1,
+      "Quick": 3,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 B",
+      "女神の神核 A"
+    ],
+    "npGainAtk": 0.0044,
+    "npGainDef": 0.04,
+    "skill1": [
+      "魅惑の美声 B"
+    ],
+    "skill2": [
+      "怪力 C"
+    ],
+    "skill3": [
+      "彼方への想い A"
+    ]
+  },
+  "147": {
+    "uid": 1100400,
+    "id": 147,
+    "name": "ゴルゴーン",
+    "classId": 11,
+    "gender": "女性",
+    "attribute": "地",
+    "personality": "惡",
+    "policy": "混沌",
+    "cost": 12,
+    "hpBase": 1631,
+    "hpMax": 10197,
+    "atkBase": 1784,
+    "atkMax": 10706,
+    "np": [
+      "強制封印・万魔神殿 A",
+      "強制封印・万魔神殿 A+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 5,
+      "Buster": 3,
+      "Quick": 3,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "復讐者 B",
+      "忘却補正 C",
+      "自己回復(魔力) A"
+    ],
+    "npGainAtk": 0.0037,
+    "npGainDef": 0.05,
+    "skill1": [
+      "怪力 A+"
+    ],
+    "skill2": [
+      "変転の魔 B"
+    ],
+    "skill3": [
+      "魔眼 A++"
+    ]
+  },
+  "148": {
+    "uid": 302800,
+    "id": 148,
+    "name": "ジャガーマン",
+    "classId": 3,
+    "gender": "女性",
+    "attribute": "地",
+    "personality": "中庸",
+    "policy": "混沌",
+    "cost": 7,
+    "hpBase": 1726,
+    "hpMax": 9593,
+    "atkBase": 1304,
+    "atkMax": 7022,
+    "np": [
+      "逃れ得ぬ死の鉤爪 B"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "猛獸"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 4,
+      "Quick": 2,
+      "Extra": 6
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 A",
+      "狂化 E",
+      "神性 A"
+    ],
+    "npGainAtk": 0.0105,
+    "npGainDef": 0.04,
+    "skill1": [
+      "ジャガー・パンチ A"
+    ],
+    "skill2": [
+      "ジャガー・キック B"
+    ],
+    "skill3": [
+      "ジャガー・アイ A+"
+    ]
+  },
+  "150": {
+    "uid": 500800,
+    "id": 150,
+    "name": "マーリン",
+    "classId": 5,
+    "gender": "男性",
+    "attribute": "地",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 16,
+    "hpBase": 2091,
+    "hpMax": 14259,
+    "atkBase": 1629,
+    "atkMax": 10546,
+    "np": [
+      "永久に閉ざされた理想郷 C",
+      "永久に閉ざされた理想郷 C"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 5,
+      "Quick": 3,
+      "Extra": 6
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "陣地作成 C",
+      "道具作成 C",
+      "混血 EX"
+    ],
+    "npGainAtk": 0.0081,
+    "npGainDef": 0.03,
+    "skill1": [
+      "夢幻のカリスマ A"
+    ],
+    "skill2": [
+      "幻術 A"
+    ],
+    "skill3": [
+      "英雄作成 EX"
+    ]
+  },
+  "153": {
+    "uid": 101700,
+    "id": 153,
+    "name": "宮本武蔵",
+    "classId": 1,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "善",
+    "policy": "混沌",
+    "cost": 16,
+    "hpBase": 1999,
+    "hpMax": 13635,
+    "atkBase": 1860,
+    "atkMax": 12037,
+    "np": [
+      "六道五輪・倶利伽羅天象 A",
+      "六道五輪・倶利伽羅天象 A"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      null
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 2,
+      "Quick": 3,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 A"
+    ],
+    "npGainAtk": 0.0087,
+    "npGainDef": 0.03,
+    "skill1": [
+      "第五勢 A"
+    ],
+    "skill2": [
+      "天眼 A"
+    ],
+    "skill3": [
+      "無空 A"
+    ]
+  },
+  "154": {
+    "uid": 602500,
+    "id": 154,
+    "name": "“山の翁”",
+    "classId": 6,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "惡",
+    "policy": "秩序",
+    "cost": 16,
+    "hpBase": 1956,
+    "hpMax": 13338,
+    "atkBase": 1831,
+    "atkMax": 11848,
+    "np": [
+      "死告天使 C"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "愛人"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 1,
+      "Quick": 5,
+      "Extra": 6
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 B",
+      "気配遮断 A",
+      "単独行動 B",
+      "境界にて A"
+    ],
+    "npGainAtk": 0.01,
+    "npGainDef": 0.04,
+    "skill1": [
+      "戦闘続行 EX"
+    ],
+    "skill2": [
+      "信仰の加護 A+++"
+    ],
+    "skill3": [
+      "晩鐘 EX"
+    ]
+  },
+  "155": {
+    "uid": 702400,
+    "id": 155,
+    "name": "謎のヒロインX〔オルタ〕",
+    "classId": 7,
+    "gender": "女性",
+    "attribute": "星",
+    "personality": "惡",
+    "policy": "中立",
+    "cost": 16,
+    "hpBase": 2079,
+    "hpMax": 14175,
+    "atkBase": 1717,
+    "atkMax": 11113,
+    "np": [
+      "黒竜双剋勝利剣 A+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "龍",
+      "阿爾托莉亞臉",
+      "亞瑟",
+      "王"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 4,
+      "Quick": 3,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "狂化 C",
+      "オルトリアクター A"
+    ],
+    "npGainAtk": 0.0107,
+    "npGainDef": 0.05,
+    "skill1": [
+      "∞黒餡子 EX"
+    ],
+    "skill2": [
+      "直感 C",
+      "刹那無影剣 C+"
+    ],
+    "skill3": [
+      "王の見えざる手 C"
+    ]
+  },
+  "156": {
+    "uid": 202300,
+    "id": 156,
+    "name": "ジェームズ・モリアーティ",
+    "classId": 2,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "惡",
+    "policy": "混沌",
+    "cost": 16,
+    "hpBase": 2007,
+    "hpMax": 13685,
+    "atkBase": 1820,
+    "atkMax": 11781,
+    "np": [
+      "？？？ ？",
+      "終局的犯罪 A+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 4,
+      "Buster": 5,
+      "Quick": 3,
+      "Extra": 6
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 D",
+      "単独行動 A+"
+    ],
+    "npGainAtk": 0.0038,
+    "npGainDef": 0.03,
+    "skill1": [
+      "魔弾の射手 EX"
+    ],
+    "skill2": [
+      "蜘蛛糸の果て A++"
+    ],
+    "skill3": [
+      "邪智のカリスマ A"
+    ]
+  },
+  "157": {
+    "uid": 201600,
+    "id": 157,
+    "name": "エミヤ〔オルタ〕",
+    "classId": 2,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "惡",
+    "policy": "混沌",
+    "cost": 12,
+    "hpBase": 1960,
+    "hpMax": 12250,
+    "atkBase": 1499,
+    "atkMax": 8996,
+    "np": [
+      "無限の剣製 E～A"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 4,
+      "Buster": 4,
+      "Quick": 4,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 D",
+      "単独行動 A"
+    ],
+    "npGainAtk": 0.0043,
+    "npGainDef": 0.03,
+    "skill1": [
+      "防弾加工 A"
+    ],
+    "skill2": [
+      "投影魔術 C"
+    ],
+    "skill3": [
+      "嗤う鉄心 A"
+    ]
+  },
+  "158": {
+    "uid": 1100500,
+    "id": 158,
+    "name": "ヘシアン・ロボ",
+    "classId": 11,
+    "gender": "男性",
+    "attribute": "地",
+    "personality": "惡",
+    "policy": "混沌",
+    "cost": 12,
+    "hpBase": 1591,
+    "hpMax": 9949,
+    "atkBase": 1771,
+    "atkMax": 10628,
+    "np": [
+      "遥かなる者への斬罪 C"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      "猛獸"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 2,
+      "Quick": 3,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "復讐者 A",
+      "忘却補正 B",
+      "自己回復(魔力) B"
+    ],
+    "npGainAtk": 0.0079,
+    "npGainDef": 0.05,
+    "skill1": [
+      "堕天の魔 A+"
+    ],
+    "skill2": [
+      "怪力 B"
+    ],
+    "skill3": [
+      "死を纏う者 A"
+    ]
+  },
+  "159": {
+    "uid": 602600,
+    "id": 159,
+    "name": "燕青",
+    "classId": 6,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "惡",
+    "policy": "混沌",
+    "cost": 12,
+    "hpBase": 1862,
+    "hpMax": 11637,
+    "atkBase": 1443,
+    "atkMax": 8661,
+    "np": [
+      "十面埋伏・無影の如く A"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "愛人"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 1,
+      "Quick": 3,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "気配遮断 C",
+      "無頼漢 A"
+    ],
+    "npGainAtk": 0.0071,
+    "npGainDef": 0.04,
+    "skill1": [
+      "中国拳法 EX"
+    ],
+    "skill2": [
+      "諜報 A"
+    ],
+    "skill3": [
+      "天巧星 A+"
+    ]
+  },
+  "160": {
+    "uid": 102900,
+    "id": 160,
+    "name": "アーサー・ペンドラゴン〔プロトタイプ〕",
+    "classId": 1,
+    "gender": "男性",
+    "attribute": "地",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 16,
+    "hpBase": 2049,
+    "hpMax": 13975,
+    "atkBase": 1926,
+    "atkMax": 12465,
+    "np": [
+      "約束された勝利の剣 EX"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "龍",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      null,
+      "亞瑟",
+      "愛人",
+      "王"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 3,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 A",
+      "騎乗 B"
+    ],
+    "npGainAtk": 0.0084,
+    "npGainDef": 0.03,
+    "skill1": [
+      "魔力放出 A"
+    ],
+    "skill2": [
+      "直感 A"
+    ],
+    "skill3": [
+      "巨獣狩り A"
+    ]
+  },
+  "161": {
+    "uid": 702500,
+    "id": 161,
+    "name": "土方歳三",
+    "classId": 7,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "惡",
+    "policy": "秩序",
+    "cost": 16,
+    "hpBase": 1764,
+    "hpMax": 12028,
+    "atkBase": 1868,
+    "atkMax": 12089,
+    "np": [
+      "不滅の誠 C+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 2,
+      "Quick": 3,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "狂化 D+"
+    ],
+    "npGainAtk": 0.0108,
+    "npGainDef": 0.05,
+    "skill1": [
+      "戦場の鬼 B"
+    ],
+    "skill2": [
+      "仕切り直し C"
+    ],
+    "skill3": [
+      "局中法度 EX"
+    ]
+  },
+  "162": {
+    "uid": 702600,
+    "id": 162,
+    "name": "茶々",
+    "classId": 7,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "中庸",
+    "policy": "混沌",
+    "cost": 12,
+    "hpBase": 1764,
+    "hpMax": 11025,
+    "atkBase": 1490,
+    "atkMax": 8945,
+    "np": [
+      "絢爛魔界日輪城 C"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 5,
+      "Quick": 3,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "狂化 E+"
+    ],
+    "npGainAtk": 0.0103,
+    "npGainDef": 0.05,
+    "skill1": [
+      "黄金律(凶) B"
+    ],
+    "skill2": [
+      "無辜の怪物(焔) C"
+    ],
+    "skill3": [
+      "日輪の寵姫 EX"
+    ]
+  },
+  "163": {
+    "uid": 1000200,
+    "id": 163,
+    "name": "メルトリリス",
+    "classId": 10,
+    "gender": "女性",
+    "attribute": "地",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 16,
+    "hpBase": 1965,
+    "hpMax": 13402,
+    "atkBase": 1807,
+    "atkMax": 11692,
+    "np": [
+      "弁財天五弦琵琶 EX"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 4,
+      "Extra": 6
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 B",
+      "騎乗 B",
+      "単独行動 A",
+      "女神の神核 B",
+      "ハイ・サーヴァント A"
+    ],
+    "npGainAtk": 0.0092,
+    "npGainDef": 0.04,
+    "skill1": [
+      "クライム・バレエ A"
+    ],
+    "skill2": [
+      "加虐体質 A"
+    ],
+    "skill3": [
+      "メルトウイルス EX",
+      "メルトウイルス EX"
+    ]
+  },
+  "164": {
+    "uid": 1000100,
+    "id": 164,
+    "name": "パッションリップ",
+    "classId": 10,
+    "gender": "女性",
+    "attribute": "地",
+    "personality": "中庸",
+    "policy": "秩序",
+    "cost": 12,
+    "hpBase": 1744,
+    "hpMax": 10901,
+    "atkBase": 1716,
+    "atkMax": 10299,
+    "np": [
+      "死が二人を別離つとも C"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 1,
+      "Quick": 4,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 C",
+      "単独行動 C",
+      "気配遮断 A+",
+      "女神の神核 C",
+      "ハイ・サーヴァント A"
+    ],
+    "npGainAtk": 0.0077,
+    "npGainDef": 0.04,
+    "skill1": [
+      "ブレスト・バレー A"
+    ],
+    "skill2": [
+      "被虐体質 A",
+      "被虐体質 A+"
+    ],
+    "skill3": [
+      "トラッシュ＆クラッシュ EX"
+    ]
+  },
+  "165": {
+    "uid": 103000,
+    "id": 165,
+    "name": "鈴鹿御前",
+    "classId": 1,
+    "gender": "女性",
+    "attribute": "天",
+    "personality": "惡",
+    "policy": "中立",
+    "cost": 12,
+    "hpBase": 1880,
+    "hpMax": 11753,
+    "atkBase": 1590,
+    "atkMax": 9544,
+    "np": [
+      "天鬼雨 B+"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      null
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 3,
+      "Quick": 3,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 A",
+      "騎乗 B",
+      "神性 A"
+    ],
+    "npGainAtk": 0.0057,
+    "npGainDef": 0.03,
+    "skill1": [
+      "神通力 B"
+    ],
+    "skill2": [
+      "魔眼 B+"
+    ],
+    "skill3": [
+      "才知の祝福 C"
+    ]
+  },
+  "166": {
+    "uid": 2300100,
+    "id": 166,
+    "name": "ＢＢ",
+    "classId": 23,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "善",
+    "policy": "混沌",
+    "cost": 12,
+    "hpBase": 2182,
+    "hpMax": 13643,
+    "atkBase": 1366,
+    "atkMax": 8197,
+    "np": [
+      "Ｃ.Ｃ.Ｃ. A"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 1,
+      "Quick": 4,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 B",
+      "道具作成 A",
+      "陣地作成 A"
+    ],
+    "npGainAtk": 0.0061,
+    "npGainDef": 0.03,
+    "skill1": [
+      "十の王冠 D"
+    ],
+    "skill2": [
+      "黄金の杯 C"
+    ],
+    "skill3": [
+      "自己改造 EX"
+    ]
+  },
+  "167": {
+    "uid": 1000300,
+    "id": 167,
+    "name": "殺生院キアラ",
+    "classId": 10,
+    "gender": "女性",
+    "attribute": "獸",
+    "personality": "惡",
+    "policy": "混沌",
+    "cost": 16,
+    "hpBase": 2142,
+    "hpMax": 14606,
+    "atkBase": 1803,
+    "atkMax": 11668,
+    "np": [
+      "快楽天・胎蔵曼荼羅 EX"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 1,
+      "Quick": 3,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "獣の権能 D",
+      "単独顕現 E",
+      "ロゴスイーター C",
+      "ネガ・セイヴァー A"
+    ],
+    "npGainAtk": 0.0055,
+    "npGainDef": 0.04,
+    "skill1": [
+      "千里眼（獣） D",
+      "千里眼（獣） D+++"
+    ],
+    "skill2": [
+      "五停心観 A"
+    ],
+    "skill3": [
+      "女神変生 EX"
+    ]
+  },
+  "169": {
+    "uid": 503000,
+    "id": 169,
+    "name": "シェヘラザード",
+    "classId": 5,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "中庸",
+    "policy": "秩序",
+    "cost": 16,
+    "hpBase": 2324,
+    "hpMax": 15846,
+    "atkBase": 1423,
+    "atkMax": 9212,
+    "np": [
+      "？？？ ？",
+      "千夜一夜物語 EX",
+      "？？？ ？",
+      "千夜一夜物語 EX"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 4,
+      "Quick": 4,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "陣地作成 A++"
+    ],
+    "npGainAtk": 0.0051,
+    "npGainDef": 0.03,
+    "skill1": [
+      "語り手 EX"
+    ],
+    "skill2": [
+      "生存の閨 A+"
+    ],
+    "skill3": [
+      "対英雄 A",
+      "対英雄(譚) EX"
+    ]
+  },
+  "170": {
+    "uid": 602700,
+    "id": 170,
+    "name": "武則天",
+    "classId": 6,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "惡",
+    "policy": "秩序",
+    "cost": 12,
+    "hpBase": 1750,
+    "hpMax": 10942,
+    "atkBase": 1496,
+    "atkMax": 8981,
+    "np": [
+      "？？？ ？",
+      "告密羅織経 B"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "王"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 3,
+      "Quick": 3,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "気配遮断 D"
+    ],
+    "npGainAtk": 0.0087,
+    "npGainDef": 0.04,
+    "skill1": [
+      "拷問技術 A"
+    ],
+    "skill2": [
+      "皇帝特権 B"
+    ],
+    "skill3": [
+      "女帝のカリスマ A"
+    ]
+  },
+  "171": {
+    "uid": 702700,
+    "id": 171,
+    "name": "ペンテシレイア",
+    "classId": 7,
+    "gender": "女性",
+    "attribute": "地",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 12,
+    "hpBase": 1628,
+    "hpMax": 10175,
+    "atkBase": 1750,
+    "atkMax": 10502,
+    "np": [
+      "？？？ ？",
+      "我が瞋恚にて果てよ英雄 B"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      "王"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 2,
+      "Quick": 3,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "狂化 EX",
+      "神性 B"
+    ],
+    "npGainAtk": 0.0107,
+    "npGainDef": 0.05,
+    "skill1": [
+      "カリスマ B"
+    ],
+    "skill2": [
+      "黄金律（美） A"
+    ],
+    "skill3": [
+      "軍神咆哮 A+"
+    ]
+  },
+  "172": {
+    "uid": 402500,
+    "id": 172,
+    "name": "クリストファー・コロンブス",
+    "classId": 4,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "惡",
+    "policy": "中立",
+    "cost": 7,
+    "hpBase": 1728,
+    "hpMax": 9600,
+    "atkBase": 1216,
+    "atkMax": 6552,
+    "np": [
+      "？？？ ？",
+      "？？？ ？",
+      "新天地探索航 A",
+      "新天地探索航 A",
+      "？？？ ？",
+      "新天地探索航 A+",
+      "新天地探索航 A+"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 4,
+      "Quick": 3,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 D",
+      "騎乗 B"
+    ],
+    "npGainAtk": 0,
+    "npGainDef": 0,
+    "skill1": [
+      "嵐の航海者 B"
+    ],
+    "skill2": [
+      "不屈の意志 C"
+    ],
+    "skill3": [
+      "コンキスタドール EX"
+    ]
+  },
+  "173": {
+    "uid": 900500,
+    "id": 173,
+    "name": "シャーロック・ホームズ",
+    "classId": 9,
+    "gender": "男性",
+    "attribute": "星",
+    "personality": "善",
+    "policy": "中立",
+    "cost": 16,
+    "hpBase": 1960,
+    "hpMax": 13365,
+    "atkBase": 1776,
+    "atkMax": 11495,
+    "np": [
+      "初歩的なことだ、友よ B"
+    ],
+    "traits": [
+      null,
+      "人型"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 4,
+      "Quick": 3,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "陣地作成 EX"
+    ],
+    "npGainAtk": 0.0076,
+    "npGainDef": 0.03,
+    "skill1": [
+      "天賦の見識 A++"
+    ],
+    "skill2": [
+      "仮説推論 A+"
+    ],
+    "skill3": [
+      "バリツ B++"
+    ]
+  },
+  "174": {
+    "uid": 702800,
+    "id": 174,
+    "name": "ポール・バニヤン",
+    "classId": 7,
+    "gender": "女性",
+    "attribute": "地",
+    "personality": "中庸",
+    "policy": "中立",
+    "cost": 3,
+    "hpBase": 1239,
+    "hpMax": 6196,
+    "atkBase": 1099,
+    "atkMax": 6044,
+    "np": [
+      "驚くべき偉業 A"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 3,
+      "Quick": 3,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "狂化 D"
+    ],
+    "npGainAtk": 0.0067,
+    "npGainDef": 0.05,
+    "skill1": [
+      "愉快な仲間たち A"
+    ],
+    "skill2": [
+      "豆スープの湖 A"
+    ],
+    "skill3": [
+      "ポップコーンの吹雪 B"
+    ]
+  },
+  "175": {
+    "uid": 503200,
+    "id": 175,
+    "name": "ネロ・クラウディウス",
+    "classId": 5,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "夏",
+    "policy": "混沌",
+    "cost": 16,
+    "hpBase": 2007,
+    "hpMax": 13685,
+    "atkBase": 1677,
+    "atkMax": 10857,
+    "np": [
+      "誉れ歌う黄金劇場 A"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "羅馬",
+      "阿爾托莉亞臉",
+      "被「天地乖離開辟之星」所剋",
+      "王"
+    ],
+    "hits": {
+      "Arts": 6,
+      "Buster": 2,
+      "Quick": 4,
+      "Extra": 6
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "騎乗 B",
+      "陣地作成 A+",
+      "道具作成(奇) EX"
+    ],
+    "npGainAtk": 0.004,
+    "npGainDef": 0.03,
+    "skill1": [
+      "暴走特権 EX"
+    ],
+    "skill2": [
+      "七つの冠 C"
+    ],
+    "skill3": [
+      "死なずのマグス A"
+    ]
+  },
+  "176": {
+    "uid": 103100,
+    "id": 176,
+    "name": "フランケンシュタイン",
+    "classId": 1,
+    "gender": "女性",
+    "attribute": "地",
+    "personality": "夏",
+    "policy": "中立",
+    "cost": 12,
+    "hpBase": 1919,
+    "hpMax": 11993,
+    "atkBase": 1558,
+    "atkMax": 9353,
+    "np": [
+      "串刺の雷刃 Ｄ～Ｂ"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      null
+    ],
+    "hits": {
+      "Arts": 4,
+      "Buster": 5,
+      "Quick": 3,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 E",
+      "騎乗 EX",
+      "狂化 E"
+    ],
+    "npGainAtk": 0.007,
+    "npGainDef": 0.03,
+    "skill1": [
+      "サマー・ガルバニズム B+"
+    ],
+    "skill2": [
+      "虚ろなる酷暑への嘆き A"
+    ],
+    "skill3": [
+      "ほどほどロード C"
+    ]
+  },
+  "177": {
+    "uid": 602800,
+    "id": 177,
+    "name": "ニトクリス",
+    "classId": 6,
+    "gender": "女性",
+    "attribute": "天",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 12,
+    "hpBase": 1843,
+    "hpMax": 11518,
+    "atkBase": 1468,
+    "atkMax": 8812,
+    "np": [
+      "穢れを漱げ、青く美しきナイル B"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      "王"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 3,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "気配遮断 A",
+      "神性 B+"
+    ],
+    "npGainAtk": 0.0078,
+    "npGainDef": 0.04,
+    "skill1": [
+      "白き御衣 A"
+    ],
+    "skill2": [
+      "ビーチパニック EX"
+    ],
+    "skill3": [
+      "熱砂の王道 A"
+    ]
+  },
+  "178": {
+    "uid": 702900,
+    "id": 178,
+    "name": "織田信長",
+    "classId": 7,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "夏",
+    "policy": "混沌",
+    "cost": 12,
+    "hpBase": 1603,
+    "hpMax": 10023,
+    "atkBase": 1691,
+    "atkMax": 10146,
+    "np": [
+      "第六天魔王波旬～夏盛～ E～EX"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "王"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 6,
+      "Quick": 3,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "狂化 C"
+    ],
+    "npGainAtk": 0.0093,
+    "npGainDef": 0.05,
+    "skill1": [
+      "うつけ殺法 A"
+    ],
+    "skill2": [
+      "敦盛ビート B"
+    ],
+    "skill3": [
+      "渚の第六天魔王 A-"
+    ]
+  },
+  "179": {
+    "uid": 402700,
+    "id": 179,
+    "name": "アルトリア・ペンドラゴン〔オルタ〕",
+    "classId": 4,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "惡",
+    "policy": "秩序",
+    "cost": 16,
+    "hpBase": 2090,
+    "hpMax": 14256,
+    "atkBase": 1665,
+    "atkMax": 10776,
+    "np": [
+      "不撓燃えたつ勝利の剣 A"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "龍",
+      "阿爾托莉亞臉",
+      "被「天地乖離開辟之星」所剋",
+      "亞瑟",
+      "王"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 2,
+      "Quick": 3,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 B",
+      "騎乗 B",
+      "単独行動 EX"
+    ],
+    "npGainAtk": 0.0059,
+    "npGainDef": 0.03,
+    "skill1": [
+      "サマー・スイーパー！ A"
+    ],
+    "skill2": [
+      "コーチング A"
+    ],
+    "skill3": [
+      "リローデッド C"
+    ]
+  },
+  "180": {
+    "uid": 202800,
+    "id": 180,
+    "name": "エレナ・ブラヴァツキー",
+    "classId": 2,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "善",
+    "policy": "混沌",
+    "cost": 12,
+    "hpBase": 1824,
+    "hpMax": 11404,
+    "atkBase": 1574,
+    "atkMax": 9446,
+    "np": [
+      "金星神・白銀円環 B+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 5,
+      "Buster": 1,
+      "Quick": 3,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 C",
+      "単独行動 C"
+    ],
+    "npGainAtk": 0.0038,
+    "npGainDef": 0.03,
+    "skill1": [
+      "サマー・バケーション！ A+"
+    ],
+    "skill2": [
+      "ニャーフ！ B"
+    ],
+    "skill3": [
+      "大佐の夏休み B"
+    ]
+  },
+  "181": {
+    "uid": 302900,
+    "id": 181,
+    "name": "源頼光",
+    "classId": 3,
+    "gender": "女性",
+    "attribute": "天",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 12,
+    "hpBase": 1938,
+    "hpMax": 12112,
+    "atkBase": 1528,
+    "atkMax": 9168,
+    "np": [
+      "釈提桓因・金剛杵 A+"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 4,
+      "Buster": 1,
+      "Quick": 3,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 C",
+      "騎乗 A+",
+      "狂化 C",
+      "神性 C"
+    ],
+    "npGainAtk": 0.0075,
+    "npGainDef": 0.04,
+    "skill1": [
+      "影の風紀委員長 A"
+    ],
+    "skill2": [
+      "錬鉄手車 C"
+    ],
+    "skill3": [
+      "サマー・カタストロフ EX"
+    ]
+  },
+  "182": {
+    "uid": 402600,
+    "id": 182,
+    "name": "イシュタル",
+    "classId": 4,
+    "gender": "女性",
+    "attribute": "天",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 12,
+    "hpBase": 1710,
+    "hpMax": 10692,
+    "atkBase": 1600,
+    "atkMax": 9603,
+    "np": [
+      "神峰天廻る明星の虹 EX"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 5,
+      "Quick": 2,
+      "Extra": 3
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "騎乗 EX",
+      "単独行動 A",
+      "女神の神核 B"
+    ],
+    "npGainAtk": 0.0068,
+    "npGainDef": 0.03,
+    "skill1": [
+      "輝ける水の衣 A"
+    ],
+    "skill2": [
+      "アクセルターン B"
+    ],
+    "skill3": [
+      "サマー・ブレイカー！ A"
+    ]
+  },
+  "183": {
+    "uid": 303000,
+    "id": 183,
+    "name": "パールヴァティー",
+    "classId": 3,
+    "gender": "女性",
+    "attribute": "天",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 12,
+    "hpBase": 2120,
+    "hpMax": 13253,
+    "atkBase": 1354,
+    "atkMax": 8127,
+    "np": [
+      "恋見てせざるは愛無きなり EX"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 3,
+      "Quick": 3,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 A",
+      "女神の神核 B"
+    ],
+    "npGainAtk": 0.0108,
+    "npGainDef": 0.04,
+    "skill1": [
+      "イマジナリ・アラウンド EX"
+    ],
+    "skill2": [
+      "カーマの灰 EX"
+    ],
+    "skill3": [
+      "女神の恩恵 A+"
+    ]
+  },
+  "184": {
+    "uid": 202100,
+    "id": 184,
+    "name": "巴御前",
+    "classId": 2,
+    "gender": "女性",
+    "attribute": "地",
+    "personality": "中庸",
+    "policy": "中立",
+    "cost": 12,
+    "hpBase": 1728,
+    "hpMax": 10804,
+    "atkBase": 1657,
+    "atkMax": 9946,
+    "np": [
+      "？？？ ？",
+      "真言・聖観世音菩薩 B"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "魔性",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 2,
+      "Quick": 3,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 B",
+      "単独行動 A",
+      "狂化 E"
+    ],
+    "npGainAtk": 0.0087,
+    "npGainDef": 0.03,
+    "skill1": [
+      "鬼種の魔 B"
+    ],
+    "skill2": [
+      "乱戦の心得 B"
+    ],
+    "skill3": [
+      "血脈励起 A"
+    ]
+  },
+  "185": {
+    "uid": 602900,
+    "id": 185,
+    "name": "望月千代女",
+    "classId": 6,
+    "gender": "女性",
+    "attribute": "地",
+    "personality": "惡",
+    "policy": "混沌",
+    "cost": 12,
+    "hpBase": 1862,
+    "hpMax": 11637,
+    "atkBase": 1418,
+    "atkMax": 8510,
+    "np": [
+      "？？？ ？",
+      "口寄せ・伊吹大明神縁起 C"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 3,
+      "Quick": 3,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "気配遮断 A+"
+    ],
+    "npGainAtk": 0.008,
+    "npGainDef": 0.04,
+    "skill1": [
+      "呪術(巫) C"
+    ],
+    "skill2": [
+      "おろちの呪 B"
+    ],
+    "skill3": [
+      "甲賀流 A"
+    ]
+  },
+  "186": {
+    "uid": 301400,
+    "id": 186,
+    "name": "宝蔵院胤舜",
+    "classId": 3,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "中庸",
+    "policy": "中立",
+    "cost": 7,
+    "hpBase": 1799,
+    "hpMax": 9996,
+    "atkBase": 1261,
+    "atkMax": 6791,
+    "np": [
+      "朧裏月十一式 C"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "愛人"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 2,
+      "Quick": 3,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 D+"
+    ],
+    "npGainAtk": 0.0106,
+    "npGainDef": 0.04,
+    "skill1": [
+      "宗和の心得 B"
+    ],
+    "skill2": [
+      "武の求道 B"
+    ],
+    "skill3": [
+      "先の先 B+"
+    ]
+  },
+  "187": {
+    "uid": 103200,
+    "id": 187,
+    "name": "柳生但馬守宗矩",
+    "classId": 1,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "中庸",
+    "policy": "秩序",
+    "cost": 12,
+    "hpBase": 1781,
+    "hpMax": 11135,
+    "atkBase": 1666,
+    "atkMax": 9999,
+    "np": [
+      "剣術無双・剣禅一如 A"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      null,
+      "愛人"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 4,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 C",
+      "騎乗 B"
+    ],
+    "npGainAtk": 0.0081,
+    "npGainDef": 0.03,
+    "skill1": [
+      "新陰流 A++"
+    ],
+    "skill2": [
+      "水月 B"
+    ],
+    "skill3": [
+      "無刀取り A"
+    ]
+  },
+  "188": {
+    "uid": 603000,
+    "id": 188,
+    "name": "加藤段蔵",
+    "classId": 6,
+    "gender": "女性",
+    "attribute": "地",
+    "personality": "中庸",
+    "policy": "中立",
+    "cost": 12,
+    "hpBase": 1768,
+    "hpMax": 11055,
+    "atkBase": 1489,
+    "atkMax": 8935,
+    "np": [
+      "絡繰幻法・呑牛 C"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 2,
+      "Quick": 4,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "気配遮断 A"
+    ],
+    "npGainAtk": 0.0071,
+    "npGainDef": 0.04,
+    "skill1": [
+      "人造四肢（絡繰） A++"
+    ],
+    "skill2": [
+      "忍術 A"
+    ],
+    "skill3": [
+      "絡繰幻法 B+"
+    ]
+  },
+  "189": {
+    "uid": 603100,
+    "id": 189,
+    "name": "刑部姫",
+    "classId": 6,
+    "gender": "女性",
+    "attribute": "地",
+    "personality": "中庸",
+    "policy": "混沌",
+    "cost": 16,
+    "hpBase": 2027,
+    "hpMax": 13822,
+    "atkBase": 1672,
+    "atkMax": 10824,
+    "np": [
+      "白鷺城の百鬼八天堂様 A+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 3,
+      "Quick": 4,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "陣地作成 A+",
+      "気配遮断(陰) B",
+      "神性 C"
+    ],
+    "npGainAtk": 0.0083,
+    "npGainDef": 0.04,
+    "skill1": [
+      "変化 A+"
+    ],
+    "skill2": [
+      "千代紙操法 EX"
+    ],
+    "skill3": [
+      "城化物 A++"
+    ]
+  },
+  "190": {
+    "uid": 1000400,
+    "id": 190,
+    "name": "メカエリチャン",
+    "classId": 10,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 12,
+    "hpBase": 1744,
+    "hpMax": 10901,
+    "atkBase": 1666,
+    "atkMax": 9997,
+    "np": [
+      "鋼鉄天空魔嬢 B"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 2,
+      "Quick": 4,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 B",
+      "道具作成 B"
+    ],
+    "npGainAtk": 0.009,
+    "npGainDef": 0.04,
+    "skill1": [
+      "無辜の怪獣 EX"
+    ],
+    "skill2": [
+      "オーバーロード改 C"
+    ],
+    "skill3": [
+      "ファイナルエリチャン C"
+    ]
+  },
+  "191": {
+    "uid": 1000500,
+    "id": 191,
+    "name": "メカエリチャンⅡ号機",
+    "classId": 10,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 12,
+    "hpBase": 1744,
+    "hpMax": 10901,
+    "atkBase": 1666,
+    "atkMax": 9997,
+    "np": [
+      "鋼鉄天空魔嬢 B"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 2,
+      "Quick": 4,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 B",
+      "道具作成 B"
+    ],
+    "npGainAtk": 0.009,
+    "npGainDef": 0.04,
+    "skill1": [
+      "無辜の怪獣 EX"
+    ],
+    "skill2": [
+      "オーバーロード改 C"
+    ],
+    "skill3": [
+      "ファイナルエリチャン C"
+    ]
+  },
+  "192": {
+    "uid": 503300,
+    "id": 192,
+    "name": "キルケー",
+    "classId": 5,
+    "gender": "女性",
+    "attribute": "天",
+    "personality": "中庸",
+    "policy": "混沌",
+    "cost": 12,
+    "hpBase": 1960,
+    "hpMax": 12250,
+    "atkBase": 1445,
+    "atkMax": 8671,
+    "np": [
+      "禁断なる狂宴 C"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 2,
+      "Quick": 3,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "陣地作成 B",
+      "道具作成 A"
+    ],
+    "npGainAtk": 0.0039,
+    "npGainDef": 0.03,
+    "skill1": [
+      "高速神言 B"
+    ],
+    "skill2": [
+      "毒の食饌 A"
+    ],
+    "skill3": [
+      "出航の助言 A"
+    ]
+  },
+  "193": {
+    "uid": 303100,
+    "id": 193,
+    "name": "哪吒",
+    "classId": 3,
+    "gender": "女性",
+    "attribute": "天",
+    "personality": "善",
+    "policy": "中立",
+    "cost": 12,
+    "hpBase": 1938,
+    "hpMax": 12112,
+    "atkBase": 1547,
+    "atkMax": 9284,
+    "np": [
+      "地飛爽霊 火尖槍 A"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 3,
+      "Quick": 4,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 A"
+    ],
+    "npGainAtk": 0.0072,
+    "npGainDef": 0.04,
+    "skill1": [
+      "道術 A"
+    ],
+    "skill2": [
+      "霊珠子 A"
+    ],
+    "skill3": [
+      "如来の加護  B"
+    ]
+  },
+  "194": {
+    "uid": 503400,
+    "id": 194,
+    "name": "シバの女王",
+    "classId": 5,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "善",
+    "policy": "中立",
+    "cost": 12,
+    "hpBase": 1940,
+    "hpMax": 12127,
+    "atkBase": 1438,
+    "atkMax": 8629,
+    "np": [
+      "三つの謎かけ B"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "王"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 4,
+      "Quick": 4,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "陣地作成 C",
+      "対魔力 A"
+    ],
+    "npGainAtk": 0.0081,
+    "npGainDef": 0.03,
+    "skill1": [
+      "カリスマ B-"
+    ],
+    "skill2": [
+      "精霊の目 A"
+    ],
+    "skill3": [
+      "魔神の叡智 A"
+    ]
+  },
+  "195": {
+    "uid": 2500100,
+    "id": 195,
+    "name": "アビゲイル・ウィリアムズ",
+    "classId": 25,
+    "gender": "女性",
+    "attribute": "地",
+    "personality": "惡",
+    "policy": "混沌",
+    "cost": 16,
+    "hpBase": 2019,
+    "hpMax": 13770,
+    "atkBase": 1870,
+    "atkMax": 12100,
+    "np": [
+      "光殻湛えし虚樹 EX"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 6,
+      "Buster": 4,
+      "Quick": 4,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "領域外の生命 EX",
+      "狂気 B",
+      "神性 B"
+    ],
+    "npGainAtk": 0.0025,
+    "npGainDef": 0.03,
+    "skill1": [
+      "信仰の祈り C"
+    ],
+    "skill2": [
+      "正気喪失 B"
+    ],
+    "skill3": [
+      "魔女裁判 A+"
+    ]
+  },
+  "196": {
+    "uid": 303200,
+    "id": 196,
+    "name": "エレシュキガル",
+    "classId": 3,
+    "gender": "女性",
+    "attribute": "地",
+    "personality": "惡",
+    "policy": "混沌",
+    "cost": 16,
+    "hpBase": 2356,
+    "hpMax": 16065,
+    "atkBase": 1598,
+    "atkMax": 10343,
+    "np": [
+      "霊峰踏抱く冥府の鞴 A"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "王"
+    ],
+    "hits": {
+      "Arts": 6,
+      "Buster": 1,
+      "Quick": 4,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 D",
+      "陣地作成 A+",
+      "女神の神核 B"
+    ],
+    "npGainAtk": 0.0054,
+    "npGainDef": 0.04,
+    "skill1": [
+      "秘められた大王冠 A"
+    ],
+    "skill2": [
+      "魔力放出（檻） A+"
+    ],
+    "skill3": [
+      "冥界の護り EX"
+    ]
+  },
+  "197": {
+    "uid": 202200,
+    "id": 197,
+    "name": "アルテラ・ザ・サン〔タ〕",
+    "classId": 2,
+    "gender": "女性",
+    "attribute": "星",
+    "personality": "善",
+    "policy": "混沌",
+    "cost": 12,
+    "hpBase": 1862,
+    "hpMax": 11637,
+    "atkBase": 1626,
+    "atkMax": 9759,
+    "np": [
+      "聖夜の虹、軍神の剣 EX"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "神性",
+      null,
+      "王"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 3,
+      "Quick": 3,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 C",
+      "騎乗 EX",
+      "文明浸食 EX",
+      "神性 B"
+    ],
+    "npGainAtk": 0.0059,
+    "npGainDef": 0.03,
+    "skill1": [
+      "星者の贈り物 B"
+    ],
+    "skill2": [
+      "虹の飴細工 B"
+    ],
+    "skill3": [
+      "きら星の紋章 EX"
+    ]
+  },
+  "198": {
+    "uid": 2500200,
+    "id": 198,
+    "name": "葛飾北斎",
+    "classId": 25,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "中庸",
+    "policy": "混沌",
+    "cost": 16,
+    "hpBase": 1940,
+    "hpMax": 13230,
+    "atkBase": 1870,
+    "atkMax": 12100,
+    "np": [
+      "冨嶽三十六景 A"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 6,
+      "Buster": 4,
+      "Quick": 4,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "領域外の生命 EX",
+      "道具作成 B",
+      "陣地作成 D",
+      "神性 B"
+    ],
+    "npGainAtk": 0.0033,
+    "npGainDef": 0.03,
+    "skill1": [
+      "森羅万象 A+"
+    ],
+    "skill2": [
+      "父娘の絆 A"
+    ],
+    "skill3": [
+      "雅号・異星蛸 B"
+    ]
+  },
+  "199": {
+    "uid": 603200,
+    "id": 199,
+    "name": "セミラミス",
+    "classId": 6,
+    "gender": "女性",
+    "attribute": "地",
+    "personality": "惡",
+    "policy": "秩序",
+    "cost": 16,
+    "hpBase": 1945,
+    "hpMax": 13266,
+    "atkBase": 1747,
+    "atkMax": 11309,
+    "np": [
+      "虚栄の空中庭園 EX"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      "王"
+    ],
+    "hits": {
+      "Arts": 4,
+      "Buster": 4,
+      "Quick": 4,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "気配遮断 C+",
+      "陣地作成 EX",
+      "道具作成 C",
+      "神性 C"
+    ],
+    "npGainAtk": 0.0039,
+    "npGainDef": 0.04,
+    "skill1": [
+      "使い魔（鳩） D"
+    ],
+    "skill2": [
+      "二重召喚 B"
+    ],
+    "skill3": [
+      "驕慢王の美酒 B+"
+    ]
+  },
+  "200": {
+    "uid": 202900,
+    "id": 200,
+    "name": "浅上藤乃",
+    "classId": 2,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "惡",
+    "policy": "秩序",
+    "cost": 12,
+    "hpBase": 1764,
+    "hpMax": 11025,
+    "atkBase": 1716,
+    "atkMax": 10299,
+    "np": [
+      "唯識・歪曲の魔眼 EX"
+    ],
+    "traits": [
+      null,
+      "人型"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 3,
+      "Quick": 3,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 D",
+      "単独行動 A+",
+      "陣地作成 B"
+    ],
+    "npGainAtk": 0.0059,
+    "npGainDef": 0.03,
+    "skill1": [
+      "歪曲の魔眼 EX"
+    ],
+    "skill2": [
+      "千里眼（闇） C"
+    ],
+    "skill3": [
+      "痛覚残留 A"
+    ]
+  },
+  "201": {
+    "uid": 503500,
+    "id": 201,
+    "name": "アナスタシア",
+    "classId": 5,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "中庸",
+    "policy": "中立",
+    "cost": 16,
+    "hpBase": 2091,
+    "hpMax": 14259,
+    "atkBase": 1629,
+    "atkMax": 10546,
+    "np": [
+      "疾走・精霊眼球 EX"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 3,
+      "Quick": 4,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "陣地作成 EX",
+      "妖精契約 A"
+    ],
+    "npGainAtk": 0.0051,
+    "npGainDef": 0.03,
+    "skill1": [
+      "透視の魔眼 D"
+    ],
+    "skill2": [
+      "絶凍のカリスマ B"
+    ],
+    "skill3": [
+      "シュヴィブジック B"
+    ]
+  },
+  "202": {
+    "uid": 703000,
+    "id": 202,
+    "name": "アタランテ〔オルタ〕",
+    "classId": 7,
+    "gender": "女性",
+    "attribute": "地",
+    "personality": "惡",
+    "policy": "混沌",
+    "cost": 12,
+    "hpBase": 1701,
+    "hpMax": 10634,
+    "atkBase": 1634,
+    "atkMax": 9806,
+    "np": [
+      "闇天蝕射 A"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      "猛獸"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 3,
+      "Quick": 3,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "獣化 B",
+      "単独行動 A"
+    ],
+    "npGainAtk": 0.0105,
+    "npGainDef": 0.05,
+    "skill1": [
+      "自己進化 EX"
+    ],
+    "skill2": [
+      "アルカディア越え A"
+    ],
+    "skill3": [
+      "野獣の論理 B"
+    ]
+  },
+  "203": {
+    "uid": 503600,
+    "id": 203,
+    "name": "アヴィケブロン",
+    "classId": 5,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "中庸",
+    "policy": "秩序",
+    "cost": 7,
+    "hpBase": 1796,
+    "hpMax": 9981,
+    "atkBase": 1184,
+    "atkMax": 6376,
+    "np": [
+      "王冠：叡智の光 A+"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 4,
+      "Quick": 4,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "陣地作成 B",
+      "道具作成 B+"
+    ],
+    "npGainAtk": 0.0061,
+    "npGainDef": 0.03,
+    "skill1": [
+      "数秘術 B"
+    ],
+    "skill2": [
+      "高速詠唱 B+"
+    ],
+    "skill3": [
+      "平穏の無花果 EX"
+    ]
+  },
+  "204": {
+    "uid": 1100600,
+    "id": 204,
+    "name": "アントニオ・サリエリ",
+    "classId": 11,
+    "gender": "男性",
+    "attribute": "地",
+    "personality": "惡",
+    "policy": "混沌",
+    "cost": 7,
+    "hpBase": 1411,
+    "hpMax": 7840,
+    "atkBase": 1509,
+    "atkMax": 8125,
+    "np": [
+      "至高の神よ、我を憐れみたまえ C"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      "愛人"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 3,
+      "Quick": 3,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "復讐者 C",
+      "忘却補正 B",
+      "自己回復(魔力) C"
+    ],
+    "npGainAtk": 0.007,
+    "npGainDef": 0.05,
+    "skill1": [
+      "無辜の怪物 EX"
+    ],
+    "skill2": [
+      "慟哭外装 A"
+    ],
+    "skill3": [
+      "燎原の火 B"
+    ]
+  },
+  "205": {
+    "uid": 402800,
+    "id": 205,
+    "name": "イヴァン雷帝",
+    "classId": 4,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "惡",
+    "policy": "秩序",
+    "cost": 16,
+    "hpBase": 1948,
+    "hpMax": 13284,
+    "atkBase": 1795,
+    "atkMax": 11619,
+    "np": [
+      "我が旅路に従え獣 A+"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋",
+      "猛獸",
+      "王"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 2,
+      "Quick": 4,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 D",
+      "騎乗 EX"
+    ],
+    "npGainAtk": 0.0062,
+    "npGainDef": 0.03,
+    "skill1": [
+      "矛盾精神 A"
+    ],
+    "skill2": [
+      "無辜の怪物（異） A"
+    ],
+    "skill3": [
+      "非常大権 A"
+    ]
+  },
+  "206": {
+    "uid": 402900,
+    "id": 206,
+    "name": "アキレウス",
+    "classId": 4,
+    "gender": "男性",
+    "attribute": "地",
+    "personality": "中庸",
+    "policy": "秩序",
+    "cost": 16,
+    "hpBase": 1938,
+    "hpMax": 13219,
+    "atkBase": 1836,
+    "atkMax": 11883,
+    "np": [
+      "疾風怒濤の不死戦車 A"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      "愛人",
+      "希臘神話系男性"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 2,
+      "Quick": 4,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 C",
+      "騎乗 A+",
+      "神性 C"
+    ],
+    "npGainAtk": 0.0057,
+    "npGainDef": 0.03,
+    "skill1": [
+      "彗星走法 A+"
+    ],
+    "skill2": [
+      "勇者の不凋花 B"
+    ],
+    "skill3": [
+      "宙駆ける星の穂先 B+"
+    ]
+  },
+  "207": {
+    "uid": 203000,
+    "id": 207,
+    "name": "ケイローン",
+    "classId": 2,
+    "gender": "男性",
+    "attribute": "天",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 12,
+    "hpBase": 1960,
+    "hpMax": 12250,
+    "atkBase": 1549,
+    "atkMax": 9294,
+    "np": [
+      "天蠍一射 A"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      "希臘神話系男性"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 4,
+      "Quick": 3,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 B",
+      "単独行動 A",
+      "神性 C"
+    ],
+    "npGainAtk": 0.0068,
+    "npGainDef": 0.03,
+    "skill1": [
+      "心眼（真） A"
+    ],
+    "skill2": [
+      "永生の奉献 EX"
+    ],
+    "skill3": [
+      "神授の智慧 A+"
+    ]
+  },
+  "208": {
+    "uid": 503800,
+    "id": 208,
+    "name": "ジーク",
+    "classId": 5,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "善",
+    "policy": "中立",
+    "cost": 12,
+    "hpBase": 1806,
+    "hpMax": 11288,
+    "atkBase": 1399,
+    "atkMax": 8394,
+    "np": [
+      "灼熱竜息・万地融解 EX"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "龍",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 3,
+      "Quick": 3,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "単独行動 EX",
+      "ホムンクルス C+"
+    ],
+    "npGainAtk": 0.0078,
+    "npGainDef": 0.03,
+    "skill1": [
+      "人工英雄（偽） B+"
+    ],
+    "skill2": [
+      "魔術 C"
+    ],
+    "skill3": [
+      "竜告令呪 EX"
+    ]
+  },
+  "209": {
+    "uid": 1000700,
+    "id": 209,
+    "name": "沖田総司〔オルタ〕",
+    "classId": 10,
+    "gender": "女性",
+    "attribute": "人",
+    "personality": "中庸",
+    "policy": "中立",
+    "cost": 16,
+    "hpBase": 1862,
+    "hpMax": 12696,
+    "atkBase": 1926,
+    "atkMax": 12465,
+    "np": [
+      "絶剱・無穹三段 A"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "阿爾托莉亞臉",
+      "被「天地乖離開辟之星」所剋",
+      "愛人"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 3,
+      "Quick": 5,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 B",
+      "単独行動 A"
+    ],
+    "npGainAtk": 0.0077,
+    "npGainDef": 0.04,
+    "skill1": [
+      "極地 A"
+    ],
+    "skill2": [
+      "不断 B"
+    ],
+    "skill3": [
+      "無辺 A"
+    ]
+  },
+  "210": {
+    "uid": 603300,
+    "id": 210,
+    "name": "岡田以蔵",
+    "classId": 6,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "惡",
+    "policy": "中立",
+    "cost": 7,
+    "hpBase": 1592,
+    "hpMax": 8844,
+    "atkBase": 1277,
+    "atkMax": 6879,
+    "np": [
+      "始末剣 なし"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "被「天地乖離開辟之星」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 1,
+      "Quick": 4,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "気配遮断 B"
+    ],
+    "npGainAtk": 0.0079,
+    "npGainDef": 0.04,
+    "skill1": [
+      "人斬り A"
+    ],
+    "skill2": [
+      "心眼（偽） C"
+    ],
+    "skill3": [
+      "撃剣矯捷なること隼の如し A"
+    ]
+  },
+  "211": {
+    "uid": 403000,
+    "id": 211,
+    "name": "坂本龍馬",
+    "classId": 4,
+    "gender": "男性",
+    "attribute": "人",
+    "personality": "中庸",
+    "policy": "中立",
+    "cost": 12,
+    "hpBase": 1900,
+    "hpMax": 11880,
+    "atkBase": 1425,
+    "atkMax": 8555,
+    "np": [
+      "天駆ける竜が如く EX"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "愛人"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 4,
+      "Quick": 4,
+      "Extra": 6
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 C",
+      "騎乗 A+",
+      "神性 B-"
+    ],
+    "npGainAtk": 0.0056,
+    "npGainDef": 0.03,
+    "skill1": [
+      "カリスマ C+"
+    ],
+    "skill2": [
+      "船中八策 A"
+    ],
+    "skill3": [
+      "維新の英雄 A"
+    ]
+  },
+  "212": {
+    "uid": 203100,
+    "id": 212,
+    "name": "ナポレオン",
+    "classId": 2,
+    "gender": "男性",
+    "attribute": "星",
+    "personality": "善",
+    "policy": "中立",
+    "cost": 16,
+    "hpBase": 1920,
+    "hpMax": 13097,
+    "atkBase": 1859,
+    "atkMax": 12033,
+    "np": [
+      "凱旋を高らかに告げる虹弓 A"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "愛人",
+      "王"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 1,
+      "Quick": 3,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 C",
+      "単独行動 C"
+    ],
+    "npGainAtk": 0.0059,
+    "npGainDef": 0.03,
+    "skill1": [
+      "凱旋のカリスマ B"
+    ],
+    "skill2": [
+      "火力支援（砲） B+"
+    ],
+    "skill3": [
+      "可能性の光 B"
+    ]
+  },
+  "213": {
+    "uid": 103300,
+    "id": 213,
+    "name": "シグルド",
+    "classId": 1,
+    "gender": "男性",
+    "attribute": "地",
+    "personality": "善",
+    "policy": "中立",
+    "cost": 16,
+    "hpBase": 2049,
+    "hpMax": 13975,
+    "atkBase": 1926,
+    "atkMax": 12465,
+    "np": [
+      "壊劫の天輪 A+"
+    ],
+    "traits": [
+      "騎乘",
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋",
+      null,
+      "龍",
+      "愛人"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 2,
+      "Quick": 4,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 A",
+      "騎乗 A",
+      "神性 B"
+    ],
+    "npGainAtk": 0.0062,
+    "npGainDef": 0.03,
+    "skill1": [
+      "原初のルーン（戦士） B"
+    ],
+    "skill2": [
+      "竜種改造 EX"
+    ],
+    "skill3": [
+      "叡智の結晶 A"
+    ]
+  },
+  "214": {
+    "uid": 303300,
+    "id": 214,
+    "name": "ワルキューレ",
+    "classId": 3,
+    "gender": "女性",
+    "attribute": "天",
+    "personality": "善",
+    "policy": "秩序",
+    "cost": 12,
+    "hpBase": 2244,
+    "hpMax": 14025,
+    "atkBase": 1339,
+    "atkMax": 8037,
+    "np": [
+      "終末幻想・少女降臨 B"
+    ],
+    "traits": [
+      null,
+      "人型",
+      "神性",
+      null,
+      "被「天地乖離開辟之星」所剋",
+      "被「人類神話・雷電降臨」所剋",
+      "被「神秘殺し」所剋"
+    ],
+    "hits": {
+      "Arts": 2,
+      "Buster": 3,
+      "Quick": 3,
+      "Extra": 4
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Buster",
+      "Buster"
+    ],
+    "passives": [
+      "対魔力 B",
+      "神性 A"
+    ],
+    "npGainAtk": 0.0086,
+    "npGainDef": 0.04,
+    "skill1": [
+      "原初のルーン"
+    ],
+    "skill2": [
+      "白鳥礼装 A"
+    ],
+    "skill3": [
+      "運命の機織り B"
+    ]
+  }
+}
