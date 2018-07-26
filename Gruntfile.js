@@ -115,9 +115,12 @@ module.exports = function (grunt) {
       }
     }
     
+    // store npGains here cause they're a pain in the ass to get later
+    var npGains = {};
     function servantUlts(uid) {
       var ultList = sandbox.master.mstSvtTreasureDevice,
-        ults = [];
+          tdlvl = sandbox.master.mstTreasureDeviceLv,
+          ults = [];
       for (var i = 0, l = ultList.length; i < l; i++) {
         if (ultList[i].svtId == uid) {
           var ultData = ultList[i], 
@@ -137,6 +140,19 @@ module.exports = function (grunt) {
           noblephantasms[ult.name] = ult;
           
           ults.push(ult.name);
+
+          // npGains for servants are stored by treasure device for some reason???
+          if (npGains[uid] == undefined) {
+            for (var x = 0, y = tdlvl.length; x < y; x++) {
+              if (tdlvl[x].treaureDeviceId == ultData.treasureDeviceId) {
+                npGains[uid] = {
+                  atkGain: tdlvl[x].tdPoint,
+                  defGain: tdlvl[x].tdPointDef
+                }
+                break;
+              }
+            }
+          }
         }
       }
       return ults;
@@ -227,10 +243,10 @@ module.exports = function (grunt) {
                 }
               }
               skill[key] = vals;
-            }            
+            }
           }
 
-          servSkills[svtSkills[i].num].push(skill);
+          servSkills[svtSkills[i].num].push(skill.name);
           skills[skill.name] = skill;
         }
       }
@@ -238,6 +254,13 @@ module.exports = function (grunt) {
       return servSkills;
     }
     
+    var cardMap = [
+      "empty",
+      "Arts",
+      "Buster",
+      "Quick",
+      "Extra"
+    ];
     for (i = 0, l = rawSvt.length; i < l; i++) {
       if (rawSvt[i].type == 1) {
         var serv = rawSvt[i],
@@ -260,24 +283,74 @@ module.exports = function (grunt) {
             np: servantUlts(serv.id),
             traits: [],
             hits: {
+              "Arts": 0,
               "Buster": 0,
               "Quick": 0,
-              "Arts": 0,
               "Extra": 0
             },
-            deck: {
-              "Buster": 0,
-              "Quick": 0,
-              "Arts": 0
-            },
+            deck: [
+            ],
+            passives: [],
+            npGainAtk: npGains[serv.id].atkGain / 10000,
+            npGainDef: npGains[serv.id].defGain / 10000
           },
-          skills = servantSkills(serv.id);
+          servSkills = servantSkills(serv.id);
 
-        for (var
-
-        for (var j = 7, l2 = serv.individuality.length; j < l2; j++) {
+        for (var j = 7, m = serv.individuality.length; j < m; j++) {
+          if (traits[serv.individuality[j]] == undefined) {
+            console.log("No trait with id "+serv.individuality[j]+" on servant "+serv.id+" found.");
+          }
           data.traits.push(getLocalName("traits", traits[serv.individuality[j]]));
         }
+
+        for (j = 0, m = serv.cardIds.length; j < m; j++) {
+          data.deck.push(cardMap[serv.cardIds[j]]);
+        }
+
+        for (j = 0, m = sandbox.master.mstSvtCard.length; j < m; j++) {
+          var card = sandbox.master.mstSvtCard[j];
+          if (card.svtId == serv.id) {
+            var cardType = cardMap[card.cardId];
+            data.hits[cardType] = card.normalDamage.length;
+          }
+        }
+
+        for (j = 0, m = serv.classPassive.length; j < m; j++) {
+          for (var k = 0, n = sandbox.master.mstSkill.length; k < n; k++) {
+            if (serv.classPassive[j] == sandbox.master.mstSkill[k].id) {
+              var name = getLocalName('skills', sandbox.master.mstSkill[k].name);
+              data.passives.push(name);
+              if (skills[name] == undefined) {
+                var skill = {
+                  name: name,
+                  icon: sandbox.master.mstSkill[k].iconId
+                };
+                for (var x = 0, y = sandbox.skDetail.length; x < y; x++) {
+                  if (sandbox.skDetail[x][0] == serv.classPassive[j]) {
+                    skill.details = getLocalName("skillDetails", sandbox.skDetail[x][1]);
+                    for (var o = 2, p = sandbox.skDetail[x].length; o < p; o++) {
+                      var key = 'mag'+((o-1).toString());
+                      skill[key] = sandbox.skDetail[x][o].replace('%', '') / 100;
+                    }
+                  }
+                }
+                skills[name] = skill;
+              }
+              break;
+            }
+          }
+        }
+
+        for (var k in servSkills) {
+          if (parseInt(k) != NaN) {
+            data["skill"+k] = servSkills[k];
+          }
+          else {
+            data.passives.push(servSkills[k]);
+          }
+        }
+
+        servants[data.id] = data;
       }
     }
     
@@ -286,5 +359,9 @@ module.exports = function (grunt) {
         fs.writeFileSync('translations/'+i+'.json', JSON.stringify(maps[i], null, 2));
       }
     }
+
+    fs.writeFileSync('data/servants.json', JSON.stringify(servants, null, 2));
+    fs.writeFileSync('data/skills.json', JSON.stringify(skills, null, 2));
+    fs.writeFileSync('data/nps.json', JSON.stringify(noblephantasms, null, 2));
   });
 }
