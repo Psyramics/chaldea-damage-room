@@ -18,8 +18,11 @@
       skill3str: 0
 	  },
     constructor: function () {
+      var self = this;
       Backbone.Model.apply(this, arguments);
-      ServantLoader(arguments[0]);
+      ServantLoader(arguments[0], function (data) {
+        self.data = data;
+      });
     }
 	});
   
@@ -32,9 +35,6 @@
     
     var files = [
       'servants',
-      'skills',
-      'nps',
-      'curves',
     ];
     for (var i = 0; i < files.length; i++) {
       jQuery.get('data/'+files[i]+'.json').done(function (data, text, jqXHR) {
