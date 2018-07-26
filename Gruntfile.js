@@ -55,7 +55,7 @@ module.exports = function (grunt) {
       type[row.lv] = row.curve;
     }
     
-    fs.writeFileSync('data/curves.json', JSON.stringify(compExp), function (){});
+    fs.writeFileSync('data/curves.json', JSON.stringify(compExp, null, 2));
 
     // parse trait list
     var traits = {};
@@ -275,6 +275,7 @@ module.exports = function (grunt) {
             personality: getLocalName('traits', sandbox.personalityList[servStats.personality]),
             policy: getLocalName('traits', sandbox.policyList[servStats.policy]),
             cost: serv.cost,
+            expCurve: serv.expType,
             starRate: serv.starrate,
             hpBase: servStats.hpBase,
             hpMax: servStats.hpMax,
