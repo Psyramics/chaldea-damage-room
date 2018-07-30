@@ -26,24 +26,18 @@
     }
 	});
   
-  var ServantData = {};
-  function ServantLoader (name, callback) {
-    if (typeof ServantData[name] != 'undefined') {
-      callback(ServantData[name]);
-      return;
-    }
-    
-    var files = [
-      'servants',
-    ];
-    for (var i = 0; i < files.length; i++) {
-      jQuery.get('data/'+files[i]+'.json').done(function (data, text, jqXHR) {
-        console.log(data);
-      }));
-    }
-  }
+  app.collection = app.collection || {};
+  app.collection.Servant = Backbone.Collection.extend({
+    model: Servant
+  });
   
-  if (typeof window.ChaldeaDamageRoom == 'undefined') {
-    window.ChaldeaDamageRoom = app;
+  var ServantData = {};
+  var files = [
+    'servants',
+  ];
+  for (var i = 0; i < files.length; i++) {
+    jQuery.get('data/'+files[i]+'.json').done(function (data, text, jqXHR) {
+      console.log(data);
+    }));
   }
 })();
