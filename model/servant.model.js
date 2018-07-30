@@ -38,6 +38,6 @@
   for (var i = 0; i < files.length; i++) {
     jQuery.get('data/'+files[i]+'.json').done(function (data, text, jqXHR) {
       console.log(data);
-    }));
+    });
   }
 })();
