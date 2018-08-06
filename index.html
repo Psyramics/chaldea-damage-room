@@ -4,21 +4,13 @@
   <meta charset="UTF-8">
 </head>
 <body>
-  Loading from github pages
-  <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
-  <script src="https://underscorejs.org/underscore.js"></script>
-  <script src="http://backbonejs.org/backbone.js"></script>
-  <script src="model/servant.model.js"></script>
-  <script type="text/javascript">
-    
-  </script>
-  <script type="text/template" id="servantList">
-    <div id="container">
+    <div id="servContainer">
       <div id="sidebar">
         <div id="addServ">
           <select id="addServSelect">
             <option disabled selected value> -- select a servant -- </option>
           </select>
+          <button>Add</button>
         </div>
         <ul id="servList">
         </ul>
@@ -26,6 +18,15 @@
       <div id="servDetail">
       </div>
     </div>
+  <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+  <script src="https://underscorejs.org/underscore.js"></script>
+  <script src="http://backbonejs.org/backbone.js"></script>
+  <script src="model/servant.model.js"></script>
+  <script src="view/servant.view.js"></script>
+  <script type="text/javascript">
+    
+  </script>
+  <script type="text/template" id="servantList">
   </script>
 </body>
 </html>

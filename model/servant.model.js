@@ -15,21 +15,23 @@
       skill2lvl: 1,
       skill2str: 0,
       skill3lvl: 1,
-      skill3str: 0
+      skill3str: 0,
+      data: {}
 	  },
     constructor: function () {
       var self = this;
       Backbone.Model.apply(this, arguments);
-      ServantLoader(arguments[0], function (data) {
-        self.data = data;
-      });
+      console.log(arguments);
     }
-	});
-  
-  app.collection = app.collection || {};
-  app.collection.Servant = Backbone.Collection.extend({
-    model: Servant
+	}); 
+  var servCollection = Backbone.Collection.extend({
+    model: app.model.Servant
   });
+  
+  app.collections = app.collections || {};
+  app.collections.Servant = new servCollection;
+  app.data = app.data || {};
+  app.data.servants = {};
   
   var ServantData = {};
   var files = [
@@ -37,7 +39,7 @@
   ];
   for (var i = 0; i < files.length; i++) {
     jQuery.get('data/'+files[i]+'.json').done(function (data, text, jqXHR) {
-      console.log(data);
+      app.data.servants = data;
     });
   }
 })();

@@ -1,15 +1,33 @@
 (function () {
   var app = window.ChaldeaDamageRoom || {};
   
-  var ServantFullView = Backbone.View.extend({
+  var ServantRouteView = Backbone.View.extend({
+    el: $('#servContainer'),
+    events: {
+      "click #addServ button": "addServant",
+    },
+    initialize: function () {
+      this.dropdown = $('#addServSelect');
+      
+      for (var k in app.data.servants) {
+        dropdown.append('<option value="'+k+'">'+app.data.servants[k].name+'</option>');
+      }
+    },
+    addServant: function () {
+      app.collections.Servant.create({id: dropdown.value()});
+    }
+  });
+  
+  var ServantDetailView = Backbone.View.extend({
+    el: $('#servDetail')
   });
   
   var ServantListItemView = Backbone.View.extend({
     tagName: "li",
     template: _.template($('<li><a class="name"><%=name %></a><a class="remove">X</a></li>').html()),
     events: {
-      "click .name"   : activate,
-      "click .remove" : remove
+      "click .name"   : 'activate',
+      "click .remove" : 'remove'
     },
     activate: function () {
       Backbound.Router.navigate("servants/"+this.model.id, {trigger: true});
@@ -20,21 +38,16 @@
       }
       this.model.destroy();
     },
-    
-    
   });
   
   var ServantRouter = Backbone.Router.extend({
     routes: {
-      "":             "servants"
+      "":             "servants",
       "servants":     "servants",
       "servants/:id": "servants"
     },
     
     initialize: function () {
-      this.container = new ServantListView({
-        el: $('#servantList'),
-        model: this.
     },
     
     servants: function (id) {
