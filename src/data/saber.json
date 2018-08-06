@@ -1,0 +1,43 @@
+{
+  '2': {
+    name: 'Altria Pendragon',
+    npGainAtk: 0.0086,
+    npGainDef: .03,
+    starWeight: 102,
+    starRate: .10,
+    death: .21,
+    attribute: "Earth",
+    quick: 2,
+    arts: 2,
+    buster: 1,
+    extra: 3,
+    traits: [
+      'Female',
+      'Servant',
+      'Humanoid',
+      'Dragon',
+      'Weak To Enuma Elish',
+      'Riding',
+      'Altria Face',
+      'Arthur',
+      'Sky or Earth Servant',
+      'Soverign'
+    ],
+    alignment: [
+      "Lawful",
+      "Good",
+    },
+    skill1: "Charisma B",
+    skill1a: null,  // interlude or strengthened
+    skill2: "Mana Burst A",
+    skill2a: null,
+    skill3: "Intuition A",
+    skill3a: null,
+    np: "Excalibur A",
+    npi: "Excalibur A++",
+    passives: [
+      "Magic Resistance A",
+      "Riding B"
+    ]
+  }
+}
