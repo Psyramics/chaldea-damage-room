@@ -1,0 +1,4 @@
+[submodule "fgo-vz"]
+	path = fgo-vz
+	url = https://github.com/KazeMai/fgo-vz
+	branch = gh-pages
