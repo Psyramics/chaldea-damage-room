@@ -2,12 +2,12 @@
   "0": {
     "uid": 600710,
     "id": 0,
-    "name": "ヘンリー・ジキル＆ハイド",
+    "name": "Henry Jekyll & Hyde",
     "classId": 7,
-    "gender": "男性",
-    "attribute": "地",
-    "personality": "惡",
-    "policy": "混沌",
+    "gender": "Male",
+    "attribute": "Earth",
+    "personality": "Evil",
+    "policy": "Chaotic",
     "cost": 7,
     "expCurve": 23,
     "hpBase": 1546,
@@ -15,15 +15,14 @@
     "atkBase": 1402,
     "atkMax": 7551,
     "np": [
-      "密やかなる罪の遊戯 C",
-      "密やかなる罪の遊戯 C+"
+      "デンジャラス・ゲーム C",
+      "デンジャラス・ゲーム C+"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 2,
@@ -56,12 +55,12 @@
   "2": {
     "uid": 100100,
     "id": 2,
-    "name": "アルトリア・ペンドラゴン",
+    "name": "Altria Pendragon",
     "classId": 1,
-    "gender": "女性",
-    "attribute": "地",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Female",
+    "attribute": "Earth",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 16,
     "expCurve": 5,
     "hpBase": 2222,
@@ -69,21 +68,19 @@
     "atkBase": 1734,
     "atkMax": 11221,
     "np": [
-      "約束された勝利の剣 A",
-      "約束された勝利の剣 A++"
+      "エクスカリバー A",
+      "エクスカリバー A++"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "龍",
-      "阿爾托莉亞臉",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      null,
-      "亞瑟",
-      "王"
+      "Riding",
+      "Humanoid",
+      "Dragon",
+      "Saberface",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Altria",
+      "Soverign"
     ],
     "hits": {
       "Arts": 2,
@@ -111,18 +108,19 @@
       "魔力放出 A"
     ],
     "skill3": [
-      "直感 A"
+      "直感 A",
+      "輝ける路 EX"
     ]
   },
   "3": {
     "uid": 100200,
     "id": 3,
-    "name": "アルトリア・ペンドラゴン〔オルタ〕",
+    "name": "Altria Pendragon (Alter)",
     "classId": 1,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "惡",
-    "policy": "秩序",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Evil",
+    "policy": "Order",
     "cost": 12,
     "expCurve": 14,
     "hpBase": 1854,
@@ -130,17 +128,15 @@
     "atkBase": 1708,
     "atkMax": 10248,
     "np": [
-      "約束された勝利の剣 A++"
+      "エクスカリバー・モルガン A++"
     ],
     "traits": [
-      null,
-      "人型",
-      "龍",
-      "阿爾托莉亞臉",
-      "被「天地乖離開辟之星」所剋",
-      null,
-      "亞瑟",
-      "王"
+      "Humanoid",
+      "Dragon",
+      "Saberface",
+      "Weak to Enuma Elish",
+      "Altria",
+      "Soverign"
     ],
     "hits": {
       "Arts": 2,
@@ -173,12 +169,12 @@
   "4": {
     "uid": 100300,
     "id": 4,
-    "name": "アルトリア・ペンドラゴン〔リリィ〕",
+    "name": "Altria Pendragon (Lily)",
     "classId": 1,
-    "gender": "女性",
-    "attribute": "地",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Female",
+    "attribute": "Earth",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 12,
     "expCurve": 14,
     "hpBase": 1699,
@@ -186,21 +182,19 @@
     "atkBase": 1287,
     "atkMax": 7726,
     "np": [
-      "勝利すべき黄金の剣 B",
-      "勝利すべき黄金の剣 B+"
+      "カリバーン B",
+      "カリバーン B+"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "龍",
-      "阿爾托莉亞臉",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      null,
-      "亞瑟",
-      "王"
+      "Riding",
+      "Humanoid",
+      "Dragon",
+      "Saberface",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Altria",
+      "Soverign"
     ],
     "hits": {
       "Arts": 2,
@@ -234,12 +228,12 @@
   "5": {
     "uid": 100500,
     "id": 5,
-    "name": "ネロ・クラウディウス",
+    "name": "Nero Claudius",
     "classId": 1,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "善",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Lawful",
+    "policy": "Chaotic",
     "cost": 12,
     "expCurve": 9,
     "hpBase": 1880,
@@ -247,18 +241,16 @@
     "atkBase": 1574,
     "atkMax": 9449,
     "np": [
-      "童女謳う華の帝政 B-",
-      "童女謳う華の帝政 B"
+      "ラウス・セント・クラウディウス B-",
+      "ラウス・セント・クラウディウス B"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "羅馬",
-      "阿爾托莉亞臉",
-      "被「天地乖離開辟之星」所剋",
-      null,
-      "王"
+      "Riding",
+      "Humanoid",
+      "Roman",
+      "Saberface",
+      "Weak to Enuma Elish",
+      "Soverign"
     ],
     "hits": {
       "Arts": 2,
@@ -292,12 +284,12 @@
   "6": {
     "uid": 100800,
     "id": 6,
-    "name": "ジークフリート",
+    "name": "Sigurd",
     "classId": 1,
-    "gender": "男性",
-    "attribute": "地",
-    "personality": "善",
-    "policy": "混沌",
+    "gender": "Male",
+    "attribute": "Earth",
+    "personality": "Lawful",
+    "policy": "Chaotic",
     "cost": 12,
     "expCurve": 14,
     "hpBase": 2266,
@@ -305,21 +297,18 @@
     "atkBase": 1363,
     "atkMax": 8181,
     "np": [
-      "幻想大剣・天魔失墜 A+",
-      "幻想大剣・天魔失墜 EX"
+      "バルムンク A+",
+      "バルムンク EX"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "龍",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      null,
-      "愛人",
-      "王"
+      "Riding",
+      "Humanoid",
+      "Dragon",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Brynhildr's Beloved",
+      "Soverign"
     ],
     "hits": {
       "Arts": 2,
@@ -353,12 +342,12 @@
   "7": {
     "uid": 101300,
     "id": 7,
-    "name": "ガイウス・ユリウス・カエサル",
+    "name": "Gaius Julius Caesar",
     "classId": 1,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "中庸",
-    "policy": "中立",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Neutral",
+    "policy": "Neutral",
     "cost": 7,
     "expCurve": 13,
     "hpBase": 1727,
@@ -366,19 +355,16 @@
     "atkBase": 1392,
     "atkMax": 7497,
     "np": [
-      "黄の死 B+"
+      "クロケア・モース B+"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "神性",
-      null,
-      "羅馬",
-      "被「天地乖離開辟之星」所剋",
-      null,
-      "愛人",
-      "王"
+      "Riding",
+      "Humanoid",
+      "Divine",
+      "Roman",
+      "Weak to Enuma Elish",
+      "Brynhildr's Beloved",
+      "Soverign"
     ],
     "hits": {
       "Arts": 2,
@@ -414,12 +400,12 @@
   "8": {
     "uid": 101800,
     "id": 8,
-    "name": "アルテラ",
+    "name": "Altera",
     "classId": 1,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "善",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Lawful",
+    "policy": "Chaotic",
     "cost": 16,
     "expCurve": 5,
     "hpBase": 2039,
@@ -427,18 +413,15 @@
     "atkBase": 1907,
     "atkMax": 12343,
     "np": [
-      "軍神の剣 A-",
-      "軍神の剣 A"
+      "フォトン・レイ A-",
+      "フォトン・レイ A"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      null,
-      "王"
+      "Riding",
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Soverign"
     ],
     "hits": {
       "Arts": 2,
@@ -474,12 +457,12 @@
   "9": {
     "uid": 102200,
     "id": 9,
-    "name": "ジル・ド・レェ",
+    "name": "Gilles de Rais",
     "classId": 1,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 7,
     "expCurve": 13,
     "hpBase": 1889,
@@ -487,15 +470,13 @@
     "atkBase": 1228,
     "atkMax": 6615,
     "np": [
-      "神聖たる旗に集いて吼えよ B"
+      "セイント・ウォーオーダー B"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      null,
-      "愛人"
+      "Riding",
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Brynhildr's Beloved"
     ],
     "hits": {
       "Arts": 2,
@@ -530,12 +511,12 @@
   "10": {
     "uid": 102600,
     "id": 10,
-    "name": "シュヴァリエ・デオン",
+    "name": "Chevalier d'Éon",
     "classId": 1,
-    "gender": "無",
-    "attribute": "人",
-    "personality": "中庸",
-    "policy": "中立",
+    "gender": "Unknown",
+    "attribute": "Man",
+    "personality": "Neutral",
+    "policy": "Neutral",
     "cost": 12,
     "expCurve": 9,
     "hpBase": 2121,
@@ -543,15 +524,12 @@
     "atkBase": 1460,
     "atkMax": 8765,
     "np": [
-      "百合の花咲く豪華絢爛 C",
-      "百合の花咲く豪華絢爛 C+"
+      "フルール・ド・リス C",
+      "フルール・ド・リス C+"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      null,
-      null
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 2,
@@ -585,12 +563,12 @@
   "11": {
     "uid": 200100,
     "id": 11,
-    "name": "エミヤ",
+    "name": "Emiya",
     "classId": 2,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "中庸",
-    "policy": "中立",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Neutral",
+    "policy": "Neutral",
     "cost": 12,
     "expCurve": 14,
     "hpBase": 1843,
@@ -598,14 +576,13 @@
     "atkBase": 1566,
     "atkMax": 9398,
     "np": [
-      "無限の剣製 E～A",
-      "無限の剣製 E～A"
+      "アンリミテッドブレイドワークス E～A",
+      "アンリミテッドブレイドワークス E～A"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "愛人"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Brynhildr's Beloved"
     ],
     "hits": {
       "Arts": 3,
@@ -641,12 +618,12 @@
   "12": {
     "uid": 200200,
     "id": 12,
-    "name": "ギルガメッシュ",
+    "name": "Gilgamesh",
     "classId": 2,
-    "gender": "男性",
-    "attribute": "天",
-    "personality": "善",
-    "policy": "混沌",
+    "gender": "Male",
+    "attribute": "Sky",
+    "personality": "Lawful",
+    "policy": "Chaotic",
     "cost": 16,
     "expCurve": 10,
     "hpBase": 1920,
@@ -654,18 +631,16 @@
     "atkBase": 1897,
     "atkMax": 12280,
     "np": [
-      "天地乖離す開闢の星 A++",
-      "天地乖離す開闢の星 EX"
+      "エヌマ・エリシュ A++",
+      "エヌマ・エリシュ EX"
     ],
     "traits": [
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      "王"
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Soverign"
     ],
     "hits": {
       "Arts": 5,
@@ -701,12 +676,12 @@
   "13": {
     "uid": 200300,
     "id": 13,
-    "name": "ロビンフッド",
+    "name": "Robin Hood",
     "classId": 2,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "善",
-    "policy": "中立",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Lawful",
+    "policy": "Neutral",
     "cost": 7,
     "expCurve": 3,
     "hpBase": 1833,
@@ -714,13 +689,12 @@
     "atkBase": 1247,
     "atkMax": 6715,
     "np": [
-      "祈りの弓 D"
+      "イー・バウ D"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "愛人"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Brynhildr's Beloved"
     ],
     "hits": {
       "Arts": 2,
@@ -754,12 +728,12 @@
   "14": {
     "uid": 200500,
     "id": 14,
-    "name": "アタランテ",
+    "name": "Atlante",
     "classId": 2,
-    "gender": "女性",
-    "attribute": "地",
-    "personality": "惡",
-    "policy": "中立",
+    "gender": "Female",
+    "attribute": "Earth",
+    "personality": "Evil",
+    "policy": "Neutral",
     "cost": 12,
     "expCurve": 9,
     "hpBase": 1996,
@@ -767,16 +741,14 @@
     "atkBase": 1438,
     "atkMax": 8633,
     "np": [
-      "訴状の矢文 B",
-      "訴状の矢文 B+"
+      "ポイボス・カタストロフェ B",
+      "ポイボス・カタストロフェ B+"
     ],
     "traits": [
-      null,
-      "人型",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 2,
@@ -811,12 +783,12 @@
   "15": {
     "uid": 201200,
     "id": 15,
-    "name": "エウリュアレ",
+    "name": "Euryale",
     "classId": 2,
-    "gender": "女性",
-    "attribute": "天",
-    "personality": "善",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Sky",
+    "personality": "Lawful",
+    "policy": "Chaotic",
     "cost": 7,
     "expCurve": 3,
     "hpBase": 1711,
@@ -824,17 +796,15 @@
     "atkBase": 1306,
     "atkMax": 7032,
     "np": [
-      "女神の視線 B-",
-      "女神の視線 B"
+      "アイ・オブ・ザ・エウリュアレ B-",
+      "アイ・オブ・ザ・エウリュアレ B"
     ],
     "traits": [
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 2,
@@ -869,12 +839,12 @@
   "16": {
     "uid": 201300,
     "id": 16,
-    "name": "アーラシュ",
+    "name": "Arash",
     "classId": 2,
-    "gender": "男性",
-    "attribute": "地",
-    "personality": "中庸",
-    "policy": "混沌",
+    "gender": "Male",
+    "attribute": "Earth",
+    "personality": "Neutral",
+    "policy": "Chaotic",
     "cost": 3,
     "expCurve": 1,
     "hpBase": 1424,
@@ -882,16 +852,15 @@
     "atkBase": 1057,
     "atkMax": 5816,
     "np": [
-      "流星一条 B++",
-      "流星一条 A"
+      "ステラ B++",
+      "ステラ A"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      "愛人"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Brynhildr's Beloved"
     ],
     "hits": {
       "Arts": 2,
@@ -925,12 +894,12 @@
   "17": {
     "uid": 300100,
     "id": 17,
-    "name": "クー・フーリン",
+    "name": "Cu Chulainn",
     "classId": 3,
-    "gender": "男性",
-    "attribute": "天",
-    "personality": "中庸",
-    "policy": "秩序",
+    "gender": "Male",
+    "attribute": "Sky",
+    "personality": "Neutral",
+    "policy": "Order",
     "cost": 7,
     "expCurve": 8,
     "hpBase": 1726,
@@ -938,17 +907,16 @@
     "atkBase": 1344,
     "atkMax": 7239,
     "np": [
-      "刺し穿つ死棘の槍 B"
+      "ゲイ・ボルク B",
+      "ゲイ・ボルク B+"
     ],
     "traits": [
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      "愛人"
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Brynhildr's Beloved"
     ],
     "hits": {
       "Arts": 2,
@@ -982,12 +950,12 @@
   "18": {
     "uid": 300500,
     "id": 18,
-    "name": "エリザベート・バートリー",
+    "name": "Elizabeth Bathory",
     "classId": 3,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "惡",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Evil",
+    "policy": "Chaotic",
     "cost": 12,
     "expCurve": 4,
     "hpBase": 1899,
@@ -995,14 +963,13 @@
     "atkBase": 1520,
     "atkMax": 9122,
     "np": [
-      "鮮血魔嬢 E-",
-      "鮮血魔嬢 E+"
+      "バートリ・エルジェーベト E-",
+      "バートリ・エルジェーベト E+"
     ],
     "traits": [
-      null,
-      "人型",
-      "龍",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Dragon",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 2,
@@ -1037,12 +1004,12 @@
   "19": {
     "uid": 300600,
     "id": 19,
-    "name": "武蔵坊弁慶",
+    "name": "Musashibou Benkei",
     "classId": 3,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "善",
-    "policy": "混沌",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Lawful",
+    "policy": "Chaotic",
     "cost": 4,
     "expCurve": 7,
     "hpBase": 1722,
@@ -1050,13 +1017,12 @@
     "atkBase": 1029,
     "atkMax": 5801,
     "np": [
-      "五百羅漢補陀落渡海 EX"
+      "ごひゃくらかんふだらくとかい EX"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "愛人"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Brynhildr's Beloved"
     ],
     "hits": {
       "Arts": 2,
@@ -1089,12 +1055,12 @@
   "20": {
     "uid": 300700,
     "id": 20,
-    "name": "クー・フーリン〔プロトタイプ〕",
+    "name": "Cu Chulainn (Prototype)",
     "classId": 3,
-    "gender": "男性",
-    "attribute": "天",
-    "personality": "中庸",
-    "policy": "秩序",
+    "gender": "Male",
+    "attribute": "Sky",
+    "personality": "Neutral",
+    "policy": "Order",
     "cost": 7,
     "expCurve": 13,
     "hpBase": 1817,
@@ -1102,16 +1068,14 @@
     "atkBase": 1315,
     "atkMax": 7082,
     "np": [
-      "穿ちの朱槍 B"
+      "ゲイ・ボルク B"
     ],
     "traits": [
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 2,
@@ -1146,12 +1110,12 @@
   "21": {
     "uid": 300900,
     "id": 21,
-    "name": "レオニダス一世",
+    "name": "Leonidas I",
     "classId": 3,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "中庸",
-    "policy": "秩序",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Neutral",
+    "policy": "Order",
     "cost": 4,
     "expCurve": 7,
     "hpBase": 1498,
@@ -1159,14 +1123,13 @@
     "atkBase": 1168,
     "atkMax": 6583,
     "np": [
-      "炎門の守護者 B",
-      "炎門の守護者 B"
+      "テルモピュライ・エノモタイア B",
+      "テルモピュライ・エノモタイア B"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "王"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Soverign"
     ],
     "hits": {
       "Arts": 2,
@@ -1199,12 +1162,12 @@
   "22": {
     "uid": 301000,
     "id": 22,
-    "name": "ロムルス",
+    "name": "Romulus",
     "classId": 3,
-    "gender": "男性",
-    "attribute": "星",
-    "personality": "中庸",
-    "policy": "混沌",
+    "gender": "Male",
+    "attribute": "Star",
+    "personality": "Neutral",
+    "policy": "Chaotic",
     "cost": 7,
     "expCurve": 3,
     "hpBase": 1779,
@@ -1212,13 +1175,12 @@
     "atkBase": 1344,
     "atkMax": 7239,
     "np": [
-      "すべては我が槍に通ずる A++"
+      "マグナ・ウォルイッセ・マグヌム A++"
     ],
     "traits": [
-      null,
-      "人型",
-      "羅馬",
-      "王"
+      "Humanoid",
+      "Roman",
+      "Soverign"
     ],
     "hits": {
       "Arts": 2,
@@ -1251,12 +1213,12 @@
   "23": {
     "uid": 400100,
     "id": 23,
-    "name": "メドゥーサ",
+    "name": "Medusa (Lancer)",
     "classId": 4,
-    "gender": "女性",
-    "attribute": "地",
-    "personality": "善",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Earth",
+    "personality": "Lawful",
+    "policy": "Chaotic",
     "cost": 7,
     "expCurve": 3,
     "hpBase": 1608,
@@ -1264,17 +1226,16 @@
     "atkBase": 1337,
     "atkMax": 7200,
     "np": [
-      "騎英の手綱 A+"
+      "ベルレフォーン A+",
+      "ベルレフォーン A+"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Riding",
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 3,
@@ -1310,12 +1271,12 @@
   "24": {
     "uid": 400600,
     "id": 24,
-    "name": "ゲオルギウス",
+    "name": "Georgios",
     "classId": 4,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 4,
     "expCurve": 2,
     "hpBase": 1731,
@@ -1323,15 +1284,13 @@
     "atkBase": 929,
     "atkMax": 5236,
     "np": [
-      "力屠る祝福の剣 B"
+      "アスカロン B"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "愛人"
+      "Riding",
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Brynhildr's Beloved"
     ],
     "hits": {
       "Arts": 2,
@@ -1365,12 +1324,12 @@
   "25": {
     "uid": 400800,
     "id": 25,
-    "name": "エドワード・ティーチ",
+    "name": "Edward Teach",
     "classId": 4,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "惡",
-    "policy": "混沌",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Evil",
+    "policy": "Chaotic",
     "cost": 4,
     "expCurve": 12,
     "hpBase": 1488,
@@ -1378,12 +1337,12 @@
     "atkBase": 1097,
     "atkMax": 6188,
     "np": [
-      "アン女王の復讐 C++"
+      "クイーンアンズ・リベンジ C++",
+      "クイーンアンズ・リベンジ C+++"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 3,
@@ -1416,12 +1375,12 @@
   "26": {
     "uid": 401100,
     "id": 26,
-    "name": "ブーディカ",
+    "name": "Boudica",
     "classId": 4,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "善",
-    "policy": "中立",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Lawful",
+    "policy": "Neutral",
     "cost": 7,
     "expCurve": 3,
     "hpBase": 1823,
@@ -1429,15 +1388,14 @@
     "atkBase": 1168,
     "atkMax": 6289,
     "np": [
-      "約束されざる守護の車輪 B+",
-      "約束されざる守護の車輪 B++"
+      "チャリオット・オブ・ブディカ B+",
+      "チャリオット・オブ・ブディカ B++"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "王"
+      "Riding",
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Soverign"
     ],
     "hits": {
       "Arts": 2,
@@ -1471,12 +1429,12 @@
   "27": {
     "uid": 401400,
     "id": 27,
-    "name": "牛若丸",
+    "name": "Ushiwakamaru",
     "classId": 4,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "中庸",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Neutral",
+    "policy": "Chaotic",
     "cost": 7,
     "expCurve": 8,
     "hpBase": 1625,
@@ -1484,15 +1442,14 @@
     "atkBase": 1314,
     "atkMax": 7076,
     "np": [
-      "壇ノ浦・八艘跳 D",
-      "壇ノ浦・八艘跳 C"
+      "だんのうら・はっそうとび D",
+      "だんのうら・はっそうとび C"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "愛人"
+      "Riding",
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Brynhildr's Beloved"
     ],
     "hits": {
       "Arts": 2,
@@ -1514,7 +1471,8 @@
     "npGainAtk": 0.0087,
     "npGainDef": 0.03,
     "skill1": [
-      "天狗の兵法 A"
+      "天狗の兵法 A",
+      "天狗の兵法 EX"
     ],
     "skill2": [
       "カリスマ C+"
@@ -1526,12 +1484,12 @@
   "28": {
     "uid": 401500,
     "id": 28,
-    "name": "アレキサンダー",
+    "name": "Alexander",
     "classId": 4,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "善",
-    "policy": "中立",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Lawful",
+    "policy": "Neutral",
     "cost": 7,
     "expCurve": 3,
     "hpBase": 1555,
@@ -1539,18 +1497,16 @@
     "atkBase": 1366,
     "atkMax": 7356,
     "np": [
-      "始まりの蹂躙制覇 B+",
-      "始まりの蹂躙制覇 B++"
+      "ブケファラス B+",
+      "ブケファラス B++"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "王",
-      "希臘神話系男性"
+      "Riding",
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Soverign",
+      "Greek Mythology Males"
     ],
     "hits": {
       "Arts": 2,
@@ -1585,12 +1541,12 @@
   "29": {
     "uid": 401700,
     "id": 29,
-    "name": "マリー・アントワネット",
+    "name": "Marie Antoinette",
     "classId": 4,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 12,
     "expCurve": 9,
     "hpBase": 1975,
@@ -1598,14 +1554,13 @@
     "atkBase": 1382,
     "atkMax": 8293,
     "np": [
-      "百合の王冠に栄光あれ A",
-      "百合の王冠に栄光あれ A+"
+      "ギロチン・ブレイカー A",
+      "ギロチン・ブレイカー A+"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Riding",
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 1,
@@ -1639,12 +1594,12 @@
   "30": {
     "uid": 401900,
     "id": 30,
-    "name": "マルタ",
+    "name": "Martha",
     "classId": 4,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 12,
     "expCurve": 4,
     "hpBase": 2090,
@@ -1652,16 +1607,14 @@
     "atkBase": 1335,
     "atkMax": 8014,
     "np": [
-      "愛知らぬ哀しき竜よ A+",
-      "愛知らぬ哀しき竜よ EX"
+      "タラスク A+",
+      "タラスク EX"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋"
+      "Riding",
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 1,
@@ -1697,12 +1650,12 @@
   "31": {
     "uid": 500100,
     "id": 31,
-    "name": "メディア",
+    "name": "Medea",
     "classId": 5,
-    "gender": "女性",
-    "attribute": "地",
-    "personality": "惡",
-    "policy": "中立",
+    "gender": "Female",
+    "attribute": "Earth",
+    "personality": "Evil",
+    "policy": "Neutral",
     "cost": 7,
     "expCurve": 13,
     "hpBase": 1555,
@@ -1710,15 +1663,14 @@
     "atkBase": 1377,
     "atkMax": 7418,
     "np": [
-      "破戒すべき全ての符 C",
-      "破戒すべき全ての符 C+"
+      "ルールブレイカー C",
+      "ルールブレイカー C+"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 1,
@@ -1752,12 +1704,12 @@
   "32": {
     "uid": 500200,
     "id": 32,
-    "name": "ジル・ド・レェ",
+    "name": "Gilles de Rais",
     "classId": 5,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "惡",
-    "policy": "混沌",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Evil",
+    "policy": "Chaotic",
     "cost": 7,
     "expCurve": 13,
     "hpBase": 1711,
@@ -1765,12 +1717,11 @@
     "atkBase": 1209,
     "atkMax": 6514,
     "np": [
-      "螺湮城教本 A+"
+      "プレラーティーズ・スペルブック A+"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 1,
@@ -1803,12 +1754,12 @@
   "33": {
     "uid": 500500,
     "id": 33,
-    "name": "ハンス・クリスチャン・アンデルセン",
+    "name": "Hans Christian Anderson",
     "classId": 5,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "中庸",
-    "policy": "秩序",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Neutral",
+    "policy": "Order",
     "cost": 4,
     "expCurve": 12,
     "hpBase": 1597,
@@ -1816,13 +1767,12 @@
     "atkBase": 1021,
     "atkMax": 5758,
     "np": [
-      "貴方のための物語 C",
-      "貴方のための物語 C+"
+      "メルヒェン・マイネスレーベンス C",
+      "メルヒェン・マイネスレーベンス C+"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 1,
@@ -1856,12 +1806,12 @@
   "34": {
     "uid": 500700,
     "id": 34,
-    "name": "ウィリアム・シェイクスピア",
+    "name": "William Shakespeare",
     "classId": 5,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "中庸",
-    "policy": "中立",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Neutral",
+    "policy": "Neutral",
     "cost": 4,
     "expCurve": 12,
     "hpBase": 1520,
@@ -1869,13 +1819,12 @@
     "atkBase": 1028,
     "atkMax": 5798,
     "np": [
-      "開演の刻は来たれり、此処に万雷の喝采を B",
-      "開演の刻は来たれり、此処に万雷の喝采を B+"
+      "ファースト・フォリオ B",
+      "ファースト・フォリオ B+"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 1,
@@ -1908,12 +1857,12 @@
   "35": {
     "uid": 501400,
     "id": 35,
-    "name": "メフィストフェレス",
+    "name": "Mephistopheles",
     "classId": 5,
-    "gender": "男性",
-    "attribute": "地",
-    "personality": "惡",
-    "policy": "混沌",
+    "gender": "Male",
+    "attribute": "Earth",
+    "personality": "Evil",
+    "policy": "Chaotic",
     "cost": 7,
     "expCurve": 8,
     "hpBase": 1659,
@@ -1921,15 +1870,14 @@
     "atkBase": 1270,
     "atkMax": 6839,
     "np": [
-      "微睡む爆弾 A",
-      "微睡む爆弾 A+"
+      "チクタク・ボム A",
+      "チクタク・ボム A+"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 2,
@@ -1963,12 +1911,12 @@
   "36": {
     "uid": 501500,
     "id": 36,
-    "name": "ヴォルフガング・アマデウス・モーツァルト",
+    "name": "Wolfgang Amadeus Mozart",
     "classId": 5,
-    "gender": "男性",
-    "attribute": "星",
-    "personality": "善",
-    "policy": "中立",
+    "gender": "Male",
+    "attribute": "Star",
+    "personality": "Lawful",
+    "policy": "Neutral",
     "cost": 3,
     "expCurve": 1,
     "hpBase": 1425,
@@ -1976,12 +1924,11 @@
     "atkBase": 944,
     "atkMax": 5195,
     "np": [
-      "死神のための葬送曲 B"
+      "レクイエム・フォー・デス B"
     ],
     "traits": [
-      null,
-      "人型",
-      "愛人"
+      "Humanoid",
+      "Brynhildr's Beloved"
     ],
     "hits": {
       "Arts": 1,
@@ -2014,12 +1961,12 @@
   "37": {
     "uid": 501900,
     "id": 37,
-    "name": "諸葛孔明〔エルメロイⅡ世〕",
+    "name": "Zhuge Liang (El-Melloi II)",
     "classId": 5,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "善",
-    "policy": "中立",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Lawful",
+    "policy": "Neutral",
     "cost": 16,
     "expCurve": 15,
     "hpBase": 2091,
@@ -2027,14 +1974,13 @@
     "atkBase": 1637,
     "atkMax": 10598,
     "np": [
-      "石兵八陣 C-",
-      "石兵八陣 C"
+      "かえらずのじん C-",
+      "かえらずのじん C"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "愛人"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Brynhildr's Beloved"
     ],
     "hits": {
       "Arts": 1,
@@ -2068,12 +2014,12 @@
   "38": {
     "uid": 502100,
     "id": 38,
-    "name": "クー・フーリン",
+    "name": "Cu Chulainn",
     "classId": 5,
-    "gender": "男性",
-    "attribute": "天",
-    "personality": "中庸",
-    "policy": "秩序",
+    "gender": "Male",
+    "attribute": "Sky",
+    "personality": "Neutral",
+    "policy": "Order",
     "cost": 7,
     "expCurve": 8,
     "hpBase": 1728,
@@ -2081,17 +2027,16 @@
     "atkBase": 1222,
     "atkMax": 6580,
     "np": [
-      "灼き尽くす炎の檻 B"
+      "ウィッカーマン B",
+      "ウィッカーマン B+"
     ],
     "traits": [
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      "愛人"
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Brynhildr's Beloved"
     ],
     "hits": {
       "Arts": 1,
@@ -2126,12 +2071,12 @@
   "39": {
     "uid": 600100,
     "id": 39,
-    "name": "佐々木小次郎",
+    "name": "Sasaki Kojirou",
     "classId": 6,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "惡",
-    "policy": "中立",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Evil",
+    "policy": "Neutral",
     "cost": 3,
     "expCurve": 6,
     "hpBase": 1244,
@@ -2139,12 +2084,12 @@
     "atkBase": 1042,
     "atkMax": 5735,
     "np": [
-      "燕返し －"
+      "つばめがえし －",
+      "つばめがえし －"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 2,
@@ -2178,12 +2123,12 @@
   "40": {
     "uid": 600200,
     "id": 40,
-    "name": "呪腕のハサン",
+    "name": "Hassan of the Cursed Arm",
     "classId": 6,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "惡",
-    "policy": "秩序",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Evil",
+    "policy": "Order",
     "cost": 4,
     "expCurve": 2,
     "hpBase": 1429,
@@ -2191,12 +2136,11 @@
     "atkBase": 1114,
     "atkMax": 6280,
     "np": [
-      "妄想心音 C"
+      "ザバーニーヤ C"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 2,
@@ -2217,7 +2161,8 @@
     "npGainAtk": 0.0107,
     "npGainDef": 0.04,
     "skill1": [
-      "投擲（短刀） B"
+      "投擲（短刀） B",
+      "投擲／回収 A"
     ],
     "skill2": [
       "自己改造 C"
@@ -2229,12 +2174,12 @@
   "41": {
     "uid": 601000,
     "id": 41,
-    "name": "ステンノ",
+    "name": "Stheno",
     "classId": 6,
-    "gender": "女性",
-    "attribute": "天",
-    "personality": "善",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Sky",
+    "personality": "Lawful",
+    "policy": "Chaotic",
     "cost": 12,
     "expCurve": 4,
     "hpBase": 1843,
@@ -2242,16 +2187,15 @@
     "atkBase": 1497,
     "atkMax": 8985,
     "np": [
-      "女神の微笑 B"
+      "スマイル・オブ・ザ・ステンノ B",
+      "スマイル・オブ・ザ・ステンノ B+"
     ],
     "traits": [
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 1,
@@ -2286,12 +2230,12 @@
   "42": {
     "uid": 601100,
     "id": 42,
-    "name": "荊軻",
+    "name": "Jing Ke",
     "classId": 6,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "善",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Lawful",
+    "policy": "Chaotic",
     "cost": 7,
     "expCurve": 8,
     "hpBase": 1492,
@@ -2299,13 +2243,12 @@
     "atkBase": 1338,
     "atkMax": 7207,
     "np": [
-      "不還匕首 B",
-      "不還匕首 B+"
+      "ただ、あやめるのみ B",
+      "ただ、あやめるのみ B+"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 2,
@@ -2338,12 +2281,12 @@
   "43": {
     "uid": 601200,
     "id": 43,
-    "name": "シャルル＝アンリ・サンソン",
+    "name": "Charles-Henri Sanson",
     "classId": 6,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "惡",
-    "policy": "秩序",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Evil",
+    "policy": "Order",
     "cost": 4,
     "expCurve": 12,
     "hpBase": 1564,
@@ -2351,13 +2294,12 @@
     "atkBase": 968,
     "atkMax": 5456,
     "np": [
-      "死は明日への希望なり A",
-      "死は明日への希望なり A+"
+      "ラモール・エスポワール A",
+      "ラモール・エスポワール A+"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 2,
@@ -2391,12 +2333,12 @@
   "44": {
     "uid": 601300,
     "id": 44,
-    "name": "ファントム・オブ・ジ・オペラ",
+    "name": "Phantom of the Opera",
     "classId": 6,
-    "gender": "男性",
-    "attribute": "地",
-    "personality": "惡",
-    "policy": "混沌",
+    "gender": "Male",
+    "attribute": "Earth",
+    "personality": "Evil",
+    "policy": "Chaotic",
     "cost": 4,
     "expCurve": 2,
     "hpBase": 1580,
@@ -2404,15 +2346,14 @@
     "atkBase": 1003,
     "atkMax": 5654,
     "np": [
-      "地獄にこそ響け我が愛の唄 B",
-      "地獄にこそ響け我が愛の唄 B+"
+      "クリスティーヌ・クリスティーヌ B",
+      "クリスティーヌ・クリスティーヌ B+"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 3,
@@ -2445,12 +2386,12 @@
   "45": {
     "uid": 601400,
     "id": 45,
-    "name": "マタ・ハリ",
+    "name": "Mata Hari",
     "classId": 6,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "中庸",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Neutral",
+    "policy": "Chaotic",
     "cost": 3,
     "expCurve": 6,
     "hpBase": 1313,
@@ -2458,12 +2399,11 @@
     "atkBase": 977,
     "atkMax": 5377,
     "np": [
-      "陽の眼を持つ女 A"
+      "マタ・ハリ A"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 1,
@@ -2494,12 +2434,12 @@
   "46": {
     "uid": 601700,
     "id": 46,
-    "name": "カーミラ",
+    "name": "Carmilla",
     "classId": 6,
-    "gender": "女性",
-    "attribute": "地",
-    "personality": "惡",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Earth",
+    "personality": "Evil",
+    "policy": "Chaotic",
     "cost": 12,
     "expCurve": 14,
     "hpBase": 1675,
@@ -2507,15 +2447,14 @@
     "atkBase": 1568,
     "atkMax": 9408,
     "np": [
-      "幻想の鉄処女 C",
-      "幻想の鉄処女 C+"
+      "ファントム・メイデン C",
+      "ファントム・メイデン C+"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 1,
@@ -2548,12 +2487,12 @@
   "47": {
     "uid": 700100,
     "id": 47,
-    "name": "ヘラクレス",
+    "name": "Heracles",
     "classId": 7,
-    "gender": "男性",
-    "attribute": "天",
-    "personality": "狂",
-    "policy": "混沌",
+    "gender": "Male",
+    "attribute": "Sky",
+    "personality": "Insane",
+    "policy": "Chaotic",
     "cost": 12,
     "expCurve": 9,
     "hpBase": 1652,
@@ -2561,17 +2500,15 @@
     "atkBase": 1775,
     "atkMax": 10655,
     "np": [
-      "射殺す百頭 C～A+"
+      "ナインライブズ C～A+"
     ],
     "traits": [
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      "希臘神話系男性"
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Greek Mythology Males"
     ],
     "hits": {
       "Arts": 2,
@@ -2605,12 +2542,12 @@
   "48": {
     "uid": 700200,
     "id": 48,
-    "name": "ランスロット",
+    "name": "Lancelot",
     "classId": 7,
-    "gender": "男性",
-    "attribute": "地",
-    "personality": "狂",
-    "policy": "秩序",
+    "gender": "Male",
+    "attribute": "Earth",
+    "personality": "Insane",
+    "policy": "Order",
     "cost": 12,
     "expCurve": 14,
     "hpBase": 1652,
@@ -2618,15 +2555,14 @@
     "atkBase": 1746,
     "atkMax": 10477,
     "np": [
-      "騎士は徒手にて死せず A",
-      "騎士は徒手にて死せず A"
+      "ナイト・オブ・オーナー A",
+      "ナイト・オブ・オーナー A"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 2,
@@ -2660,12 +2596,12 @@
   "49": {
     "uid": 700300,
     "id": 49,
-    "name": "呂布奉先",
+    "name": "Lu Bu Fengxian",
     "classId": 7,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "惡",
-    "policy": "混沌",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Evil",
+    "policy": "Chaotic",
     "cost": 7,
     "expCurve": 8,
     "hpBase": 1494,
@@ -2673,12 +2609,11 @@
     "atkBase": 1507,
     "atkMax": 8119,
     "np": [
-      "軍神五兵 A"
+      "ゴッドフォース A"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 2,
@@ -2711,12 +2646,12 @@
   "50": {
     "uid": 700500,
     "id": 50,
-    "name": "スパルタクス",
+    "name": "Spartacus",
     "classId": 7,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "中庸",
-    "policy": "中立",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Neutral",
+    "policy": "Neutral",
     "cost": 3,
     "expCurve": 6,
     "hpBase": 1544,
@@ -2724,15 +2659,14 @@
     "atkBase": 922,
     "atkMax": 5073,
     "np": [
-      "疵獣の咆吼 A",
-      "疵獣の咆吼 A+",
-      "愛は爆発する A"
+      "クライング・ウォーモンガー A",
+      "クライング・ウォーモンガー A+",
+      "バレンタイン・トリーズナー A"
     ],
     "traits": [
-      null,
-      "人型",
-      "羅馬",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Roman",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 2,
@@ -2766,12 +2700,12 @@
   "51": {
     "uid": 700600,
     "id": 51,
-    "name": "坂田金時",
+    "name": "Sakaki Kintoki",
     "classId": 7,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 16,
     "expCurve": 10,
     "hpBase": 1782,
@@ -2779,15 +2713,13 @@
     "atkBase": 1964,
     "atkMax": 12712,
     "np": [
-      "黄金衝撃 C-"
+      "ゴールデンスパーク C-"
     ],
     "traits": [
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "愛人"
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Brynhildr's Beloved"
     ],
     "hits": {
       "Arts": 2,
@@ -2821,12 +2753,12 @@
   "52": {
     "uid": 700700,
     "id": 52,
-    "name": "ヴラド三世",
+    "name": "Vlad III",
     "classId": 7,
-    "gender": "男性",
-    "attribute": "地",
-    "personality": "惡",
-    "policy": "混沌",
+    "gender": "Male",
+    "attribute": "Earth",
+    "personality": "Evil",
+    "policy": "Chaotic",
     "cost": 16,
     "expCurve": 15,
     "hpBase": 2019,
@@ -2834,17 +2766,16 @@
     "atkBase": 1777,
     "atkMax": 11499,
     "np": [
-      "血塗れ王鬼 C",
-      "血塗れ王鬼 C+"
+      "カズィクル・ベイ C",
+      "カズィクル・ベイ C+"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      "愛人",
-      "王"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Brynhildr's Beloved",
+      "Soverign"
     ],
     "hits": {
       "Arts": 2,
@@ -2878,12 +2809,12 @@
   "53": {
     "uid": 700900,
     "id": 53,
-    "name": "アステリオス",
+    "name": "Asterios",
     "classId": 7,
-    "gender": "男性",
-    "attribute": "地",
-    "personality": "惡",
-    "policy": "混沌",
+    "gender": "Male",
+    "attribute": "Earth",
+    "personality": "Evil",
+    "policy": "Chaotic",
     "cost": 3,
     "expCurve": 1,
     "hpBase": 1320,
@@ -2891,16 +2822,15 @@
     "atkBase": 1097,
     "atkMax": 6037,
     "np": [
-      "万古不易の迷宮 EX",
-      "万古不易の迷宮 EX"
+      "ケイオス・ラビュリントス EX",
+      "ケイオス・ラビュリントス EX"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      "希臘神話系男性"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Greek Mythology Males"
     ],
     "hits": {
       "Arts": 3,
@@ -2933,12 +2863,12 @@
   "54": {
     "uid": 701000,
     "id": 54,
-    "name": "カリギュラ",
+    "name": "Caligula",
     "classId": 7,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "惡",
-    "policy": "混沌",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Evil",
+    "policy": "Chaotic",
     "cost": 4,
     "expCurve": 12,
     "hpBase": 1374,
@@ -2946,14 +2876,13 @@
     "atkBase": 1211,
     "atkMax": 6831,
     "np": [
-      "我が心を喰らえ、月の光 C"
+      "フルクティクルス・ディアーナ C"
     ],
     "traits": [
-      null,
-      "人型",
-      "羅馬",
-      "被「天地乖離開辟之星」所剋",
-      "王"
+      "Humanoid",
+      "Roman",
+      "Weak to Enuma Elish",
+      "Soverign"
     ],
     "hits": {
       "Arts": 3,
@@ -2986,12 +2915,12 @@
   "55": {
     "uid": 701100,
     "id": 55,
-    "name": "ダレイオス三世",
+    "name": "Darius III",
     "classId": 7,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "中庸",
-    "policy": "秩序",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Neutral",
+    "policy": "Order",
     "cost": 7,
     "expCurve": 3,
     "hpBase": 1577,
@@ -2999,15 +2928,14 @@
     "atkBase": 1412,
     "atkMax": 7608,
     "np": [
-      "蒼天陽炎む災禍の轍 なし",
-      "不死の一万騎兵 A",
-      "不死の一万騎兵 A+"
+      " なし",
+      "アタナトイ・テン・サウザンド A",
+      "アタナトイ・テン・サウザンド A+"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "王"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Soverign"
     ],
     "hits": {
       "Arts": 3,
@@ -3040,12 +2968,12 @@
   "56": {
     "uid": 701300,
     "id": 56,
-    "name": "清姫",
+    "name": "Kiyohime",
     "classId": 7,
-    "gender": "女性",
-    "attribute": "地",
-    "personality": "惡",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Earth",
+    "personality": "Evil",
+    "policy": "Chaotic",
     "cost": 7,
     "expCurve": 3,
     "hpBase": 1649,
@@ -3053,15 +2981,14 @@
     "atkBase": 1233,
     "atkMax": 6644,
     "np": [
-      "転身火生三昧 EX"
+      "てんしんかしょうざんまい EX"
     ],
     "traits": [
-      null,
-      "人型",
-      "龍",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Humanoid",
+      "Dragon",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 1,
@@ -3094,12 +3021,12 @@
   "57": {
     "uid": 701500,
     "id": 57,
-    "name": "エイリーク・ブラッドアクス",
+    "name": "Eric Bloodaxe",
     "classId": 7,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "中庸",
-    "policy": "混沌",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Neutral",
+    "policy": "Chaotic",
     "cost": 4,
     "expCurve": 2,
     "hpBase": 1447,
@@ -3107,13 +3034,12 @@
     "atkBase": 1116,
     "atkMax": 6290,
     "np": [
-      "血塗れの戴冠式 B"
+      "ブラッドバス・クラウン B"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "王"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Soverign"
     ],
     "hits": {
       "Arts": 2,
@@ -3147,12 +3073,12 @@
   "58": {
     "uid": 701600,
     "id": 58,
-    "name": "タマモキャット",
+    "name": "Tamamo Cat",
     "classId": 7,
-    "gender": "女性",
-    "attribute": "地",
-    "personality": "善",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Earth",
+    "personality": "Lawful",
+    "policy": "Chaotic",
     "cost": 12,
     "expCurve": 9,
     "hpBase": 1833,
@@ -3160,16 +3086,15 @@
     "atkBase": 1504,
     "atkMax": 9026,
     "np": [
-      "燦々日光午睡宮酒池肉林 D",
-      "燦々日光午睡宮酒池肉林 D+"
+      "さんさんにっこう　ひるやすみしゅちにくりん D",
+      "さんさんにっこう　ひるやすみしゅちにくりん D+"
     ],
     "traits": [
-      null,
-      "人型",
-      "猛獸",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Humanoid",
+      "Beast",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 3,
@@ -3196,18 +3121,19 @@
       "呪術 E"
     ],
     "skill3": [
-      "変化 B"
+      "変化 B",
+      "変化（ランチ） A"
     ]
   },
   "59": {
     "uid": 900100,
     "id": 59,
-    "name": "ジャンヌ・ダルク",
+    "name": "Jeanne d'Arc",
     "classId": 9,
-    "gender": "女性",
-    "attribute": "星",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Female",
+    "attribute": "Star",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 16,
     "expCurve": 10,
     "hpBase": 2420,
@@ -3215,14 +3141,13 @@
     "atkBase": 1482,
     "atkMax": 9593,
     "np": [
-      "我が神はここにありて A-",
-      "我が神はここにありて A"
+      "リュミノジテ・エテルネッル A-",
+      "リュミノジテ・エテルネッル A"
     ],
     "traits": [
-      null,
-      "人型",
-      "阿爾托莉亞臉",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Saberface",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 2,
@@ -3255,12 +3180,12 @@
   "60": {
     "uid": 200900,
     "id": 60,
-    "name": "オリオン",
+    "name": "Orion",
     "classId": 2,
-    "gender": "男性",
-    "attribute": "天",
-    "personality": "中庸",
-    "policy": "混沌",
+    "gender": "Male",
+    "attribute": "Sky",
+    "personality": "Neutral",
+    "policy": "Chaotic",
     "cost": 16,
     "expCurve": 25,
     "hpBase": 2134,
@@ -3268,16 +3193,15 @@
     "atkBase": 1716,
     "atkMax": 11107,
     "np": [
-      "月女神の愛矢恋矢 A+",
-      "月女神の愛矢恋矢 A+"
+      "トライスター・アモーレ・ミオ A+",
+      "トライスター・アモーレ・ミオ A+"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      "希臘神話系男性"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Greek Mythology Males"
     ],
     "hits": {
       "Arts": 1,
@@ -3311,12 +3235,12 @@
   "61": {
     "uid": 502600,
     "id": 61,
-    "name": "エリザベート・バートリー〔ハロウィン〕",
+    "name": "Elizabeth Bathory (Halloween)",
     "classId": 5,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "惡",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Evil",
+    "policy": "Chaotic",
     "cost": 12,
     "expCurve": 24,
     "hpBase": 1824,
@@ -3324,13 +3248,12 @@
     "atkBase": 1436,
     "atkMax": 8616,
     "np": [
-      "鮮血特上魔嬢 E-"
+      "バートリ・ハロウィン・エルジェーベト E-"
     ],
     "traits": [
-      null,
-      "人型",
-      "龍",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Dragon",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 1,
@@ -3364,12 +3287,12 @@
   "62": {
     "uid": 500300,
     "id": 62,
-    "name": "玉藻の前",
+    "name": "Tamamo-no-Mae",
     "classId": 5,
-    "gender": "女性",
-    "attribute": "天",
-    "personality": "惡",
-    "policy": "中立",
+    "gender": "Female",
+    "attribute": "Sky",
+    "personality": "Evil",
+    "policy": "Neutral",
     "cost": 16,
     "expCurve": 5,
     "hpBase": 2091,
@@ -3377,17 +3300,15 @@
     "atkBase": 1629,
     "atkMax": 10546,
     "np": [
-      "水天日光天照八野鎮石 D-",
-      "水天日光天照八野鎮石 D"
+      "すいてんにっこう　あまてらすやのしずいし D-",
+      "すいてんにっこう　あまてらすやのしずいし D"
     ],
     "traits": [
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 5,
@@ -3422,12 +3343,12 @@
   "63": {
     "uid": 200600,
     "id": 63,
-    "name": "ダビデ",
+    "name": "David",
     "classId": 2,
-    "gender": "男性",
-    "attribute": "天",
-    "personality": "中庸",
-    "policy": "秩序",
+    "gender": "Male",
+    "attribute": "Sky",
+    "personality": "Neutral",
+    "policy": "Order",
     "cost": 7,
     "expCurve": 23,
     "hpBase": 1555,
@@ -3435,15 +3356,14 @@
     "atkBase": 1436,
     "atkMax": 7736,
     "np": [
-      "五つの石 C-"
+      "ハメシュ・ アヴァニム C-"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      "王"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Soverign"
     ],
     "hits": {
       "Arts": 2,
@@ -3477,12 +3397,12 @@
   "64": {
     "uid": 301600,
     "id": 64,
-    "name": "ヘクトール",
+    "name": "Hektor",
     "classId": 3,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "中庸",
-    "policy": "秩序",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Neutral",
+    "policy": "Order",
     "cost": 7,
     "expCurve": 3,
     "hpBase": 1836,
@@ -3490,15 +3410,14 @@
     "atkBase": 1286,
     "atkMax": 6928,
     "np": [
-      "不毀の極槍 A-",
-      "不毀の極槍 A"
+      "ドゥリンダナ A-",
+      "ドゥリンダナ A"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "希臘神話系男性"
+      "Riding",
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Greek Mythology Males"
     ],
     "hits": {
       "Arts": 2,
@@ -3532,12 +3451,12 @@
   "65": {
     "uid": 400300,
     "id": 65,
-    "name": "フランシス・ドレイク",
+    "name": "Francis Drake",
     "classId": 4,
-    "gender": "女性",
-    "attribute": "星",
-    "personality": "惡",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Star",
+    "personality": "Evil",
+    "policy": "Chaotic",
     "cost": 16,
     "expCurve": 10,
     "hpBase": 1881,
@@ -3545,13 +3464,12 @@
     "atkBase": 1750,
     "atkMax": 11326,
     "np": [
-      "黄金鹿と嵐の夜 A",
-      "黄金鹿と嵐の夜 A+"
+      "ゴールデン・ワイルドハント A",
+      "ゴールデン・ワイルドハント A+"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型"
+      "Riding",
+      "Humanoid"
     ],
     "hits": {
       "Arts": 4,
@@ -3585,12 +3503,12 @@
   "66": {
     "uid": 400900,
     "id": 66,
-    "name": "アン・ボニー＆メアリー・リード",
+    "name": "Anne Bonny & Mary Read",
     "classId": 4,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "惡",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Evil",
+    "policy": "Chaotic",
     "cost": 12,
     "expCurve": 29,
     "hpBase": 1805,
@@ -3598,13 +3516,12 @@
     "atkBase": 1504,
     "atkMax": 9029,
     "np": [
-      "比翼にして連理 C+",
-      "比翼にして連理 C++"
+      "カリビアン・フリーバード C+",
+      "カリビアン・フリーバード C++"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 2,
@@ -3637,12 +3554,12 @@
   "67": {
     "uid": 501700,
     "id": 67,
-    "name": "メディア〔リリィ〕",
+    "name": "Medea (Lily)",
     "classId": 5,
-    "gender": "女性",
-    "attribute": "地",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Female",
+    "attribute": "Earth",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 12,
     "expCurve": 9,
     "hpBase": 2091,
@@ -3650,15 +3567,14 @@
     "atkBase": 1294,
     "atkMax": 7766,
     "np": [
-      "修補すべき全ての疵 C-",
-      "修補すべき全ての疵 C"
+      "ペインブレイカー C-",
+      "ペインブレイカー C"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 4,
@@ -3693,12 +3609,12 @@
   "68": {
     "uid": 102700,
     "id": 68,
-    "name": "沖田総司",
+    "name": "Okita Souji",
     "classId": 1,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "中庸",
-    "policy": "中立",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Neutral",
+    "policy": "Neutral",
     "cost": 16,
     "expCurve": 10,
     "hpBase": 1939,
@@ -3706,15 +3622,13 @@
     "atkBase": 1865,
     "atkMax": 12068,
     "np": [
-      "無明三段突き －"
+      "むみょうさんだんづき －"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "阿爾托莉亞臉",
-      "被「天地乖離開辟之星」所剋",
-      null
+      "Riding",
+      "Humanoid",
+      "Saberface",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 2,
@@ -3748,12 +3662,12 @@
   "69": {
     "uid": 202400,
     "id": 69,
-    "name": "織田信長",
+    "name": "Oda Nobunaga",
     "classId": 2,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "中庸",
-    "policy": "秩序",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Neutral",
+    "policy": "Order",
     "cost": 12,
     "expCurve": 4,
     "hpBase": 1862,
@@ -3761,13 +3675,12 @@
     "atkBase": 1582,
     "atkMax": 9494,
     "np": [
-      "三千世界 E～A"
+      "さんだんうち E～A"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "王"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Soverign"
     ],
     "hits": {
       "Arts": 4,
@@ -3801,12 +3714,12 @@
   "70": {
     "uid": 301300,
     "id": 70,
-    "name": "スカサハ",
+    "name": "Scathach",
     "classId": 3,
-    "gender": "女性",
-    "attribute": "星",
-    "personality": "善",
-    "policy": "中立",
+    "gender": "Female",
+    "attribute": "Star",
+    "personality": "Lawful",
+    "policy": "Neutral",
     "cost": 16,
     "expCurve": 5,
     "hpBase": 2174,
@@ -3814,14 +3727,13 @@
     "atkBase": 1758,
     "atkMax": 11375,
     "np": [
-      "貫き穿つ死翔の槍 B",
-      "貫き穿つ死翔の槍 B+"
+      "ゲイ・ボルク・オルタナティブ B",
+      "ゲイ・ボルク・オルタナティブ B+"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "王"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Soverign"
     ],
     "hits": {
       "Arts": 3,
@@ -3854,12 +3766,12 @@
   "71": {
     "uid": 300200,
     "id": 71,
-    "name": "ディルムッド・オディナ",
+    "name": "Diarmuid Ua Duibhne",
     "classId": 3,
-    "gender": "男性",
-    "attribute": "地",
-    "personality": "中庸",
-    "policy": "秩序",
+    "gender": "Male",
+    "attribute": "Earth",
+    "personality": "Neutral",
+    "policy": "Order",
     "cost": 7,
     "expCurve": 8,
     "hpBase": 1817,
@@ -3867,16 +3779,15 @@
     "atkBase": 1277,
     "atkMax": 6877,
     "np": [
-      "破魔の紅薔薇、必滅の黄薔薇 B",
-      "破魔の紅薔薇、必滅の黄薔薇 B+"
+      "ゲイ・ジャルグ＆ゲイ・ボウ B",
+      "ゲイ・ジャルグ＆ゲイ・ボウ B+"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      "愛人"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Brynhildr's Beloved"
     ],
     "hits": {
       "Arts": 2,
@@ -3909,12 +3820,12 @@
   "72": {
     "uid": 101400,
     "id": 72,
-    "name": "フェルグス・マック・ロイ",
+    "name": "Fergus mac Roich",
     "classId": 1,
-    "gender": "男性",
-    "attribute": "地",
-    "personality": "中庸",
-    "policy": "秩序",
+    "gender": "Male",
+    "attribute": "Earth",
+    "personality": "Neutral",
+    "policy": "Order",
     "cost": 7,
     "expCurve": 23,
     "hpBase": 1761,
@@ -3922,19 +3833,17 @@
     "atkBase": 1385,
     "atkMax": 7460,
     "np": [
-      "虹霓剣 A+",
-      "虹霓剣 A+"
+      "カラドボルグ A+",
+      "カラドボルグ A+"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      null,
-      "愛人",
-      "王"
+      "Riding",
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Brynhildr's Beloved",
+      "Soverign"
     ],
     "hits": {
       "Arts": 2,
@@ -3968,12 +3877,12 @@
   "73": {
     "uid": 402200,
     "id": 73,
-    "name": "アルトリア・ペンドラゴン〔サンタオルタ〕",
+    "name": "Altria Pendragon (Santa Alter)",
     "classId": 4,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 12,
     "expCurve": 29,
     "hpBase": 1805,
@@ -3981,17 +3890,16 @@
     "atkBase": 1543,
     "atkMax": 9258,
     "np": [
-      "約束された勝利の剣 A++"
+      "エクスカリバー・モルガン A++"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "龍",
-      "阿爾托莉亞臉",
-      "被「天地乖離開辟之星」所剋",
-      "亞瑟",
-      "王"
+      "Riding",
+      "Humanoid",
+      "Dragon",
+      "Saberface",
+      "Weak to Enuma Elish",
+      "Altria",
+      "Soverign"
     ],
     "hits": {
       "Arts": 2,
@@ -4025,12 +3933,12 @@
   "74": {
     "uid": 500400,
     "id": 74,
-    "name": "ナーサリー・ライム",
+    "name": "Nursery Rhyme",
     "classId": 5,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "中庸",
-    "policy": "中立",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Neutral",
+    "policy": "Neutral",
     "cost": 12,
     "expCurve": 4,
     "hpBase": 1901,
@@ -4038,13 +3946,12 @@
     "atkBase": 1438,
     "atkMax": 8629,
     "np": [
-      "誰かの為の物語 C-",
-      "誰かの為の物語 C"
+      "ナーサリー・ライム C-",
+      "ナーサリー・ライム C"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 3,
@@ -4077,12 +3984,12 @@
   "75": {
     "uid": 600500,
     "id": 75,
-    "name": "ジャック・ザ・リッパー",
+    "name": "Jack the Ripper",
     "classId": 6,
-    "gender": "女性",
-    "attribute": "地",
-    "personality": "惡",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Earth",
+    "personality": "Evil",
+    "policy": "Chaotic",
     "cost": 16,
     "expCurve": 25,
     "hpBase": 1862,
@@ -4090,15 +3997,14 @@
     "atkBase": 1786,
     "atkMax": 11557,
     "np": [
-      "解体聖母 D",
-      "解体聖母 D+"
+      "マリア・ザ・リッパー D",
+      "マリア・ザ・リッパー D+"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 2,
@@ -4131,12 +4037,12 @@
   "76": {
     "uid": 100900,
     "id": 76,
-    "name": "モードレッド",
+    "name": "Mordred",
     "classId": 1,
-    "gender": "女性",
-    "attribute": "地",
-    "personality": "中庸",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Earth",
+    "personality": "Neutral",
+    "policy": "Chaotic",
     "cost": 16,
     "expCurve": 25,
     "hpBase": 2153,
@@ -4144,19 +4050,17 @@
     "atkBase": 1811,
     "atkMax": 11723,
     "np": [
-      "我が麗しき父への叛逆 A+",
-      "我が麗しき父への叛逆 A+"
+      "クラレント・ブラッドアーサー A+",
+      "クラレント・ブラッドアーサー A+"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "龍",
-      "阿爾托莉亞臉",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      null
+      "Riding",
+      "Humanoid",
+      "Dragon",
+      "Saberface",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 3,
@@ -4190,12 +4094,12 @@
   "77": {
     "uid": 201100,
     "id": 77,
-    "name": "ニコラ・テスラ",
+    "name": "Nikola Tesla",
     "classId": 2,
-    "gender": "男性",
-    "attribute": "星",
-    "personality": "善",
-    "policy": "混沌",
+    "gender": "Male",
+    "attribute": "Star",
+    "personality": "Lawful",
+    "policy": "Chaotic",
     "cost": 16,
     "expCurve": 10,
     "hpBase": 2027,
@@ -4203,13 +4107,12 @@
     "atkBase": 1820,
     "atkMax": 11781,
     "np": [
-      "人類神話・雷電降臨 EX",
-      "人類神話・雷電降臨 EX"
+      "システム・ケラウノス EX",
+      "システム・ケラウノス EX"
     ],
     "traits": [
-      null,
-      "人型",
-      "愛人"
+      "Humanoid",
+      "Brynhildr's Beloved"
     ],
     "hits": {
       "Arts": 2,
@@ -4244,12 +4147,12 @@
   "78": {
     "uid": 301900,
     "id": 78,
-    "name": "アルトリア・ペンドラゴン〔オルタ〕",
+    "name": "Altria Pendragon (Alter)",
     "classId": 3,
-    "gender": "女性",
-    "attribute": "天",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Female",
+    "attribute": "Sky",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 12,
     "expCurve": 29,
     "hpBase": 1881,
@@ -4257,20 +4160,19 @@
     "atkBase": 1661,
     "atkMax": 9968,
     "np": [
-      "最果てにて輝ける槍 A++",
-      "最果てにて輝ける槍 EX"
+      "ロンゴミニアド A++",
+      "ロンゴミニアド EX"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "龍",
-      "阿爾托莉亞臉",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      "亞瑟",
-      "王"
+      "Riding",
+      "Humanoid",
+      "Dragon",
+      "Saberface",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Altria",
+      "Soverign"
     ],
     "hits": {
       "Arts": 3,
@@ -4304,12 +4206,12 @@
   "79": {
     "uid": 501000,
     "id": 79,
-    "name": "ヴァン・ホーエンハイム・パラケルスス",
+    "name": "Paracelsus von Hohenheim",
     "classId": 5,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "善",
-    "policy": "混沌",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Lawful",
+    "policy": "Chaotic",
     "cost": 7,
     "expCurve": 3,
     "hpBase": 1711,
@@ -4317,14 +4219,13 @@
     "atkBase": 1246,
     "atkMax": 6711,
     "np": [
-      "元素使いの魔剣 A+",
-      "元素使いの魔剣 A+"
+      "ソード・オブ・パラケルスス A+",
+      "ソード・オブ・パラケルスス A+"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "愛人"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Brynhildr's Beloved"
     ],
     "hits": {
       "Arts": 2,
@@ -4352,18 +4253,19 @@
       "エレメンタル A+"
     ],
     "skill3": [
-      "賢者の石 A"
+      "賢者の石 A",
+      "賢者の石 A+"
     ]
   },
   "80": {
     "uid": 501100,
     "id": 80,
-    "name": "チャールズ・バベッジ",
+    "name": "Charles Babbage",
     "classId": 5,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "中庸",
-    "policy": "混沌",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Neutral",
+    "policy": "Chaotic",
     "cost": 7,
     "expCurve": 13,
     "hpBase": 1959,
@@ -4371,13 +4273,12 @@
     "atkBase": 1113,
     "atkMax": 5996,
     "np": [
-      "絢爛なりし灰燼世界 A+",
-      "絢爛なりし灰燼世界 EX"
+      "ディメンジョン・オブ・スチーム A+",
+      "ディメンジョン・オブ・スチーム EX"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 2,
@@ -4411,12 +4312,12 @@
   "81": {
     "uid": 600700,
     "id": 81,
-    "name": "ヘンリー・ジキル＆ハイド",
+    "name": "Henry Jekyll & Hyde",
     "classId": 6,
-    "gender": "男性",
-    "attribute": "地",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Male",
+    "attribute": "Earth",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 7,
     "expCurve": 3,
     "hpBase": 1741,
@@ -4424,16 +4325,15 @@
     "atkBase": 1173,
     "atkMax": 6320,
     "np": [
-      "密やかなる罪の遊戯 C",
-      "密やかなる罪の遊戯 C+"
+      "デンジャラス・ゲーム C",
+      "デンジャラス・ゲーム C+"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      "愛人"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Brynhildr's Beloved"
     ],
     "hits": {
       "Arts": 2,
@@ -4466,12 +4366,12 @@
   "82": {
     "uid": 700400,
     "id": 82,
-    "name": "フランケンシュタイン",
+    "name": "Frankenstein",
     "classId": 7,
-    "gender": "女性",
-    "attribute": "地",
-    "personality": "中庸",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Earth",
+    "personality": "Neutral",
+    "policy": "Chaotic",
     "cost": 12,
     "expCurve": 24,
     "hpBase": 1710,
@@ -4479,15 +4379,14 @@
     "atkBase": 1573,
     "atkMax": 9441,
     "np": [
-      "磔刑の雷樹 D～B",
-      "磔刑の雷樹 D～B+"
+      "ブラステッド・ツリー D～B",
+      "ブラステッド・ツリー D～B+"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 2,
@@ -4521,12 +4420,12 @@
   "84": {
     "uid": 201500,
     "id": 84,
-    "name": "アルジュナ",
+    "name": "Arjuna",
     "classId": 2,
-    "gender": "男性",
-    "attribute": "天",
-    "personality": "中庸",
-    "policy": "秩序",
+    "gender": "Male",
+    "attribute": "Sky",
+    "personality": "Neutral",
+    "policy": "Order",
     "cost": 16,
     "expCurve": 25,
     "hpBase": 1940,
@@ -4534,17 +4433,15 @@
     "atkBase": 1907,
     "atkMax": 12342,
     "np": [
-      "破壊神の手翳 A+",
-      "破壊神の手翳 A+"
+      "パーシュパタ A+",
+      "パーシュパタ A+"
     ],
     "traits": [
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 3,
@@ -4580,12 +4477,12 @@
   "85": {
     "uid": 300400,
     "id": 85,
-    "name": "カルナ",
+    "name": "Karna",
     "classId": 3,
-    "gender": "男性",
-    "attribute": "天",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Male",
+    "attribute": "Sky",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 16,
     "expCurve": 10,
     "hpBase": 1999,
@@ -4593,19 +4490,17 @@
     "atkBase": 1850,
     "atkMax": 11976,
     "np": [
-      "日輪よ、死に随え EX",
-      "日輪よ、死に随え EX"
+      "ヴァサヴィ・シャクティ EX",
+      "ヴァサヴィ・シャクティ EX"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      "愛人"
+      "Riding",
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Brynhildr's Beloved"
     ],
     "hits": {
       "Arts": 3,
@@ -4640,12 +4535,12 @@
   "86": {
     "uid": 601800,
     "id": 86,
-    "name": "謎のヒロインX",
+    "name": "Mysterious Heroine X",
     "classId": 6,
-    "gender": "女性",
-    "attribute": "星",
-    "personality": "善",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Star",
+    "personality": "Lawful",
+    "policy": "Chaotic",
     "cost": 16,
     "expCurve": 5,
     "hpBase": 1862,
@@ -4653,17 +4548,16 @@
     "atkBase": 1817,
     "atkMax": 11761,
     "np": [
-      "無銘勝利剣 A+",
-      "無銘勝利剣 EX"
+      "ひみつかりばー A+",
+      "ひみつかりばー EX"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "龍",
-      "阿爾托莉亞臉",
-      "亞瑟",
-      "王"
+      "Riding",
+      "Humanoid",
+      "Dragon",
+      "Saberface",
+      "Altria",
+      "Soverign"
     ],
     "hits": {
       "Arts": 2,
@@ -4698,12 +4592,12 @@
   "87": {
     "uid": 301100,
     "id": 87,
-    "name": "フィン・マックール",
+    "name": "Fionn mac Cumhaill",
     "classId": 3,
-    "gender": "男性",
-    "attribute": "天",
-    "personality": "中庸",
-    "policy": "中立",
+    "gender": "Male",
+    "attribute": "Sky",
+    "personality": "Neutral",
+    "policy": "Neutral",
     "cost": 12,
     "expCurve": 9,
     "hpBase": 2040,
@@ -4711,17 +4605,15 @@
     "atkBase": 1488,
     "atkMax": 8930,
     "np": [
-      "無敗の紫靫草 A",
-      "無敗の紫靫草 A+"
+      "マク・ア・ルイン A",
+      "マク・ア・ルイン A+"
     ],
     "traits": [
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 2,
@@ -4756,12 +4648,12 @@
   "88": {
     "uid": 301200,
     "id": 88,
-    "name": "ブリュンヒルデ",
+    "name": "Brynhild",
     "classId": 3,
-    "gender": "女性",
-    "attribute": "天",
-    "personality": "善",
-    "policy": "中立",
+    "gender": "Female",
+    "attribute": "Sky",
+    "personality": "Lawful",
+    "policy": "Neutral",
     "cost": 16,
     "expCurve": 25,
     "hpBase": 2174,
@@ -4769,19 +4661,17 @@
     "atkBase": 1766,
     "atkMax": 11432,
     "np": [
-      "死がふたりを分断つまで B",
-      "死がふたりを分断つまで B",
-      "死がふたりを分断つまで B+"
+      "ブリュンヒルデ・ロマンシア B",
+      "ブリュンヒルデ・ロマンシア B",
+      "ブリュンヒルデ・ロマンシア B+"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Riding",
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 2,
@@ -4817,12 +4707,12 @@
   "89": {
     "uid": 700800,
     "id": 89,
-    "name": "ベオウルフ",
+    "name": "Beowulf",
     "classId": 7,
-    "gender": "男性",
-    "attribute": "地",
-    "personality": "善",
-    "policy": "混沌",
+    "gender": "Male",
+    "attribute": "Earth",
+    "personality": "Lawful",
+    "policy": "Chaotic",
     "cost": 12,
     "expCurve": 4,
     "hpBase": 1652,
@@ -4830,17 +4720,16 @@
     "atkBase": 1707,
     "atkMax": 10247,
     "np": [
-      "源流闘争 A+",
-      "源流闘争 A+"
+      "グレンデル・バスター A+",
+      "グレンデル・バスター A+"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      "愛人",
-      "王"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Brynhildr's Beloved",
+      "Soverign"
     ],
     "hits": {
       "Arts": 3,
@@ -4873,12 +4762,12 @@
   "90": {
     "uid": 100600,
     "id": 90,
-    "name": "ネロ・クラウディウス〔ブライド〕",
+    "name": "Nero Claudius (Bride)",
     "classId": 1,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "花嫁",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Bride",
+    "policy": "Chaotic",
     "cost": 16,
     "expCurve": 30,
     "hpBase": 2089,
@@ -4886,17 +4775,15 @@
     "atkBase": 1793,
     "atkMax": 11607,
     "np": [
-      "星馳せる終幕の薔薇 B+",
-      "星馳せる終幕の薔薇 B++"
+      "ファクス・カエレスティス B+",
+      "ファクス・カエレスティス B++"
     ],
     "traits": [
-      null,
-      "人型",
-      "羅馬",
-      "阿爾托莉亞臉",
-      "被「天地乖離開辟之星」所剋",
-      null,
-      "王"
+      "Humanoid",
+      "Roman",
+      "Saberface",
+      "Weak to Enuma Elish",
+      "Soverign"
     ],
     "hits": {
       "Arts": 3,
@@ -4930,12 +4817,12 @@
   "91": {
     "uid": 102800,
     "id": 91,
-    "name": "両儀式",
+    "name": "Ryougi Shiki",
     "classId": 1,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "中庸",
-    "policy": "中立",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Neutral",
+    "policy": "Neutral",
     "cost": 16,
     "expCurve": 15,
     "hpBase": 2266,
@@ -4943,12 +4830,10 @@
     "atkBase": 1656,
     "atkMax": 10721,
     "np": [
-      "無垢識・空の境界 EX"
+      "むくしき・からのきょうかい EX"
     ],
     "traits": [
-      null,
-      "人型",
-      null
+      "Humanoid"
     ],
     "hits": {
       "Arts": 2,
@@ -4983,12 +4868,12 @@
   "92": {
     "uid": 602300,
     "id": 92,
-    "name": "両儀式",
+    "name": "Ryougi Shiki",
     "classId": 6,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "善",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Lawful",
+    "policy": "Chaotic",
     "cost": 12,
     "expCurve": 4,
     "hpBase": 1768,
@@ -4996,11 +4881,10 @@
     "atkBase": 1477,
     "atkMax": 8867,
     "np": [
-      "唯識・直死の魔眼 EX"
+      "ゆいしき・ちょくしのまがん EX"
     ],
     "traits": [
-      null,
-      "人型"
+      "Humanoid"
     ],
     "hits": {
       "Arts": 2,
@@ -5034,12 +4918,12 @@
   "93": {
     "uid": 900200,
     "id": 93,
-    "name": "天草四郎",
+    "name": "Amakusa Shirou",
     "classId": 9,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 16,
     "expCurve": 10,
     "hpBase": 2069,
@@ -5047,13 +4931,12 @@
     "atkBase": 1695,
     "atkMax": 10972,
     "np": [
-      "双腕・零次集束 A+",
-      "双腕・零次集束 EX"
+      "ツインアーム・ビッグクランチ A+",
+      "ツインアーム・ビッグクランチ EX"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 2,
@@ -5087,12 +4970,12 @@
   "94": {
     "uid": 400400,
     "id": 94,
-    "name": "アストルフォ",
+    "name": "Astolfo",
     "classId": 4,
-    "gender": "無",
-    "attribute": "地",
-    "personality": "善",
-    "policy": "混沌",
+    "gender": "Unknown",
+    "attribute": "Earth",
+    "personality": "Lawful",
+    "policy": "Chaotic",
     "cost": 12,
     "expCurve": 24,
     "hpBase": 1787,
@@ -5100,16 +4983,14 @@
     "atkBase": 1489,
     "atkMax": 8937,
     "np": [
-      "この世ならざる幻馬 B+",
-      "この世ならざる幻馬 B++"
+      "ヒポグリフ B+",
+      "ヒポグリフ B++"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      null
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 2,
@@ -5145,12 +5026,12 @@
   "95": {
     "uid": 201800,
     "id": 95,
-    "name": "子ギル",
+    "name": "Gilgamesh (Child)",
     "classId": 2,
-    "gender": "男性",
-    "attribute": "天",
-    "personality": "善",
-    "policy": "混沌",
+    "gender": "Male",
+    "attribute": "Sky",
+    "personality": "Lawful",
+    "policy": "Chaotic",
     "cost": 7,
     "expCurve": 8,
     "hpBase": 1571,
@@ -5158,18 +5039,16 @@
     "atkBase": 1429,
     "atkMax": 7696,
     "np": [
-      "王の財宝 B+",
-      "王の財宝 B++"
+      "ゲート・オブ・バビロン B+",
+      "ゲート・オブ・バビロン B++"
     ],
     "traits": [
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      "王"
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Soverign"
     ],
     "hits": {
       "Arts": 3,
@@ -5204,12 +5083,12 @@
   "96": {
     "uid": 1100200,
     "id": 96,
-    "name": "巌窟王",
+    "name": "Edmond Dantes",
     "classId": 11,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "惡",
-    "policy": "混沌",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Evil",
+    "policy": "Chaotic",
     "cost": 16,
     "expCurve": 15,
     "hpBase": 1785,
@@ -5217,12 +5096,12 @@
     "atkBase": 1953,
     "atkMax": 12641,
     "np": [
-      "虎よ、煌々と燃え盛れ A"
+      "アンフェル・シャトー・ディフ A",
+      "アンフェル・シャトー・ディフ A+"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 2,
@@ -5257,12 +5136,12 @@
   "97": {
     "uid": 701400,
     "id": 97,
-    "name": "ナイチンゲール",
+    "name": "Nightingale",
     "classId": 7,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 16,
     "expCurve": 30,
     "hpBase": 2232,
@@ -5270,13 +5149,12 @@
     "atkBase": 1573,
     "atkMax": 10184,
     "np": [
-      "我はすべて毒あるもの、害あるものを絶つ C",
-      "我はすべて毒あるもの、害あるものを絶つ C+"
+      "ナイチンゲール・プレッジ C",
+      "ナイチンゲール・プレッジ C+"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 2,
@@ -5297,7 +5175,8 @@
     "npGainAtk": 0.0077,
     "npGainDef": 0.05,
     "skill1": [
-      "鋼の看護 A"
+      "鋼の看護 A",
+      "鋼の看護 A+"
     ],
     "skill2": [
       "人体理解 A"
@@ -5309,12 +5188,12 @@
   "98": {
     "uid": 702000,
     "id": 98,
-    "name": "クー・フーリン〔オルタ〕",
+    "name": "Cu Chulainn (Alter)",
     "classId": 7,
-    "gender": "男性",
-    "attribute": "地",
-    "personality": "惡",
-    "policy": "混沌",
+    "gender": "Male",
+    "attribute": "Earth",
+    "personality": "Evil",
+    "policy": "Chaotic",
     "cost": 16,
     "expCurve": 10,
     "hpBase": 1790,
@@ -5322,17 +5201,15 @@
     "atkBase": 1979,
     "atkMax": 12805,
     "np": [
-      "噛み砕く死牙の獣 A"
+      "クリード・コインヘン A"
     ],
     "traits": [
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      "愛人"
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Brynhildr's Beloved"
     ],
     "hits": {
       "Arts": 3,
@@ -5366,12 +5243,12 @@
   "99": {
     "uid": 401300,
     "id": 99,
-    "name": "女王メイヴ",
+    "name": "Queen Medb",
     "classId": 4,
-    "gender": "女性",
-    "attribute": "地",
-    "personality": "惡",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Earth",
+    "personality": "Evil",
+    "policy": "Chaotic",
     "cost": 16,
     "expCurve": 5,
     "hpBase": 2048,
@@ -5379,17 +5256,16 @@
     "atkBase": 1591,
     "atkMax": 10296,
     "np": [
-      "愛しき私の鉄戦車 B",
-      "愛しき私の鉄戦車 B+"
+      "チャリオット・マイ・ラブ B",
+      "チャリオット・マイ・ラブ B+"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      "王"
+      "Riding",
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Soverign"
     ],
     "hits": {
       "Arts": 2,
@@ -5424,12 +5300,12 @@
   "100": {
     "uid": 502300,
     "id": 100,
-    "name": "エレナ・ブラヴァツキー",
+    "name": "Helena Blavatsky",
     "classId": 5,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "善",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Lawful",
+    "policy": "Chaotic",
     "cost": 12,
     "expCurve": 4,
     "hpBase": 1901,
@@ -5437,13 +5313,12 @@
     "atkBase": 1438,
     "atkMax": 8629,
     "np": [
-      "金星神・火炎天主 A",
-      "金星神・火炎天主 A+"
+      "サナト・クマラ A",
+      "サナト・クマラ A+"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 3,
@@ -5477,12 +5352,12 @@
   "101": {
     "uid": 101900,
     "id": 101,
-    "name": "ラーマ",
+    "name": "Rama",
     "classId": 1,
-    "gender": "男性",
-    "attribute": "天",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Male",
+    "attribute": "Sky",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 12,
     "expCurve": 24,
     "hpBase": 1919,
@@ -5490,20 +5365,17 @@
     "atkBase": 1642,
     "atkMax": 9854,
     "np": [
-      "羅刹を穿つ不滅 A+"
+      "ブラフマーストラ A+"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      null,
-      "愛人",
-      "王"
+      "Riding",
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Brynhildr's Beloved",
+      "Soverign"
     ],
     "hits": {
       "Arts": 2,
@@ -5538,12 +5410,12 @@
   "102": {
     "uid": 301700,
     "id": 102,
-    "name": "李書文",
+    "name": "Li Shuwen",
     "classId": 3,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "惡",
-    "policy": "中立",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Evil",
+    "policy": "Neutral",
     "cost": 12,
     "expCurve": 14,
     "hpBase": 1817,
@@ -5551,12 +5423,11 @@
     "atkBase": 1608,
     "atkMax": 9653,
     "np": [
-      "神槍无二打 -"
+      "しんそうにのうちいらず -"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 3,
@@ -5589,12 +5460,12 @@
   "103": {
     "uid": 502500,
     "id": 103,
-    "name": "トーマス・エジソン",
+    "name": "Thomas Edison",
     "classId": 5,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "中庸",
-    "policy": "秩序",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Neutral",
+    "policy": "Order",
     "cost": 12,
     "expCurve": 24,
     "hpBase": 1901,
@@ -5602,13 +5473,12 @@
     "atkBase": 1325,
     "atkMax": 7952,
     "np": [
-      "Ｗ・Ｆ・Ｄ EX",
-      "Ｗ・Ｆ・Ｄ EX"
+      "ワールド・フェイス・ドミネーション EX",
+      "ワールド・フェイス・ドミネーション EX"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 3,
@@ -5642,12 +5512,12 @@
   "104": {
     "uid": 501600,
     "id": 104,
-    "name": "ジェロニモ",
+    "name": "Geronimo",
     "classId": 5,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "善",
-    "policy": "中立",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Lawful",
+    "policy": "Neutral",
     "cost": 7,
     "expCurve": 3,
     "hpBase": 1642,
@@ -5655,14 +5525,13 @@
     "atkBase": 1273,
     "atkMax": 6857,
     "np": [
-      "大地を創りし者 B",
-      "大地を創りし者 B+"
+      "ツァゴ・デジ・ナレヤ B",
+      "ツァゴ・デジ・ナレヤ B+"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "愛人"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Brynhildr's Beloved"
     ],
     "hits": {
       "Arts": 2,
@@ -5696,12 +5565,12 @@
   "105": {
     "uid": 201000,
     "id": 105,
-    "name": "ビリー・ザ・キッド",
+    "name": "Billy the Kid",
     "classId": 2,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "中庸",
-    "policy": "混沌",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Neutral",
+    "policy": "Chaotic",
     "cost": 7,
     "expCurve": 3,
     "hpBase": 1711,
@@ -5709,14 +5578,13 @@
     "atkBase": 1279,
     "atkMax": 6890,
     "np": [
-      "壊音の霹靂 C++",
-      "壊音の霹靂 C+++"
+      "サンダラー C++",
+      "サンダラー C+++"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Riding",
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 3,
@@ -5750,12 +5618,12 @@
   "106": {
     "uid": 1100300,
     "id": 106,
-    "name": "ジャンヌ・ダルク〔オルタ〕",
+    "name": "Jeanne d'Arc (Alter)",
     "classId": 11,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "惡",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Evil",
+    "policy": "Chaotic",
     "cost": 16,
     "expCurve": 15,
     "hpBase": 1724,
@@ -5763,13 +5631,12 @@
     "atkBase": 2046,
     "atkMax": 13244,
     "np": [
-      "吼え立てよ、我が憤怒 A+"
+      "ラ・グロンドメント・デュ・ヘイン A+"
     ],
     "traits": [
-      null,
-      "人型",
-      "阿爾托莉亞臉",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Saberface",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 2,
@@ -5804,12 +5671,12 @@
   "107": {
     "uid": 1100100,
     "id": 107,
-    "name": "アンリマユ",
+    "name": "Angra Mainyu",
     "classId": 11,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "惡",
-    "policy": "混沌",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Evil",
+    "policy": "Chaotic",
     "cost": 4,
     "expCurve": 2,
     "hpBase": 1502,
@@ -5817,12 +5684,11 @@
     "atkBase": 1008,
     "atkMax": 5683,
     "np": [
-      "偽り写し記す万象 C-"
+      "ヴェルグ・アヴェスター C-"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 2,
@@ -5858,12 +5724,12 @@
   "108": {
     "uid": 400200,
     "id": 108,
-    "name": "イスカンダル",
+    "name": "Iskandar",
     "classId": 4,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "善",
-    "policy": "中立",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Lawful",
+    "policy": "Neutral",
     "cost": 16,
     "expCurve": 10,
     "hpBase": 1938,
@@ -5871,19 +5737,17 @@
     "atkBase": 1786,
     "atkMax": 11560,
     "np": [
-      "王の軍勢 EX",
-      "王の軍勢 EX"
+      "アイオニオン・ヘタイロイ EX",
+      "アイオニオン・ヘタイロイ EX"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "愛人",
-      "王",
-      "希臘神話系男性"
+      "Riding",
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Brynhildr's Beloved",
+      "Soverign",
+      "Greek Mythology Males"
     ],
     "hits": {
       "Arts": 2,
@@ -5918,12 +5782,12 @@
   "109": {
     "uid": 601500,
     "id": 109,
-    "name": "エミヤ〔アサシン〕",
+    "name": "Emiya (Assasin)",
     "classId": 6,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "惡",
-    "policy": "混沌",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Evil",
+    "policy": "Chaotic",
     "cost": 12,
     "expCurve": 24,
     "hpBase": 1786,
@@ -5931,14 +5795,13 @@
     "atkBase": 1493,
     "atkMax": 8958,
     "np": [
-      "時のある間に薔薇を摘め B",
-      "時のある間に薔薇を摘め B+"
+      "クロノス・ローズ B",
+      "クロノス・ローズ B+"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "愛人"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Brynhildr's Beloved"
     ],
     "hits": {
       "Arts": 2,
@@ -5972,12 +5835,12 @@
   "110": {
     "uid": 600300,
     "id": 110,
-    "name": "百貌のハサン",
+    "name": "Hassan of the Hundred Persona",
     "classId": 6,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "惡",
-    "policy": "秩序",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Evil",
+    "policy": "Order",
     "cost": 7,
     "expCurve": 28,
     "hpBase": 1675,
@@ -5985,13 +5848,12 @@
     "atkBase": 1241,
     "atkMax": 6686,
     "np": [
-      "妄想幻像 B+",
-      "妄想幻像 B++"
+      "ザバーニーヤ B+",
+      "ザバーニーヤ B++"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 3,
@@ -6024,12 +5886,12 @@
   "111": {
     "uid": 502000,
     "id": 111,
-    "name": "アイリスフィール〔天の衣〕",
+    "name": "Irisviel (Dress of Heaven)",
     "classId": 5,
-    "gender": "女性",
-    "attribute": "天",
-    "personality": "善",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Sky",
+    "personality": "Lawful",
+    "policy": "Chaotic",
     "cost": 12,
     "expCurve": 24,
     "hpBase": 1996,
@@ -6037,16 +5899,14 @@
     "atkBase": 1372,
     "atkMax": 8237,
     "np": [
-      "白き聖杯よ、謳え B"
+      "ソング・オブ・グレイル B"
     ],
     "traits": [
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 3,
@@ -6080,12 +5940,12 @@
   "112": {
     "uid": 602100,
     "id": 112,
-    "name": "酒呑童子",
+    "name": "Shuten-Douji",
     "classId": 6,
-    "gender": "女性",
-    "attribute": "地",
-    "personality": "惡",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Earth",
+    "personality": "Evil",
+    "policy": "Chaotic",
     "cost": 16,
     "expCurve": 25,
     "hpBase": 1881,
@@ -6093,20 +5953,16 @@
     "atkBase": 1853,
     "atkMax": 11993,
     "np": [
-      "千紫万紅・神便鬼毒 B"
+      "せんしばんこう・しんぺんきどく B"
     ],
     "traits": [
-      null,
-      "人型",
-      "神性",
-      null,
-      "魔性",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      "龍",
-      null,
-      null
+      "Humanoid",
+      "Divine",
+      "Demonic",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Dragon"
     ],
     "hits": {
       "Arts": 3,
@@ -6140,12 +5996,12 @@
   "113": {
     "uid": 502200,
     "id": 113,
-    "name": "玄奘三蔵",
+    "name": "Xuansang Sanzang",
     "classId": 5,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 16,
     "expCurve": 15,
     "hpBase": 1901,
@@ -6153,15 +6009,13 @@
     "atkBase": 1801,
     "atkMax": 11658,
     "np": [
-      "五行山・釈迦如来掌 B",
-      "五行山・釈迦如来掌 B+"
+      "ごぎょうさん・しゃかにょらいしょう B",
+      "ごぎょうさん・しゃかにょらいしょう B+"
     ],
     "traits": [
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 2,
@@ -6195,12 +6049,12 @@
   "114": {
     "uid": 702300,
     "id": 114,
-    "name": "源頼光",
+    "name": "Minamoto-no-Raikou",
     "classId": 7,
-    "gender": "女性",
-    "attribute": "天",
-    "personality": "善",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Sky",
+    "personality": "Lawful",
+    "policy": "Chaotic",
     "cost": 16,
     "expCurve": 30,
     "hpBase": 1980,
@@ -6208,17 +6062,15 @@
     "atkBase": 1786,
     "atkMax": 11556,
     "np": [
-      "牛王招雷・天網恢々 B++"
+      "ごおうしょうらい・てんもうかいかい B++"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Riding",
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 4,
@@ -6254,12 +6106,12 @@
   "115": {
     "uid": 402300,
     "id": 115,
-    "name": "坂田金時",
+    "name": "Sakaki Kintoki",
     "classId": 4,
-    "gender": "男性",
-    "attribute": "地",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Male",
+    "attribute": "Earth",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 12,
     "expCurve": 9,
     "hpBase": 1728,
@@ -6267,17 +6119,15 @@
     "atkBase": 1636,
     "atkMax": 9819,
     "np": [
-      "夜狼死九・黄金疾走 B"
+      "ゴールデンドライブ・グッドナイト B"
     ],
     "traits": [
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      "愛人"
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Brynhildr's Beloved"
     ],
     "hits": {
       "Arts": 2,
@@ -6310,12 +6160,12 @@
   "116": {
     "uid": 702200,
     "id": 116,
-    "name": "茨木童子",
+    "name": "Ibaraki-Douji",
     "classId": 7,
-    "gender": "女性",
-    "attribute": "地",
-    "personality": "惡",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Earth",
+    "personality": "Evil",
+    "policy": "Chaotic",
     "cost": 12,
     "expCurve": 29,
     "hpBase": 1752,
@@ -6323,17 +6173,14 @@
     "atkBase": 1606,
     "atkMax": 9636,
     "np": [
-      "羅生門大怨起 B"
+      "らしょうもんだいえんぎ B"
     ],
     "traits": [
-      null,
-      "人型",
-      "魔性",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      null,
-      null
+      "Humanoid",
+      "Demonic",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 2,
@@ -6366,12 +6213,12 @@
   "117": {
     "uid": 601900,
     "id": 117,
-    "name": "風魔小太郎",
+    "name": "Fuuma \"Evil-wind\" Kotarou",
     "classId": 6,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "惡",
-    "policy": "混沌",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Evil",
+    "policy": "Chaotic",
     "cost": 7,
     "expCurve": 8,
     "hpBase": 1592,
@@ -6379,13 +6226,12 @@
     "atkBase": 1316,
     "atkMax": 7091,
     "np": [
-      "不滅の混沌旅団 B",
-      "不滅の混沌旅団 B+"
+      "イモータル・カオス・ブリゲイド B",
+      "イモータル・カオス・ブリゲイド B+"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 4,
@@ -6418,12 +6264,12 @@
   "118": {
     "uid": 401200,
     "id": 118,
-    "name": "オジマンディアス",
+    "name": "Ozymandias",
     "classId": 4,
-    "gender": "男性",
-    "attribute": "天",
-    "personality": "中庸",
-    "policy": "混沌",
+    "gender": "Male",
+    "attribute": "Sky",
+    "personality": "Neutral",
+    "policy": "Chaotic",
     "cost": 16,
     "expCurve": 5,
     "hpBase": 1881,
@@ -6431,19 +6277,17 @@
     "atkBase": 1850,
     "atkMax": 11971,
     "np": [
-      "光輝の大複合神殿 EX"
+      "ラムセウム・テンティリス EX"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      "愛人",
-      "王"
+      "Riding",
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Brynhildr's Beloved",
+      "Soverign"
     ],
     "hits": {
       "Arts": 3,
@@ -6478,12 +6322,12 @@
   "119": {
     "uid": 302000,
     "id": 119,
-    "name": "アルトリア・ペンドラゴン",
+    "name": "Altria Pendragon",
     "classId": 3,
-    "gender": "女性",
-    "attribute": "天",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Female",
+    "attribute": "Sky",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 16,
     "expCurve": 5,
     "hpBase": 2288,
@@ -6491,19 +6335,18 @@
     "atkBase": 1699,
     "atkMax": 10995,
     "np": [
-      "最果てにて輝ける槍 A++"
+      "ロンゴミニアド A++"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "龍",
-      "阿爾托莉亞臉",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      "亞瑟",
-      "王"
+      "Riding",
+      "Humanoid",
+      "Dragon",
+      "Saberface",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Altria",
+      "Soverign"
     ],
     "hits": {
       "Arts": 2,
@@ -6537,12 +6380,12 @@
   "120": {
     "uid": 501200,
     "id": 120,
-    "name": "ニトクリス",
+    "name": "Nitocris",
     "classId": 5,
-    "gender": "女性",
-    "attribute": "地",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Female",
+    "attribute": "Earth",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 12,
     "expCurve": 9,
     "hpBase": 1806,
@@ -6550,18 +6393,16 @@
     "atkBase": 1510,
     "atkMax": 9060,
     "np": [
-      "冥鏡宝典 B+",
-      "冥鏡宝典 B++"
+      "アンプゥ・ネブ・タ・ジェセル B+",
+      "アンプゥ・ネブ・タ・ジェセル B++"
     ],
     "traits": [
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      "王"
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Soverign"
     ],
     "hits": {
       "Arts": 3,
@@ -6596,12 +6437,12 @@
   "121": {
     "uid": 102000,
     "id": 121,
-    "name": "ランスロット",
+    "name": "Lancelot",
     "classId": 1,
-    "gender": "男性",
-    "attribute": "地",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Male",
+    "attribute": "Earth",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 12,
     "expCurve": 14,
     "hpBase": 1854,
@@ -6609,17 +6450,15 @@
     "atkBase": 1658,
     "atkMax": 9949,
     "np": [
-      "縛鎖全断・過重湖光 A"
+      "アロンダイト・オーバーロード A"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      null,
-      "愛人"
+      "Riding",
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Brynhildr's Beloved"
     ],
     "hits": {
       "Arts": 2,
@@ -6653,12 +6492,12 @@
   "122": {
     "uid": 200800,
     "id": 122,
-    "name": "トリスタン",
+    "name": "Tristran",
     "classId": 2,
-    "gender": "男性",
-    "attribute": "地",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Male",
+    "attribute": "Earth",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 12,
     "expCurve": 14,
     "hpBase": 1862,
@@ -6666,15 +6505,14 @@
     "atkBase": 1622,
     "atkMax": 9735,
     "np": [
-      "痛哭の幻奏 A",
-      "痛哭の幻奏 A+"
+      "フェイルノート A",
+      "フェイルノート A+"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 3,
@@ -6708,12 +6546,12 @@
   "123": {
     "uid": 100700,
     "id": 123,
-    "name": "ガウェイン",
+    "name": "Gawain",
     "classId": 1,
-    "gender": "男性",
-    "attribute": "地",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Male",
+    "attribute": "Earth",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 12,
     "expCurve": 4,
     "hpBase": 1827,
@@ -6721,18 +6559,16 @@
     "atkBase": 1695,
     "atkMax": 10173,
     "np": [
-      "転輪する勝利の剣 A+",
-      "転輪する勝利の剣 A+"
+      "エクスカリバー・ガラティーン A+",
+      "エクスカリバー・ガラティーン A+"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      null,
-      "愛人"
+      "Riding",
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Brynhildr's Beloved"
     ],
     "hits": {
       "Arts": 2,
@@ -6766,12 +6602,12 @@
   "124": {
     "uid": 600900,
     "id": 124,
-    "name": "静謐のハサン",
+    "name": "Hassan of the Serenity",
     "classId": 6,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "惡",
-    "policy": "秩序",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Evil",
+    "policy": "Order",
     "cost": 7,
     "expCurve": 23,
     "hpBase": 1675,
@@ -6779,13 +6615,12 @@
     "atkBase": 1232,
     "atkMax": 6636,
     "np": [
-      "妄想毒身 C",
-      "妄想毒身 C+"
+      "ザバーニーヤ C",
+      "ザバーニーヤ C+"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 3,
@@ -6820,12 +6655,12 @@
   "125": {
     "uid": 201400,
     "id": 125,
-    "name": "俵藤太",
+    "name": "Tawara Touta",
     "classId": 2,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "善",
-    "policy": "中立",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Lawful",
+    "policy": "Neutral",
     "cost": 7,
     "expCurve": 28,
     "hpBase": 1764,
@@ -6833,14 +6668,13 @@
     "atkBase": 1306,
     "atkMax": 7032,
     "np": [
-      "八幡祈願・大妖射貫 B",
-      "八幡祈願・大妖射貫 B+"
+      "なむはちまんだいぼさつ・このやにかごを B",
+      "なむはちまんだいぼさつ・このやにかごを B+"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "愛人"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Brynhildr's Beloved"
     ],
     "hits": {
       "Arts": 3,
@@ -6874,12 +6708,12 @@
   "126": {
     "uid": 101200,
     "id": 126,
-    "name": "ベディヴィエール",
+    "name": "Bedivere",
     "classId": 1,
-    "gender": "男性",
-    "attribute": "星",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Male",
+    "attribute": "Star",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 7,
     "expCurve": 13,
     "hpBase": 1727,
@@ -6887,16 +6721,14 @@
     "atkBase": 1416,
     "atkMax": 7627,
     "np": [
-      "剣を摂れ、銀色の腕 C",
-      "剣を摂れ、銀色の腕 C+"
+      "スイッチオン・アガートラム C",
+      "スイッチオン・アガートラム C+"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      null,
-      "愛人"
+      "Riding",
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Brynhildr's Beloved"
     ],
     "hits": {
       "Arts": 2,
@@ -6930,12 +6762,12 @@
   "127": {
     "uid": 500900,
     "id": 127,
-    "name": "レオナルド・ダ・ヴィンチ",
+    "name": "Leonardo da Vinci",
     "classId": 5,
-    "gender": "女性",
-    "attribute": "星",
-    "personality": "善",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Star",
+    "personality": "Lawful",
+    "policy": "Chaotic",
     "cost": 16,
     "expCurve": 30,
     "hpBase": 2091,
@@ -6943,13 +6775,12 @@
     "atkBase": 1637,
     "atkMax": 10598,
     "np": [
-      "万能の人 EX",
-      "万能の人 EX"
+      "ウォモ・ウニヴェルサーレ EX",
+      "ウォモ・ウニヴェルサーレ EX"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 3,
@@ -6983,12 +6814,12 @@
   "128": {
     "uid": 302400,
     "id": 128,
-    "name": "玉藻の前",
+    "name": "Tamamo-no-Mae",
     "classId": 3,
-    "gender": "女性",
-    "attribute": "天",
-    "personality": "夏",
-    "policy": "中立",
+    "gender": "Female",
+    "attribute": "Sky",
+    "personality": "Summer",
+    "policy": "Neutral",
     "cost": 16,
     "expCurve": 5,
     "hpBase": 2221,
@@ -6996,17 +6827,15 @@
     "atkBase": 1657,
     "atkMax": 10726,
     "np": [
-      "常夏日光・日除傘寵愛一神 C"
+      "とこなつにっこう・ひよけがさちょうあいいっしん C"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Riding",
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 2,
@@ -7041,12 +6870,12 @@
   "129": {
     "uid": 202600,
     "id": 129,
-    "name": "アルトリア・ペンドラゴン",
+    "name": "Altria Pendragon",
     "classId": 2,
-    "gender": "女性",
-    "attribute": "地",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Female",
+    "attribute": "Earth",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 16,
     "expCurve": 5,
     "hpBase": 2134,
@@ -7054,18 +6883,17 @@
     "atkBase": 1742,
     "atkMax": 11276,
     "np": [
-      "陽光煌めく勝利の剣 A"
+      "エクスカリバー・ヴィヴィアン A"
     ],
     "traits": [
-      null,
-      "人型",
-      "龍",
-      "阿爾托莉亞臉",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      "亞瑟",
-      "王"
+      "Humanoid",
+      "Dragon",
+      "Saberface",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Altria",
+      "Soverign"
     ],
     "hits": {
       "Arts": 3,
@@ -7100,12 +6928,12 @@
   "130": {
     "uid": 502700,
     "id": 130,
-    "name": "マリー・アントワネット",
+    "name": "Marie Antoinette",
     "classId": 5,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 12,
     "expCurve": 9,
     "hpBase": 1824,
@@ -7113,12 +6941,11 @@
     "atkBase": 1510,
     "atkMax": 9060,
     "np": [
-      "愛すべき輝きは永遠に A"
+      "クリスタル・ドレス A"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 5,
@@ -7152,12 +6979,12 @@
   "131": {
     "uid": 202500,
     "id": 131,
-    "name": "アン・ボニー＆メアリー・リード",
+    "name": "Anne Bonny & Mary Read",
     "classId": 2,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "中庸",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Neutral",
+    "policy": "Chaotic",
     "cost": 12,
     "expCurve": 29,
     "hpBase": 1843,
@@ -7165,12 +6992,11 @@
     "atkBase": 1574,
     "atkMax": 9446,
     "np": [
-      "比翼にして連理 C++"
+      "カリビアン・フリーバード・アクト２ C++"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 2,
@@ -7204,12 +7030,12 @@
   "132": {
     "uid": 402400,
     "id": 132,
-    "name": "モードレッド",
+    "name": "Mordred",
     "classId": 4,
-    "gender": "女性",
-    "attribute": "地",
-    "personality": "善",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Earth",
+    "personality": "Lawful",
+    "policy": "Chaotic",
     "cost": 12,
     "expCurve": 24,
     "hpBase": 1824,
@@ -7217,16 +7043,15 @@
     "atkBase": 1535,
     "atkMax": 9212,
     "np": [
-      "逆巻く波濤を制する王様気分！ A"
+      "プリドゥエン・チューブライディング A"
     ],
     "traits": [
-      null,
-      "人型",
-      "龍",
-      "阿爾托莉亞臉",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Humanoid",
+      "Dragon",
+      "Saberface",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 2,
@@ -7260,12 +7085,12 @@
   "133": {
     "uid": 602400,
     "id": 133,
-    "name": "スカサハ",
+    "name": "Scathach",
     "classId": 6,
-    "gender": "女性",
-    "attribute": "星",
-    "personality": "善",
-    "policy": "中立",
+    "gender": "Female",
+    "attribute": "Star",
+    "personality": "Lawful",
+    "policy": "Neutral",
     "cost": 12,
     "expCurve": 4,
     "hpBase": 1786,
@@ -7273,13 +7098,12 @@
     "atkBase": 1508,
     "atkMax": 9049,
     "np": [
-      "蹴り穿つ死翔の槍 B+"
+      "ゲイ・ボルク・オルタナティブ B+"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "王"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Soverign"
     ],
     "hits": {
       "Arts": 3,
@@ -7312,12 +7136,12 @@
   "134": {
     "uid": 302500,
     "id": 134,
-    "name": "清姫",
+    "name": "Kiyohime",
     "classId": 3,
-    "gender": "女性",
-    "attribute": "地",
-    "personality": "惡",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Earth",
+    "personality": "Evil",
+    "policy": "Chaotic",
     "cost": 12,
     "expCurve": 4,
     "hpBase": 1899,
@@ -7325,15 +7149,14 @@
     "atkBase": 1489,
     "atkMax": 8936,
     "np": [
-      "道成寺鐘百八式火竜薙 A"
+      "どうじょうじかねひゃくはちしきかりゅうなぎ A"
     ],
     "traits": [
-      null,
-      "人型",
-      "龍",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Humanoid",
+      "Dragon",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 2,
@@ -7367,12 +7190,12 @@
   "135": {
     "uid": 900400,
     "id": 135,
-    "name": "マルタ",
+    "name": "Martha",
     "classId": 9,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 12,
     "expCurve": 4,
     "hpBase": 1800,
@@ -7380,12 +7203,11 @@
     "atkBase": 1591,
     "atkMax": 9546,
     "np": [
-      "荒れ狂う哀しき竜よ A"
+      "タラスク A"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 3,
@@ -7418,12 +7240,12 @@
   "136": {
     "uid": 502800,
     "id": 136,
-    "name": "イリヤスフィール・フォン・アインツベルン",
+    "name": "Illyasviel von Einzbern",
     "classId": 5,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "善",
-    "policy": "中立",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Lawful",
+    "policy": "Neutral",
     "cost": 16,
     "expCurve": 10,
     "hpBase": 2027,
@@ -7431,13 +7253,12 @@
     "atkBase": 1677,
     "atkMax": 10857,
     "np": [
-      "多元重奏飽和砲撃 A+",
-      "多元重奏飽和砲撃 EX"
+      "クウィンテットフォイア A+",
+      "クウィンテットフォイア EX"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 5,
@@ -7471,12 +7292,12 @@
   "137": {
     "uid": 202700,
     "id": 137,
-    "name": "クロエ・フォン・アインツベルン",
+    "name": "Chloe von Einzbern",
     "classId": 2,
-    "gender": "女性",
-    "attribute": "天",
-    "personality": "善",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Sky",
+    "personality": "Lawful",
+    "policy": "Chaotic",
     "cost": 12,
     "expCurve": 9,
     "hpBase": 1746,
@@ -7484,14 +7305,13 @@
     "atkBase": 1640,
     "atkMax": 9845,
     "np": [
-      "鶴翼三連 C"
+      "かくよくさんれん C"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 6,
@@ -7526,12 +7346,12 @@
   "138": {
     "uid": 101000,
     "id": 138,
-    "name": "エリザベート・バートリー〔ブレイブ〕",
+    "name": "Elizabeth Bathory (Brave)",
     "classId": 1,
-    "gender": "女性",
-    "attribute": "地",
-    "personality": "善",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Earth",
+    "personality": "Lawful",
+    "policy": "Chaotic",
     "cost": 12,
     "expCurve": 9,
     "hpBase": 1799,
@@ -7539,16 +7359,14 @@
     "atkBase": 1649,
     "atkMax": 9899,
     "np": [
-      "鮮血竜巻魔嬢 B"
+      "バートリ・ブレイブ・エルジェーベト B"
     ],
     "traits": [
-      null,
-      "人型",
-      "龍",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      null
+      "Humanoid",
+      "Dragon",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 3,
@@ -7583,12 +7401,12 @@
   "139": {
     "uid": 600800,
     "id": 139,
-    "name": "クレオパトラ",
+    "name": "Cleopatra",
     "classId": 6,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "中庸",
-    "policy": "秩序",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Neutral",
+    "policy": "Order",
     "cost": 16,
     "expCurve": 5,
     "hpBase": 1965,
@@ -7596,15 +7414,13 @@
     "atkBase": 1713,
     "atkMax": 11088,
     "np": [
-      "暁の時を終える蛇よ、此処に A"
+      "ウラエウス・アストラペ A"
     ],
     "traits": [
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "王"
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Soverign"
     ],
     "hits": {
       "Arts": 2,
@@ -7638,12 +7454,12 @@
   "140": {
     "uid": 300300,
     "id": 140,
-    "name": "ヴラド三世〔EXTRA〕",
+    "name": "Vlad III (EXTRA)",
     "classId": 3,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 12,
     "expCurve": 14,
     "hpBase": 2080,
@@ -7651,13 +7467,12 @@
     "atkBase": 1462,
     "atkMax": 8775,
     "np": [
-      "串刺城塞 C"
+      "カズィクル・ベイ C"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "王"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Soverign"
     ],
     "hits": {
       "Arts": 2,
@@ -7690,12 +7505,12 @@
   "141": {
     "uid": 302600,
     "id": 141,
-    "name": "ジャンヌ・ダルク・オルタ・サンタ・リリィ",
+    "name": "Jeanne d'Arc Alter Santa Lily",
     "classId": 3,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "善",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Lawful",
+    "policy": "Chaotic",
     "cost": 12,
     "expCurve": 9,
     "hpBase": 1899,
@@ -7703,13 +7518,12 @@
     "atkBase": 1543,
     "atkMax": 9261,
     "np": [
-      "優雅に歌え、かの聖誕を A+"
+      "ラ・グラスフィーユ・ノエル A+"
     ],
     "traits": [
-      null,
-      "人型",
-      "阿爾托莉亞臉",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Saberface",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 3,
@@ -7742,12 +7556,12 @@
   "142": {
     "uid": 202000,
     "id": 142,
-    "name": "イシュタル",
+    "name": "Ishtar",
     "classId": 2,
-    "gender": "女性",
-    "attribute": "天",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Female",
+    "attribute": "Sky",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 16,
     "expCurve": 5,
     "hpBase": 2048,
@@ -7756,15 +7570,13 @@
     "atkMax": 12252,
     "np": [
       "？？？ ？",
-      "山脈震撼す明星の薪 A++"
+      "アンガルタ・キガルシュ A++"
     ],
     "traits": [
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋"
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant"
     ],
     "hits": {
       "Arts": 4,
@@ -7799,12 +7611,12 @@
   "143": {
     "uid": 300800,
     "id": 143,
-    "name": "エルキドゥ",
+    "name": "Enkidu",
     "classId": 3,
-    "gender": "無",
-    "attribute": "天",
-    "personality": "中庸",
-    "policy": "中立",
+    "gender": "Unknown",
+    "attribute": "Sky",
+    "personality": "Neutral",
+    "policy": "Neutral",
     "cost": 16,
     "expCurve": 10,
     "hpBase": 2244,
@@ -7812,14 +7624,13 @@
     "atkBase": 1666,
     "atkMax": 10780,
     "np": [
-      "人よ、神を繋ぎとめよう A++"
+      "エヌマ・エリシュ A++"
     ],
     "traits": [
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      null
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 5,
@@ -7853,12 +7664,12 @@
   "144": {
     "uid": 401800,
     "id": 144,
-    "name": "ケツァル・コアトル",
+    "name": "Quetzalcoatl",
     "classId": 4,
-    "gender": "女性",
-    "attribute": "天",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Female",
+    "attribute": "Sky",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 16,
     "expCurve": 5,
     "hpBase": 1900,
@@ -7866,18 +7677,16 @@
     "atkBase": 1854,
     "atkMax": 12001,
     "np": [
-      "炎、神をも灼き尽くせ A"
+      "シウ・コアトル A"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      "王"
+      "Riding",
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Soverign"
     ],
     "hits": {
       "Arts": 2,
@@ -7912,12 +7721,12 @@
   "145": {
     "uid": 501800,
     "id": 145,
-    "name": "ギルガメッシュ",
+    "name": "Gilgamesh",
     "classId": 5,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 12,
     "expCurve": 29,
     "hpBase": 1920,
@@ -7925,16 +7734,14 @@
     "atkBase": 1410,
     "atkMax": 8460,
     "np": [
-      "王の号砲 B"
+      "メラム・ディンギル B"
     ],
     "traits": [
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "愛人",
-      "王"
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Brynhildr's Beloved",
+      "Soverign"
     ],
     "hits": {
       "Arts": 5,
@@ -7969,12 +7776,12 @@
   "146": {
     "uid": 302700,
     "id": 146,
-    "name": "メドゥーサ",
+    "name": "Medusa (Lancer)",
     "classId": 3,
-    "gender": "女性",
-    "attribute": "地",
-    "personality": "善",
-    "policy": "中立",
+    "gender": "Female",
+    "attribute": "Earth",
+    "personality": "Lawful",
+    "policy": "Neutral",
     "cost": 12,
     "expCurve": 24,
     "hpBase": 2099,
@@ -7982,17 +7789,15 @@
     "atkBase": 1375,
     "atkMax": 8253,
     "np": [
-      "女神の抱擁 B",
-      "女神の抱擁 B+"
+      "カレス・オブ・ザ・メドゥーサ B",
+      "カレス・オブ・ザ・メドゥーサ B+"
     ],
     "traits": [
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 4,
@@ -8026,12 +7831,12 @@
   "147": {
     "uid": 1100400,
     "id": 147,
-    "name": "ゴルゴーン",
+    "name": "Gorgon",
     "classId": 11,
-    "gender": "女性",
-    "attribute": "地",
-    "personality": "惡",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Earth",
+    "personality": "Evil",
+    "policy": "Chaotic",
     "cost": 12,
     "expCurve": 14,
     "hpBase": 1631,
@@ -8039,15 +7844,14 @@
     "atkBase": 1784,
     "atkMax": 10706,
     "np": [
-      "強制封印・万魔神殿 A",
-      "強制封印・万魔神殿 A+"
+      "パンデモニウム・ケトゥス A",
+      "パンデモニウム・ケトゥス A+"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 5,
@@ -8082,12 +7886,12 @@
   "148": {
     "uid": 302800,
     "id": 148,
-    "name": "ジャガーマン",
+    "name": "Jaguar Warrior",
     "classId": 3,
-    "gender": "女性",
-    "attribute": "地",
-    "personality": "中庸",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Earth",
+    "personality": "Neutral",
+    "policy": "Chaotic",
     "cost": 7,
     "expCurve": 8,
     "hpBase": 1726,
@@ -8095,16 +7899,14 @@
     "atkBase": 1304,
     "atkMax": 7022,
     "np": [
-      "逃れ得ぬ死の鉤爪 B"
+      "グレート・デス・クロー B"
     ],
     "traits": [
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "猛獸"
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Beast"
     ],
     "hits": {
       "Arts": 2,
@@ -8139,12 +7941,12 @@
   "150": {
     "uid": 500800,
     "id": 150,
-    "name": "マーリン",
+    "name": "Merlin",
     "classId": 5,
-    "gender": "男性",
-    "attribute": "地",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Male",
+    "attribute": "Earth",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 16,
     "expCurve": 30,
     "hpBase": 2091,
@@ -8152,15 +7954,14 @@
     "atkBase": 1629,
     "atkMax": 10546,
     "np": [
-      "永久に閉ざされた理想郷 C",
-      "永久に閉ざされた理想郷 C"
+      "ガーデン・オブ・アヴァロン C",
+      "ガーデン・オブ・アヴァロン C"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 2,
@@ -8195,12 +7996,12 @@
   "153": {
     "uid": 101700,
     "id": 153,
-    "name": "宮本武蔵",
+    "name": "Miyamoto Musashi",
     "classId": 1,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "善",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Lawful",
+    "policy": "Chaotic",
     "cost": 16,
     "expCurve": 5,
     "hpBase": 1999,
@@ -8208,14 +8009,12 @@
     "atkBase": 1860,
     "atkMax": 12037,
     "np": [
-      "六道五輪・倶利伽羅天象 A",
-      "六道五輪・倶利伽羅天象 A"
+      "りくどうごりん・くりからてんしょう A",
+      "りくどうごりん・くりからてんしょう A"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      null
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 3,
@@ -8248,12 +8047,12 @@
   "154": {
     "uid": 602500,
     "id": 154,
-    "name": "“山の翁”",
+    "name": "\"First Hassan\"",
     "classId": 6,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "惡",
-    "policy": "秩序",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Evil",
+    "policy": "Order",
     "cost": 16,
     "expCurve": 15,
     "hpBase": 1956,
@@ -8261,13 +8060,12 @@
     "atkBase": 1831,
     "atkMax": 11848,
     "np": [
-      "死告天使 C"
+      "アズライール C"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "愛人"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Brynhildr's Beloved"
     ],
     "hits": {
       "Arts": 3,
@@ -8303,12 +8101,12 @@
   "155": {
     "uid": 702400,
     "id": 155,
-    "name": "謎のヒロインX〔オルタ〕",
+    "name": "Mysterious Heroine X (Alter)",
     "classId": 7,
-    "gender": "女性",
-    "attribute": "星",
-    "personality": "惡",
-    "policy": "中立",
+    "gender": "Female",
+    "attribute": "Star",
+    "personality": "Evil",
+    "policy": "Neutral",
     "cost": 16,
     "expCurve": 30,
     "hpBase": 2079,
@@ -8316,15 +8114,14 @@
     "atkBase": 1717,
     "atkMax": 11113,
     "np": [
-      "黒竜双剋勝利剣 A+"
+      "クロス・カリバー A+"
     ],
     "traits": [
-      null,
-      "人型",
-      "龍",
-      "阿爾托莉亞臉",
-      "亞瑟",
-      "王"
+      "Humanoid",
+      "Dragon",
+      "Saberface",
+      "Altria",
+      "Soverign"
     ],
     "hits": {
       "Arts": 2,
@@ -8359,12 +8156,12 @@
   "156": {
     "uid": 202300,
     "id": 156,
-    "name": "ジェームズ・モリアーティ",
+    "name": "James Moriarty",
     "classId": 2,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "惡",
-    "policy": "混沌",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Evil",
+    "policy": "Chaotic",
     "cost": 16,
     "expCurve": 10,
     "hpBase": 2007,
@@ -8372,13 +8169,12 @@
     "atkBase": 1820,
     "atkMax": 11781,
     "np": [
-      "？？？ ？",
-      "終局的犯罪 A+"
+      " ？",
+      "ザ・ダイナミクス・オブ・アン・アステロイド A+"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 4,
@@ -8412,12 +8208,12 @@
   "157": {
     "uid": 201600,
     "id": 157,
-    "name": "エミヤ〔オルタ〕",
+    "name": "Emiya (Alter)",
     "classId": 2,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "惡",
-    "policy": "混沌",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Evil",
+    "policy": "Chaotic",
     "cost": 12,
     "expCurve": 4,
     "hpBase": 1960,
@@ -8425,12 +8221,12 @@
     "atkBase": 1499,
     "atkMax": 8996,
     "np": [
-      "無限の剣製 E～A"
+      "アンリミテッド・ロストワークス E～A",
+      "アンリミテッド・ロストワークス E～A"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 4,
@@ -8464,12 +8260,12 @@
   "158": {
     "uid": 1100500,
     "id": 158,
-    "name": "ヘシアン・ロボ",
+    "name": "Hessian Lobo",
     "classId": 11,
-    "gender": "男性",
-    "attribute": "地",
-    "personality": "惡",
-    "policy": "混沌",
+    "gender": "Male",
+    "attribute": "Earth",
+    "personality": "Evil",
+    "policy": "Chaotic",
     "cost": 12,
     "expCurve": 14,
     "hpBase": 1591,
@@ -8477,15 +8273,14 @@
     "atkBase": 1771,
     "atkMax": 10628,
     "np": [
-      "遥かなる者への斬罪 C"
+      "フリーレン・シャルフリヒター C"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      "猛獸"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Beast"
     ],
     "hits": {
       "Arts": 2,
@@ -8520,12 +8315,12 @@
   "159": {
     "uid": 602600,
     "id": 159,
-    "name": "燕青",
+    "name": "Yan Qing",
     "classId": 6,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "惡",
-    "policy": "混沌",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Evil",
+    "policy": "Chaotic",
     "cost": 12,
     "expCurve": 9,
     "hpBase": 1862,
@@ -8533,13 +8328,12 @@
     "atkBase": 1443,
     "atkMax": 8661,
     "np": [
-      "十面埋伏・無影の如く A"
+      "じゅうめんまいふく・むえいのごとく A"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "愛人"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Brynhildr's Beloved"
     ],
     "hits": {
       "Arts": 3,
@@ -8573,12 +8367,12 @@
   "160": {
     "uid": 102900,
     "id": 160,
-    "name": "アーサー・ペンドラゴン〔プロトタイプ〕",
+    "name": "Arthur Pendragon (Prototype)",
     "classId": 1,
-    "gender": "男性",
-    "attribute": "地",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Male",
+    "attribute": "Earth",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 16,
     "expCurve": 5,
     "hpBase": 2049,
@@ -8586,20 +8380,18 @@
     "atkBase": 1926,
     "atkMax": 12465,
     "np": [
-      "約束された勝利の剣 EX"
+      "エクスカリバー EX"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "龍",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      null,
-      "亞瑟",
-      "愛人",
-      "王"
+      "Riding",
+      "Humanoid",
+      "Dragon",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Altria",
+      "Brynhildr's Beloved",
+      "Soverign"
     ],
     "hits": {
       "Arts": 2,
@@ -8633,12 +8425,12 @@
   "161": {
     "uid": 702500,
     "id": 161,
-    "name": "土方歳三",
+    "name": "Hijikata Toshizo",
     "classId": 7,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "惡",
-    "policy": "秩序",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Evil",
+    "policy": "Order",
     "cost": 16,
     "expCurve": 5,
     "hpBase": 1764,
@@ -8646,12 +8438,11 @@
     "atkBase": 1868,
     "atkMax": 12089,
     "np": [
-      "不滅の誠 C+"
+      "しんせんぐみ C+"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 2,
@@ -8684,12 +8475,12 @@
   "162": {
     "uid": 702600,
     "id": 162,
-    "name": "茶々",
+    "name": "Chacha",
     "classId": 7,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "中庸",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Neutral",
+    "policy": "Chaotic",
     "cost": 12,
     "expCurve": 24,
     "hpBase": 1764,
@@ -8697,12 +8488,11 @@
     "atkBase": 1490,
     "atkMax": 8945,
     "np": [
-      "絢爛魔界日輪城 C"
+      "けんらんまかいにちりんじょう C"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 2,
@@ -8735,12 +8525,12 @@
   "163": {
     "uid": 1000200,
     "id": 163,
-    "name": "メルトリリス",
+    "name": "Meltryllis",
     "classId": 10,
-    "gender": "女性",
-    "attribute": "地",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Female",
+    "attribute": "Earth",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 16,
     "expCurve": 5,
     "hpBase": 1965,
@@ -8748,17 +8538,15 @@
     "atkBase": 1807,
     "atkMax": 11692,
     "np": [
-      "弁財天五弦琵琶 EX"
+      "サラスヴァティー・メルトアウト EX"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Riding",
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 2,
@@ -8796,12 +8584,12 @@
   "164": {
     "uid": 1000100,
     "id": 164,
-    "name": "パッションリップ",
+    "name": "Passionlip",
     "classId": 10,
-    "gender": "女性",
-    "attribute": "地",
-    "personality": "中庸",
-    "policy": "秩序",
+    "gender": "Female",
+    "attribute": "Earth",
+    "personality": "Neutral",
+    "policy": "Order",
     "cost": 12,
     "expCurve": 24,
     "hpBase": 1744,
@@ -8809,16 +8597,14 @@
     "atkBase": 1716,
     "atkMax": 10299,
     "np": [
-      "死が二人を別離つとも C"
+      "ブリュンヒルデ・ロマンシア C"
     ],
     "traits": [
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 3,
@@ -8856,12 +8642,12 @@
   "165": {
     "uid": 103000,
     "id": 165,
-    "name": "鈴鹿御前",
+    "name": "Suzuka Gozen",
     "classId": 1,
-    "gender": "女性",
-    "attribute": "天",
-    "personality": "惡",
-    "policy": "中立",
+    "gender": "Female",
+    "attribute": "Sky",
+    "personality": "Evil",
+    "policy": "Neutral",
     "cost": 12,
     "expCurve": 29,
     "hpBase": 1880,
@@ -8869,18 +8655,15 @@
     "atkBase": 1590,
     "atkMax": 9544,
     "np": [
-      "天鬼雨 B+"
+      "てんきあめ B+"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      null
+      "Riding",
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 3,
@@ -8915,12 +8698,12 @@
   "166": {
     "uid": 2300100,
     "id": 166,
-    "name": "ＢＢ",
+    "name": "BB",
     "classId": 23,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "善",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Lawful",
+    "policy": "Chaotic",
     "cost": 12,
     "expCurve": 4,
     "hpBase": 2182,
@@ -8928,12 +8711,11 @@
     "atkBase": 1366,
     "atkMax": 8197,
     "np": [
-      "Ｃ.Ｃ.Ｃ. A"
+      "カースド・キューピッド・クレンザー A"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 3,
@@ -8968,12 +8750,12 @@
   "167": {
     "uid": 1000300,
     "id": 167,
-    "name": "殺生院キアラ",
+    "name": "Sessyoin Kiara",
     "classId": 10,
-    "gender": "女性",
-    "attribute": "獸",
-    "personality": "惡",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Beast",
+    "personality": "Evil",
+    "policy": "Chaotic",
     "cost": 16,
     "expCurve": 15,
     "hpBase": 2142,
@@ -8981,12 +8763,11 @@
     "atkBase": 1803,
     "atkMax": 11668,
     "np": [
-      "快楽天・胎蔵曼荼羅 EX"
+      "アミダアミデュラ・ヘブンズホール EX"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 3,
@@ -9023,12 +8804,12 @@
   "169": {
     "uid": 503000,
     "id": 169,
-    "name": "シェヘラザード",
+    "name": "Scheherazade",
     "classId": 5,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "中庸",
-    "policy": "秩序",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Neutral",
+    "policy": "Order",
     "cost": 16,
     "expCurve": 30,
     "hpBase": 2324,
@@ -9036,15 +8817,14 @@
     "atkBase": 1423,
     "atkMax": 9212,
     "np": [
-      "？？？ ？",
-      "千夜一夜物語 EX",
-      "？？？ ？",
-      "千夜一夜物語 EX"
+      " ？",
+      "アルフ・ライラ・ワ・ライラ EX",
+      " ？",
+      "アルフ・ライラ・ワ・ライラ EX"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 3,
@@ -9078,12 +8858,12 @@
   "170": {
     "uid": 602700,
     "id": 170,
-    "name": "武則天",
+    "name": "Wu Zetian",
     "classId": 6,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "惡",
-    "policy": "秩序",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Evil",
+    "policy": "Order",
     "cost": 12,
     "expCurve": 9,
     "hpBase": 1750,
@@ -9091,14 +8871,13 @@
     "atkBase": 1496,
     "atkMax": 8981,
     "np": [
-      "？？？ ？",
-      "告密羅織経 B"
+      " ？",
+      "こくみつらしょくけい B"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "王"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Soverign"
     ],
     "hits": {
       "Arts": 3,
@@ -9131,12 +8910,12 @@
   "171": {
     "uid": 702700,
     "id": 171,
-    "name": "ペンテシレイア",
+    "name": "Penthesilea",
     "classId": 7,
-    "gender": "女性",
-    "attribute": "地",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Female",
+    "attribute": "Earth",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 12,
     "expCurve": 4,
     "hpBase": 1628,
@@ -9144,18 +8923,16 @@
     "atkBase": 1750,
     "atkMax": 10502,
     "np": [
-      "？？？ ？",
-      "我が瞋恚にて果てよ英雄 B"
+      " ？",
+      "アウトレイジ・アマゾーン B"
     ],
     "traits": [
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      "王"
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Soverign"
     ],
     "hits": {
       "Arts": 2,
@@ -9189,12 +8966,12 @@
   "172": {
     "uid": 402500,
     "id": 172,
-    "name": "クリストファー・コロンブス",
+    "name": "Christopher Columbus",
     "classId": 4,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "惡",
-    "policy": "中立",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Evil",
+    "policy": "Neutral",
     "cost": 7,
     "expCurve": 13,
     "hpBase": 1728,
@@ -9203,18 +8980,17 @@
     "atkMax": 6552,
     "np": [
       "？？？ ？",
-      "？？？ ？",
-      "新天地探索航 A",
-      "新天地探索航 A",
-      "？？？ ？",
-      "新天地探索航 A+",
-      "新天地探索航 A+"
+      " ？",
+      "サンタマリア・ドロップアンカー A",
+      "サンタマリア・ドロップアンカー A",
+      " ？",
+      "サンタマリア・ドロップアンカー A+",
+      "サンタマリア・ドロップアンカー A+"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Riding",
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 3,
@@ -9248,12 +9024,12 @@
   "173": {
     "uid": 900500,
     "id": 173,
-    "name": "シャーロック・ホームズ",
+    "name": "Sherlock Holmes",
     "classId": 9,
-    "gender": "男性",
-    "attribute": "星",
-    "personality": "善",
-    "policy": "中立",
+    "gender": "Male",
+    "attribute": "Star",
+    "personality": "Lawful",
+    "policy": "Neutral",
     "cost": 16,
     "expCurve": 5,
     "hpBase": 1960,
@@ -9261,11 +9037,10 @@
     "atkBase": 1776,
     "atkMax": 11495,
     "np": [
-      "初歩的なことだ、友よ B"
+      "エレメンタリー・マイ・ディア B"
     ],
     "traits": [
-      null,
-      "人型"
+      "Humanoid"
     ],
     "hits": {
       "Arts": 3,
@@ -9298,12 +9073,12 @@
   "174": {
     "uid": 702800,
     "id": 174,
-    "name": "ポール・バニヤン",
+    "name": "Paul Bunyan",
     "classId": 7,
-    "gender": "女性",
-    "attribute": "地",
-    "personality": "中庸",
-    "policy": "中立",
+    "gender": "Female",
+    "attribute": "Earth",
+    "personality": "Neutral",
+    "policy": "Neutral",
     "cost": 3,
     "expCurve": 6,
     "hpBase": 1239,
@@ -9311,14 +9086,13 @@
     "atkBase": 1099,
     "atkMax": 6044,
     "np": [
-      "驚くべき偉業 A"
+      "マーベラス・エクスプロイツ A"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 3,
@@ -9351,12 +9125,12 @@
   "175": {
     "uid": 503200,
     "id": 175,
-    "name": "ネロ・クラウディウス",
+    "name": "Nero Claudius",
     "classId": 5,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "夏",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Summer",
+    "policy": "Chaotic",
     "cost": 16,
     "expCurve": 15,
     "hpBase": 2007,
@@ -9364,16 +9138,15 @@
     "atkBase": 1677,
     "atkMax": 10857,
     "np": [
-      "誉れ歌う黄金劇場 A"
+      "ラウダレントゥム・ドムス・イルステリアス A"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "羅馬",
-      "阿爾托莉亞臉",
-      "被「天地乖離開辟之星」所剋",
-      "王"
+      "Riding",
+      "Humanoid",
+      "Roman",
+      "Saberface",
+      "Weak to Enuma Elish",
+      "Soverign"
     ],
     "hits": {
       "Arts": 6,
@@ -9408,12 +9181,12 @@
   "176": {
     "uid": 103100,
     "id": 176,
-    "name": "フランケンシュタイン",
+    "name": "Frankenstein",
     "classId": 1,
-    "gender": "女性",
-    "attribute": "地",
-    "personality": "夏",
-    "policy": "中立",
+    "gender": "Female",
+    "attribute": "Earth",
+    "personality": "Summer",
+    "policy": "Neutral",
     "cost": 12,
     "expCurve": 4,
     "hpBase": 1919,
@@ -9421,16 +9194,14 @@
     "atkBase": 1558,
     "atkMax": 9353,
     "np": [
-      "串刺の雷刃 Ｄ～Ｂ"
+      "スキュアド・プラズマブレイド Ｄ～Ｂ"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      null
+      "Riding",
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 4,
@@ -9465,12 +9236,12 @@
   "177": {
     "uid": 602800,
     "id": 177,
-    "name": "ニトクリス",
+    "name": "Nitocris",
     "classId": 6,
-    "gender": "女性",
-    "attribute": "天",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Female",
+    "attribute": "Sky",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 12,
     "expCurve": 9,
     "hpBase": 1843,
@@ -9478,17 +9249,15 @@
     "atkBase": 1468,
     "atkMax": 8812,
     "np": [
-      "穢れを漱げ、青く美しきナイル B"
+      "スネフェル・イオテル・ナイル B"
     ],
     "traits": [
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      "王"
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Soverign"
     ],
     "hits": {
       "Arts": 2,
@@ -9522,12 +9291,12 @@
   "178": {
     "uid": 702900,
     "id": 178,
-    "name": "織田信長",
+    "name": "Oda Nobunaga",
     "classId": 7,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "夏",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Summer",
+    "policy": "Chaotic",
     "cost": 12,
     "expCurve": 14,
     "hpBase": 1603,
@@ -9535,13 +9304,12 @@
     "atkBase": 1691,
     "atkMax": 10146,
     "np": [
-      "第六天魔王波旬～夏盛～ E～EX"
+      "ノブナガ・ＴＨＥ・ロックンロール E～EX"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "王"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Soverign"
     ],
     "hits": {
       "Arts": 2,
@@ -9574,12 +9342,12 @@
   "179": {
     "uid": 402700,
     "id": 179,
-    "name": "アルトリア・ペンドラゴン〔オルタ〕",
+    "name": "Altria Pendragon (Alter)",
     "classId": 4,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "惡",
-    "policy": "秩序",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Evil",
+    "policy": "Order",
     "cost": 16,
     "expCurve": 5,
     "hpBase": 2090,
@@ -9587,17 +9355,16 @@
     "atkBase": 1665,
     "atkMax": 10776,
     "np": [
-      "不撓燃えたつ勝利の剣 A"
+      "セクエンス・モルガン A"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "龍",
-      "阿爾托莉亞臉",
-      "被「天地乖離開辟之星」所剋",
-      "亞瑟",
-      "王"
+      "Riding",
+      "Humanoid",
+      "Dragon",
+      "Saberface",
+      "Weak to Enuma Elish",
+      "Altria",
+      "Soverign"
     ],
     "hits": {
       "Arts": 3,
@@ -9632,12 +9399,12 @@
   "180": {
     "uid": 202800,
     "id": 180,
-    "name": "エレナ・ブラヴァツキー",
+    "name": "Helena Blavatsky",
     "classId": 2,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "善",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Lawful",
+    "policy": "Chaotic",
     "cost": 12,
     "expCurve": 4,
     "hpBase": 1824,
@@ -9645,12 +9412,11 @@
     "atkBase": 1574,
     "atkMax": 9446,
     "np": [
-      "金星神・白銀円環 B+"
+      "サナト・クマラ・ホイール B+"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 5,
@@ -9684,12 +9450,12 @@
   "181": {
     "uid": 302900,
     "id": 181,
-    "name": "源頼光",
+    "name": "Minamoto-no-Raikou",
     "classId": 3,
-    "gender": "女性",
-    "attribute": "天",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Female",
+    "attribute": "Sky",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 12,
     "expCurve": 4,
     "hpBase": 1938,
@@ -9697,17 +9463,15 @@
     "atkBase": 1528,
     "atkMax": 9168,
     "np": [
-      "釈提桓因・金剛杵 A+"
+      "しゃくだいかんいん・こんごうしょ A+"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Riding",
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 4,
@@ -9743,12 +9507,12 @@
   "182": {
     "uid": 402600,
     "id": 182,
-    "name": "イシュタル",
+    "name": "Ishtar",
     "classId": 4,
-    "gender": "女性",
-    "attribute": "天",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Female",
+    "attribute": "Sky",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 12,
     "expCurve": 9,
     "hpBase": 1710,
@@ -9756,16 +9520,14 @@
     "atkBase": 1600,
     "atkMax": 9603,
     "np": [
-      "神峰天廻る明星の虹 EX"
+      "アンガルタ・セブンカラーズ EX"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋"
+      "Riding",
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant"
     ],
     "hits": {
       "Arts": 3,
@@ -9800,12 +9562,12 @@
   "183": {
     "uid": 303000,
     "id": 183,
-    "name": "パールヴァティー",
+    "name": "Parvati",
     "classId": 3,
-    "gender": "女性",
-    "attribute": "天",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Female",
+    "attribute": "Sky",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 12,
     "expCurve": 29,
     "hpBase": 2120,
@@ -9813,15 +9575,13 @@
     "atkBase": 1354,
     "atkMax": 8127,
     "np": [
-      "恋見てせざるは愛無きなり EX"
+      "トリシューラ・シャクティ EX"
     ],
     "traits": [
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋"
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant"
     ],
     "hits": {
       "Arts": 2,
@@ -9855,12 +9615,12 @@
   "184": {
     "uid": 202100,
     "id": 184,
-    "name": "巴御前",
+    "name": "Tomoe Gozen",
     "classId": 2,
-    "gender": "女性",
-    "attribute": "地",
-    "personality": "中庸",
-    "policy": "中立",
+    "gender": "Female",
+    "attribute": "Earth",
+    "personality": "Neutral",
+    "policy": "Neutral",
     "cost": 12,
     "expCurve": 14,
     "hpBase": 1728,
@@ -9868,16 +9628,15 @@
     "atkBase": 1657,
     "atkMax": 9946,
     "np": [
-      "？？？ ？",
-      "真言・聖観世音菩薩 B"
+      " ？",
+      "オン・アロリキヤ・ソワカ B"
     ],
     "traits": [
-      null,
-      "人型",
-      "魔性",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Humanoid",
+      "Demonic",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 2,
@@ -9912,12 +9671,12 @@
   "185": {
     "uid": 602900,
     "id": 185,
-    "name": "望月千代女",
+    "name": "Mochizuki Chiyome",
     "classId": 6,
-    "gender": "女性",
-    "attribute": "地",
-    "personality": "惡",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Earth",
+    "personality": "Evil",
+    "policy": "Chaotic",
     "cost": 12,
     "expCurve": 4,
     "hpBase": 1862,
@@ -9925,15 +9684,14 @@
     "atkBase": 1418,
     "atkMax": 8510,
     "np": [
-      "？？？ ？",
-      "口寄せ・伊吹大明神縁起 C"
+      " ？",
+      "くちよせ・いぶきだいみょうじんえんぎ C"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 2,
@@ -9966,12 +9724,12 @@
   "186": {
     "uid": 301400,
     "id": 186,
-    "name": "宝蔵院胤舜",
+    "name": "Houzouin Inshun",
     "classId": 3,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "中庸",
-    "policy": "中立",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Neutral",
+    "policy": "Neutral",
     "cost": 7,
     "expCurve": 8,
     "hpBase": 1799,
@@ -9979,13 +9737,12 @@
     "atkBase": 1261,
     "atkMax": 6791,
     "np": [
-      "朧裏月十一式 C"
+      "おぼろうらづきじゅういちしき C"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "愛人"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Brynhildr's Beloved"
     ],
     "hits": {
       "Arts": 2,
@@ -10018,12 +9775,12 @@
   "187": {
     "uid": 103200,
     "id": 187,
-    "name": "柳生但馬守宗矩",
+    "name": "Yagyuu Tajima-no-Kami Munenori",
     "classId": 1,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "中庸",
-    "policy": "秩序",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Neutral",
+    "policy": "Order",
     "cost": 12,
     "expCurve": 4,
     "hpBase": 1781,
@@ -10031,15 +9788,13 @@
     "atkBase": 1666,
     "atkMax": 9999,
     "np": [
-      "剣術無双・剣禅一如 A"
+      "けんじゅつむそう・けんぜんいちにょ A"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      null,
-      "愛人"
+      "Riding",
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Brynhildr's Beloved"
     ],
     "hits": {
       "Arts": 2,
@@ -10073,12 +9828,12 @@
   "188": {
     "uid": 603000,
     "id": 188,
-    "name": "加藤段蔵",
+    "name": "Katou Danzou",
     "classId": 6,
-    "gender": "女性",
-    "attribute": "地",
-    "personality": "中庸",
-    "policy": "中立",
+    "gender": "Female",
+    "attribute": "Earth",
+    "personality": "Neutral",
+    "policy": "Neutral",
     "cost": 12,
     "expCurve": 24,
     "hpBase": 1768,
@@ -10086,14 +9841,13 @@
     "atkBase": 1489,
     "atkMax": 8935,
     "np": [
-      "絡繰幻法・呑牛 C"
+      "からくりげんぽう・どんぎゅう C"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 3,
@@ -10126,12 +9880,12 @@
   "189": {
     "uid": 603100,
     "id": 189,
-    "name": "刑部姫",
+    "name": "Osakabe-hime",
     "classId": 6,
-    "gender": "女性",
-    "attribute": "地",
-    "personality": "中庸",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Earth",
+    "personality": "Neutral",
+    "policy": "Chaotic",
     "cost": 16,
     "expCurve": 5,
     "hpBase": 2027,
@@ -10139,16 +9893,14 @@
     "atkBase": 1672,
     "atkMax": 10824,
     "np": [
-      "白鷺城の百鬼八天堂様 A+"
+      "はくろじょうのひゃっきはちてんどうさま A+"
     ],
     "traits": [
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 2,
@@ -10183,12 +9935,12 @@
   "190": {
     "uid": 1000400,
     "id": 190,
-    "name": "メカエリチャン",
+    "name": "Mecha Eli-chan",
     "classId": 10,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 12,
     "expCurve": 4,
     "hpBase": 1744,
@@ -10196,12 +9948,11 @@
     "atkBase": 1666,
     "atkMax": 9997,
     "np": [
-      "鋼鉄天空魔嬢 B"
+      "ブレストゼロ・エリジェーベト B"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 3,
@@ -10235,12 +9986,12 @@
   "191": {
     "uid": 1000500,
     "id": 191,
-    "name": "メカエリチャンⅡ号機",
+    "name": "Mecha Eli-chan Mk. II",
     "classId": 10,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 12,
     "expCurve": 4,
     "hpBase": 1744,
@@ -10248,12 +9999,11 @@
     "atkBase": 1666,
     "atkMax": 9997,
     "np": [
-      "鋼鉄天空魔嬢 B"
+      "ブレストゼロ・エリジェーベト B"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 3,
@@ -10287,12 +10037,12 @@
   "192": {
     "uid": 503300,
     "id": 192,
-    "name": "キルケー",
+    "name": "Circe",
     "classId": 5,
-    "gender": "女性",
-    "attribute": "天",
-    "personality": "中庸",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Sky",
+    "personality": "Neutral",
+    "policy": "Chaotic",
     "cost": 12,
     "expCurve": 9,
     "hpBase": 1960,
@@ -10300,14 +10050,13 @@
     "atkBase": 1445,
     "atkMax": 8671,
     "np": [
-      "禁断なる狂宴 C"
+      "メタボ・ピグレッツ C"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 3,
@@ -10341,12 +10090,12 @@
   "193": {
     "uid": 303100,
     "id": 193,
-    "name": "哪吒",
+    "name": "Nezha",
     "classId": 3,
-    "gender": "女性",
-    "attribute": "天",
-    "personality": "善",
-    "policy": "中立",
+    "gender": "Female",
+    "attribute": "Sky",
+    "personality": "Lawful",
+    "policy": "Neutral",
     "cost": 12,
     "expCurve": 4,
     "hpBase": 1938,
@@ -10354,14 +10103,13 @@
     "atkBase": 1547,
     "atkMax": 9284,
     "np": [
-      "地飛爽霊 火尖槍 A"
+      "ちひそうれい かせんそう A"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 3,
@@ -10394,12 +10142,12 @@
   "194": {
     "uid": 503400,
     "id": 194,
-    "name": "シバの女王",
+    "name": "Queen of Sheba",
     "classId": 5,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "善",
-    "policy": "中立",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Lawful",
+    "policy": "Neutral",
     "cost": 12,
     "expCurve": 24,
     "hpBase": 1940,
@@ -10407,13 +10155,12 @@
     "atkBase": 1438,
     "atkMax": 8629,
     "np": [
-      "三つの謎かけ B"
+      "スリー・エニグマズ B"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "王"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Soverign"
     ],
     "hits": {
       "Arts": 3,
@@ -10447,12 +10194,12 @@
   "195": {
     "uid": 2500100,
     "id": 195,
-    "name": "アビゲイル・ウィリアムズ",
+    "name": "Abigail Williams",
     "classId": 25,
-    "gender": "女性",
-    "attribute": "地",
-    "personality": "惡",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Earth",
+    "personality": "Evil",
+    "policy": "Chaotic",
     "cost": 16,
     "expCurve": 30,
     "hpBase": 2019,
@@ -10460,15 +10207,13 @@
     "atkBase": 1870,
     "atkMax": 12100,
     "np": [
-      "光殻湛えし虚樹 EX"
+      "クリフォー・ライゾォム EX"
     ],
     "traits": [
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Humanoid",
+      "Divine",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 6,
@@ -10503,12 +10248,12 @@
   "196": {
     "uid": 303200,
     "id": 196,
-    "name": "エレシュキガル",
+    "name": "Ereshkigal",
     "classId": 3,
-    "gender": "女性",
-    "attribute": "地",
-    "personality": "惡",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Earth",
+    "personality": "Evil",
+    "policy": "Chaotic",
     "cost": 16,
     "expCurve": 30,
     "hpBase": 2356,
@@ -10516,16 +10261,14 @@
     "atkBase": 1598,
     "atkMax": 10343,
     "np": [
-      "霊峰踏抱く冥府の鞴 A"
+      "クル・キガル・イルカルラ A"
     ],
     "traits": [
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "王"
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Soverign"
     ],
     "hits": {
       "Arts": 6,
@@ -10560,12 +10303,12 @@
   "197": {
     "uid": 202200,
     "id": 197,
-    "name": "アルテラ・ザ・サン〔タ〕",
+    "name": "Altera the Sun (Ta)",
     "classId": 2,
-    "gender": "女性",
-    "attribute": "星",
-    "personality": "善",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Star",
+    "personality": "Lawful",
+    "policy": "Chaotic",
     "cost": 12,
     "expCurve": 4,
     "hpBase": 1862,
@@ -10573,15 +10316,13 @@
     "atkBase": 1626,
     "atkMax": 9759,
     "np": [
-      "聖夜の虹、軍神の剣 EX"
+      "キャンディスター・フォトン・レイ EX"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "神性",
-      null,
-      "王"
+      "Riding",
+      "Humanoid",
+      "Divine",
+      "Soverign"
     ],
     "hits": {
       "Arts": 3,
@@ -10617,12 +10358,12 @@
   "198": {
     "uid": 2500200,
     "id": 198,
-    "name": "葛飾北斎",
+    "name": "Katsushika Hokusai",
     "classId": 25,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "中庸",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Neutral",
+    "policy": "Chaotic",
     "cost": 16,
     "expCurve": 15,
     "hpBase": 1940,
@@ -10630,14 +10371,12 @@
     "atkBase": 1870,
     "atkMax": 12100,
     "np": [
-      "冨嶽三十六景 A"
+      "ふがくさんじゅうろっけい A"
     ],
     "traits": [
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 6,
@@ -10673,12 +10412,12 @@
   "199": {
     "uid": 603200,
     "id": 199,
-    "name": "セミラミス",
+    "name": "Semiramis",
     "classId": 6,
-    "gender": "女性",
-    "attribute": "地",
-    "personality": "惡",
-    "policy": "秩序",
+    "gender": "Female",
+    "attribute": "Earth",
+    "personality": "Evil",
+    "policy": "Order",
     "cost": 16,
     "expCurve": 15,
     "hpBase": 1945,
@@ -10686,17 +10425,15 @@
     "atkBase": 1747,
     "atkMax": 11309,
     "np": [
-      "虚栄の空中庭園 EX"
+      "ハンギングガーデンズ・オブ・バビロン EX"
     ],
     "traits": [
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      "王"
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Soverign"
     ],
     "hits": {
       "Arts": 4,
@@ -10732,12 +10469,12 @@
   "200": {
     "uid": 202900,
     "id": 200,
-    "name": "浅上藤乃",
+    "name": "Asagami Fujino",
     "classId": 2,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "惡",
-    "policy": "秩序",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Evil",
+    "policy": "Order",
     "cost": 12,
     "expCurve": 9,
     "hpBase": 1764,
@@ -10745,11 +10482,10 @@
     "atkBase": 1716,
     "atkMax": 10299,
     "np": [
-      "唯識・歪曲の魔眼 EX"
+      "ゆいしき・わいきょくのまがん EX"
     ],
     "traits": [
-      null,
-      "人型"
+      "Humanoid"
     ],
     "hits": {
       "Arts": 3,
@@ -10784,12 +10520,12 @@
   "201": {
     "uid": 503500,
     "id": 201,
-    "name": "アナスタシア",
+    "name": "Anastasia",
     "classId": 5,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "中庸",
-    "policy": "中立",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Neutral",
+    "policy": "Neutral",
     "cost": 16,
     "expCurve": 15,
     "hpBase": 2091,
@@ -10797,12 +10533,11 @@
     "atkBase": 1629,
     "atkMax": 10546,
     "np": [
-      "疾走・精霊眼球 EX"
+      "ヴィイ・ヴィイ・ヴィイ EX"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 3,
@@ -10836,12 +10571,12 @@
   "202": {
     "uid": 703000,
     "id": 202,
-    "name": "アタランテ〔オルタ〕",
+    "name": "Atalante (Alter)",
     "classId": 7,
-    "gender": "女性",
-    "attribute": "地",
-    "personality": "惡",
-    "policy": "混沌",
+    "gender": "Female",
+    "attribute": "Earth",
+    "personality": "Evil",
+    "policy": "Chaotic",
     "cost": 12,
     "expCurve": 4,
     "hpBase": 1701,
@@ -10849,15 +10584,14 @@
     "atkBase": 1634,
     "atkMax": 9806,
     "np": [
-      "闇天蝕射 A"
+      "タウロポロス・スキア・セルモクラスィア A"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      "猛獸"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Beast"
     ],
     "hits": {
       "Arts": 2,
@@ -10891,12 +10625,12 @@
   "203": {
     "uid": 503600,
     "id": 203,
-    "name": "アヴィケブロン",
+    "name": "Avicebron",
     "classId": 5,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "中庸",
-    "policy": "秩序",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Neutral",
+    "policy": "Order",
     "cost": 7,
     "expCurve": 13,
     "hpBase": 1796,
@@ -10904,12 +10638,11 @@
     "atkBase": 1184,
     "atkMax": 6376,
     "np": [
-      "王冠：叡智の光 A+"
+      "ゴーレム・ケテルマルクト A+"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 2,
@@ -10943,12 +10676,12 @@
   "204": {
     "uid": 1100600,
     "id": 204,
-    "name": "アントニオ・サリエリ",
+    "name": "Antonio Salieri",
     "classId": 11,
-    "gender": "男性",
-    "attribute": "地",
-    "personality": "惡",
-    "policy": "混沌",
+    "gender": "Male",
+    "attribute": "Earth",
+    "personality": "Evil",
+    "policy": "Chaotic",
     "cost": 7,
     "expCurve": 3,
     "hpBase": 1411,
@@ -10956,15 +10689,14 @@
     "atkBase": 1509,
     "atkMax": 8125,
     "np": [
-      "至高の神よ、我を憐れみたまえ C"
+      "ディオ・サンティシモ・ミゼルコディア・ディ・ミ C"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      "愛人"
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Brynhildr's Beloved"
     ],
     "hits": {
       "Arts": 2,
@@ -10999,12 +10731,12 @@
   "205": {
     "uid": 402800,
     "id": 205,
-    "name": "イヴァン雷帝",
+    "name": "Ivan the Terrible",
     "classId": 4,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "惡",
-    "policy": "秩序",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Evil",
+    "policy": "Order",
     "cost": 16,
     "expCurve": 10,
     "hpBase": 1948,
@@ -11012,15 +10744,14 @@
     "atkBase": 1795,
     "atkMax": 11619,
     "np": [
-      "我が旅路に従え獣 A+"
+      "ズヴェーリ・クレースニーホッド A+"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋",
-      "猛獸",
-      "王"
+      "Riding",
+      "Humanoid",
+      "Weak to Enuma Elish",
+      "Beast",
+      "Soverign"
     ],
     "hits": {
       "Arts": 3,
@@ -11054,12 +10785,12 @@
   "206": {
     "uid": 402900,
     "id": 206,
-    "name": "アキレウス",
+    "name": "Achilleus",
     "classId": 4,
-    "gender": "男性",
-    "attribute": "地",
-    "personality": "中庸",
-    "policy": "秩序",
+    "gender": "Male",
+    "attribute": "Earth",
+    "personality": "Neutral",
+    "policy": "Order",
     "cost": 16,
     "expCurve": 10,
     "hpBase": 1938,
@@ -11067,19 +10798,17 @@
     "atkBase": 1836,
     "atkMax": 11883,
     "np": [
-      "疾風怒濤の不死戦車 A"
+      "トロイアス・トラゴーイディア A"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      "愛人",
-      "希臘神話系男性"
+      "Riding",
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Brynhildr's Beloved",
+      "Greek Mythology Males"
     ],
     "hits": {
       "Arts": 3,
@@ -11114,12 +10843,12 @@
   "207": {
     "uid": 203000,
     "id": 207,
-    "name": "ケイローン",
+    "name": "Cheiron",
     "classId": 2,
-    "gender": "男性",
-    "attribute": "天",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Male",
+    "attribute": "Sky",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 12,
     "expCurve": 9,
     "hpBase": 1960,
@@ -11127,17 +10856,15 @@
     "atkBase": 1549,
     "atkMax": 9294,
     "np": [
-      "天蠍一射 A"
+      "アンタレス・スナイプ A"
     ],
     "traits": [
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      "希臘神話系男性"
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Greek Mythology Males"
     ],
     "hits": {
       "Arts": 3,
@@ -11172,12 +10899,12 @@
   "208": {
     "uid": 503800,
     "id": 208,
-    "name": "ジーク",
+    "name": "Sieg",
     "classId": 5,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "善",
-    "policy": "中立",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Lawful",
+    "policy": "Neutral",
     "cost": 12,
     "expCurve": 4,
     "hpBase": 1806,
@@ -11185,13 +10912,12 @@
     "atkBase": 1399,
     "atkMax": 8394,
     "np": [
-      "灼熱竜息・万地融解 EX"
+      "アカフィローガ・アルグリーズ EX"
     ],
     "traits": [
-      null,
-      "人型",
-      "龍",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Dragon",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 2,
@@ -11225,12 +10951,12 @@
   "209": {
     "uid": 1000700,
     "id": 209,
-    "name": "沖田総司〔オルタ〕",
+    "name": "Okita Souji (Alter)",
     "classId": 10,
-    "gender": "女性",
-    "attribute": "人",
-    "personality": "中庸",
-    "policy": "中立",
+    "gender": "Female",
+    "attribute": "Man",
+    "personality": "Neutral",
+    "policy": "Neutral",
     "cost": 16,
     "expCurve": 15,
     "hpBase": 1862,
@@ -11238,14 +10964,13 @@
     "atkBase": 1926,
     "atkMax": 12465,
     "np": [
-      "絶剱・無穹三段 A"
+      "ぜっけん・むきゅうさんだん A"
     ],
     "traits": [
-      null,
-      "人型",
-      "阿爾托莉亞臉",
-      "被「天地乖離開辟之星」所剋",
-      "愛人"
+      "Humanoid",
+      "Saberface",
+      "Weak to Enuma Elish",
+      "Brynhildr's Beloved"
     ],
     "hits": {
       "Arts": 3,
@@ -11279,12 +11004,12 @@
   "210": {
     "uid": 603300,
     "id": 210,
-    "name": "岡田以蔵",
+    "name": "Okada Izou",
     "classId": 6,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "惡",
-    "policy": "中立",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Evil",
+    "policy": "Neutral",
     "cost": 7,
     "expCurve": 8,
     "hpBase": 1592,
@@ -11292,12 +11017,11 @@
     "atkBase": 1277,
     "atkMax": 6879,
     "np": [
-      "始末剣 なし"
+      "しまつけん なし"
     ],
     "traits": [
-      null,
-      "人型",
-      "被「天地乖離開辟之星」所剋"
+      "Humanoid",
+      "Weak to Enuma Elish"
     ],
     "hits": {
       "Arts": 2,
@@ -11330,12 +11054,12 @@
   "211": {
     "uid": 403000,
     "id": 211,
-    "name": "坂本龍馬",
+    "name": "Sakamoto Ryouma",
     "classId": 4,
-    "gender": "男性",
-    "attribute": "人",
-    "personality": "中庸",
-    "policy": "中立",
+    "gender": "Male",
+    "attribute": "Man",
+    "personality": "Neutral",
+    "policy": "Neutral",
     "cost": 12,
     "expCurve": 4,
     "hpBase": 1900,
@@ -11343,16 +11067,14 @@
     "atkBase": 1425,
     "atkMax": 8555,
     "np": [
-      "天駆ける竜が如く EX"
+      "あまかけるりゅうがごとく EX"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "愛人"
+      "Riding",
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Brynhildr's Beloved"
     ],
     "hits": {
       "Arts": 3,
@@ -11387,12 +11109,12 @@
   "212": {
     "uid": 203100,
     "id": 212,
-    "name": "ナポレオン",
+    "name": "Napoleon",
     "classId": 2,
-    "gender": "男性",
-    "attribute": "星",
-    "personality": "善",
-    "policy": "中立",
+    "gender": "Male",
+    "attribute": "Star",
+    "personality": "Lawful",
+    "policy": "Neutral",
     "cost": 16,
     "expCurve": 5,
     "hpBase": 1920,
@@ -11400,13 +11122,12 @@
     "atkBase": 1859,
     "atkMax": 12033,
     "np": [
-      "凱旋を高らかに告げる虹弓 A"
+      "アルク・ドゥ・トリオンフ・ドゥ・レトワール A"
     ],
     "traits": [
-      null,
-      "人型",
-      "愛人",
-      "王"
+      "Humanoid",
+      "Brynhildr's Beloved",
+      "Soverign"
     ],
     "hits": {
       "Arts": 3,
@@ -11440,12 +11161,12 @@
   "213": {
     "uid": 103300,
     "id": 213,
-    "name": "シグルド",
+    "name": "Sigurd",
     "classId": 1,
-    "gender": "男性",
-    "attribute": "地",
-    "personality": "善",
-    "policy": "中立",
+    "gender": "Male",
+    "attribute": "Earth",
+    "personality": "Lawful",
+    "policy": "Neutral",
     "cost": 16,
     "expCurve": 15,
     "hpBase": 2049,
@@ -11453,20 +11174,17 @@
     "atkBase": 1926,
     "atkMax": 12465,
     "np": [
-      "壊劫の天輪 A+"
+      "ベルヴェルク・グラム A+"
     ],
     "traits": [
-      "騎乘",
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋",
-      null,
-      "龍",
-      "愛人"
+      "Riding",
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Dragon",
+      "Brynhildr's Beloved"
     ],
     "hits": {
       "Arts": 3,
@@ -11501,12 +11219,12 @@
   "214": {
     "uid": 303300,
     "id": 214,
-    "name": "ワルキューレ",
+    "name": "Walkure",
     "classId": 3,
-    "gender": "女性",
-    "attribute": "天",
-    "personality": "善",
-    "policy": "秩序",
+    "gender": "Female",
+    "attribute": "Sky",
+    "personality": "Lawful",
+    "policy": "Order",
     "cost": 12,
     "expCurve": 14,
     "hpBase": 2244,
@@ -11514,16 +11232,14 @@
     "atkBase": 1339,
     "atkMax": 8037,
     "np": [
-      "終末幻想・少女降臨 B"
+      "ラグナロク・リーヴスラシル B"
     ],
     "traits": [
-      null,
-      "人型",
-      "神性",
-      null,
-      "被「天地乖離開辟之星」所剋",
-      "被「人類神話・雷電降臨」所剋",
-      "被「神秘殺し」所剋"
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)"
     ],
     "hits": {
       "Arts": 2,
@@ -11552,6 +11268,62 @@
     ],
     "skill3": [
       "運命の機織り B"
+    ]
+  },
+  "215": {
+    "uid": 503900,
+    "id": 215,
+    "name": "Scathach=Skadi",
+    "classId": 5,
+    "gender": "Female",
+    "attribute": "Sky",
+    "personality": "Lawful",
+    "policy": "Chaotic",
+    "cost": 16,
+    "expCurve": 5,
+    "hpBase": 2112,
+    "hpMax": 14406,
+    "atkBase": 1661,
+    "atkMax": 10753,
+    "np": [
+      "ゲート・オブ・スカイ A+"
+    ],
+    "traits": [
+      "Humanoid",
+      "Divine",
+      "Weak to Enuma Elish",
+      "Sky or Earth Servant",
+      "Sky or Earth Servant (not Demi or Psuedo-Servant)",
+      "Soverign"
+    ],
+    "hits": {
+      "Arts": 3,
+      "Buster": 4,
+      "Quick": 4,
+      "Extra": 5
+    },
+    "deck": [
+      "Quick",
+      "Quick",
+      "Arts",
+      "Arts",
+      "Buster"
+    ],
+    "passives": [
+      "陣地作成 EX",
+      "道具作成 A",
+      "女神の神核 A"
+    ],
+    "npGainAtk": 0.0067,
+    "npGainDef": 0.03,
+    "skill1": [
+      "原初のルーン"
+    ],
+    "skill2": [
+      "凍える吹雪 B"
+    ],
+    "skill3": [
+      "大神の叡智 B+"
     ]
   }
 }

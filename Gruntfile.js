@@ -15,16 +15,16 @@ module.exports = function (grunt) {
     const vm = require('vm'),
       fs = require('fs'),
       readline = require('readline'),
-      src_path = '../fgo-vz/common/js/master.js';
+      src_path = 'fgo-vz/common/js/master.js';
     
     // Parse the raw data into something readable
     var sandbox = {
       master: {}
     }
     // these are necessary functions for the data file to load
-    vm.runInNewContext(fs.readFileSync('../fgo-vz/common/js/lz-string.min.js'), sandbox);
-    vm.runInNewContext(fs.readFileSync('../fgo-vz/common/js/sidebar.js'), sandbox);
-    vm.runInNewContext(fs.readFileSync('../fgo-vz/common/js/transData.js'), sandbox);
+    vm.runInNewContext(fs.readFileSync('fgo-vz/common/js/lz-string.min.js'), sandbox);
+    vm.runInNewContext(fs.readFileSync('fgo-vz/common/js/sidebar.js'), sandbox);
+    vm.runInNewContext(fs.readFileSync('fgo-vz/common/js/transData.js'), sandbox);
     var contents = fs.readFileSync(src_path);
     
     vm.runInNewContext(contents, sandbox);
@@ -37,7 +37,7 @@ module.exports = function (grunt) {
     fs.writeFileSync('raw/tdDetail.txt', JSON.stringify(sandbox.tdDetail, null, 2));
     fs.writeFileSync('raw/skDetail.txt', JSON.stringify(sandbox.skDetail, null, 2));
     
-    var extras = fs.readFileSync('../fgo-vz/common/js/svtData.js');
+    var extras = fs.readFileSync('fgo-vz/common/js/svtData.js');
     sandbox.sortByElmentNo = function () {
       
     }
@@ -197,7 +197,8 @@ module.exports = function (grunt) {
       for (var i = 0, l = ultList.length; i < l; i++) {
         if (ultList[i].id == ultId) {
           return {
-            name: getLocalName('np', ultList[i].name)+' '+ultList[i].rank,
+            name: getLocalName('np', ultList[i].ruby)+' '+ultList[i].rank,
+			longStr: getLocalName('np', ultList[i].name)
           };
         }
       }
@@ -301,7 +302,9 @@ module.exports = function (grunt) {
           if (traits[serv.individuality[j]] == undefined) {
             console.log("No trait with id "+serv.individuality[j]+" on servant "+serv.id+" found.");
           }
-          data.traits.push(getLocalName("traits", traits[serv.individuality[j]]));
+		  else {
+			data.traits.push(getLocalName("traits", traits[serv.individuality[j]]));
+		  }
         }
 
         for (j = 0, m = serv.cardIds.length; j < m; j++) {
