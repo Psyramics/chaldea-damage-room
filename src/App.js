@@ -157,7 +157,7 @@ class ServantDetail extends Component {
     this.props.onServantStatChanged(prop, e.target.value);
   }
   
-  selectablePower(prop) {
+  selectableStrength(prop) {
     const vals = this.props.servant.raw[prop.replace('str', '')];
     const str = vals[0];
     
@@ -167,7 +167,7 @@ class ServantDetail extends Component {
     else {
       const names = vals.map((n, i) => <option key={n} value={i}>{n}</option>);
       return (
-        <select name={ prop }> (names) </select>
+        <select name={ prop }> { names } </select>
       )
     }
   }
@@ -183,13 +183,13 @@ class ServantDetail extends Component {
             <div className="hp">HP: { this.props.servant.hp() } Fou: { this.props.servant.fouhp }<input type="range" min="0" max="990" step="10" onChange={ this.changeFouHP } value={ this.props.servant.fouhp } /> </div>
             <div className="atk">Atk: { this.props.servant.atk() } Fou: { this.props.servant.fouatk }<input type="range" min="0" max="990" step="10" onChange={ this.changeFouATK } value={ this.props.servant.fouatk } /> </div>
             <div className="np">
-              { this.selectablePower("npstr") } <br />
+              { this.selectableStrength("npstr") } <br />
               NP Level: { this.props.servant.nplvl } <input type="range" min="1" max="5" onChange={ this.changeNpLevel } value={ this.props.servant.nplvl } />
             </div>
             <div className="skillList">
-              <div className="skill">{ this.selectablePower("skill1str") }</div>
-              <div className="skill">{ this.selectablePower("skill2str") }</div>
-              <div className="skill">{ this.selectablePower("skill3str") }</div>
+              <div className="skill">{ this.selectableStrength("skill1str") <input type="range" min="1" max="10" onChange={ this.changeSkill1Level } value={ this.props.servant.skill1lvl } /></div>
+              <div className="skill">{ this.selectableStrength("skill2str") }</div>
+              <div className="skill">{ this.selectableStrength("skill3str") }</div>
             </div>
           </div>
           <div className="numbers">
